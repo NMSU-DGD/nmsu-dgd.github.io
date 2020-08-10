@@ -1,12 +1,12 @@
-#2020 - Fall
-##[Game Portfolio for NMSU Digital Game Design](/../index.md)
+# 2020 - Fall
+## [Game Portfolio for NMSU Digital Game Design](/../index.md)
 
 Projects are organized by team (plus an example project from Prof. Toups, who has not completed the logo assignment yet!). Each team has the animated gif of their logo, with links to each game's page. 
 
-##Contents
+## Contents
 - [PIxL Lab](#pixl-lab)
 
-###PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
+### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
  
 ![Animation of character jumping in a platformer game.](/logos/samusmove-jump_all_collisions.gif)
 
