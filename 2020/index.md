@@ -4,9 +4,7 @@
 Projects are organized by team (plus an example project from Prof. Toups, who has not completed the logo assignment yet!). Each team has the animated gif of their logo, with links to each game's page. 
 
 ## Contents
-[TOC]
-
-- [PIxL Lab](#pixl-lab)
+- [PIxL Lab](#pixl-lab---z-toups)
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
  
