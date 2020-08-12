@@ -8,7 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
  
-![Animation of character jumping in a platformer game.](/logos/pixl-logo_0.gif)
+![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
 [PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](/ztoups/picosweeperv1_0.html)
 
@@ -16,6 +16,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [Samus Movement Demo](/ztoups/samusmovev0_3.html) \| (no versions yet)
 
-![Animation of character jumping in a platformer game.](/logos/samusmove-jump_all_collisions.gif)
+![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
  
