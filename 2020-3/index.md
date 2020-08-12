@@ -8,7 +8,7 @@ Projects are organized by team (plus an example project from Prof. Toups, who ha
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
  
-![Animation of character jumping in a platformer game.](/logos/samusmove-jump_all_collisions.gif)
+![Animation of character jumping in a platformer game.](/logos/pixl-logo_0_.gif)
 
 [PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](/ztoups/picosweeperv1_0.html)
 
