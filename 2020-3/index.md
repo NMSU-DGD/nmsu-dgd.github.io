@@ -1,7 +1,7 @@
 # 2020 - Fall
 ## [Game Portfolio for NMSU Digital Game Design](/../index.md)
 
-Projects are organized by team (plus an example project from Prof. Toups, who has not completed the logo assignment yet!). Each team has the animated gif of their logo, with links to each game's page. 
+Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game. 
 
 ## Contents
 - [PIxL Lab](#pixl-lab---z-toups)
