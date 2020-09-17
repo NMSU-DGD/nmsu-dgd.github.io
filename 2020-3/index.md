@@ -18,4 +18,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
- ### 404 Not Found - Ammar ELWazir, Vensan Cabardo
+ ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
