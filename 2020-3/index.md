@@ -1,5 +1,6 @@
 # 2020 - Fall
 ## [Game Portfolio for NMSU Digital Game Design](/../index.md)
+### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
 
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game. 
 
