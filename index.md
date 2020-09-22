@@ -8,4 +8,4 @@ Years for which we have projects are listed below:
 
 * [2020 - Fall](/2020-3/index.md)
 
-### The Cone - ecdraayer, sabival89
+### The Cone - ecdraayer, mushfiqayon1, sabival89
