@@ -1,3 +1,4 @@
+### <The Cone> - <Erick Draayer>, <Valentine Aduaka>, <Khandker Islam>
 # Game Portfolio for NMSU Digital Game Design
 
 This page provides portfolio pages for projects developed in Prof. [Z Toups Dugas'](https://pixl.nmsu.edu/people/z) NMSU Digital Game Design course (C S 477 / 517). 
