@@ -18,6 +18,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
-### Tersis - Teammate 1, Smithsonian64, Tiare-A-C
+### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
  
