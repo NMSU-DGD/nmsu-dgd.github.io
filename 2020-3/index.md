@@ -1,14 +1,13 @@
 # 2020 - Fall
 ## [Game Portfolio for NMSU Digital Game Design](/../index.md)
-### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
 
-Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game. 
+Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
 - [PIxL Lab](#pixl-lab---z-toups)
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
- 
+
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
@@ -21,4 +20,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
+### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
  
+### Project Tanks - aj1337, FidelSoto-NMSU
+ 
+![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
+
+### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
