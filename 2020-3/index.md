@@ -18,6 +18,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
+### Four - andresvii, edwin710, torresmi
+
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
