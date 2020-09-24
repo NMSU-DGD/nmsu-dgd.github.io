@@ -18,6 +18,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
+### Tersis - Ayavar, Smithsonian64, Tiare-A-C
+
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
 ![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
@@ -34,4 +36,3 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
-
