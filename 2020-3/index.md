@@ -10,6 +10,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
+![Team KorokKidz Logo](/logos/korokLogo2.gif)
+
 [PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](/ztoups/picosweeperv1_0.html)
 
 ![Animation of blinking cursor on a grid with markers for revealed mines.](/ztoups/picosweeper-some_cleared.gif)
@@ -18,8 +20,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
- ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
+### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
  
- ### Project Tanks - aj1337, FidelSoto-NMSU
+### Project Tanks - aj1337, FidelSoto-NMSU
  
- ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
+![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
+
+### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
