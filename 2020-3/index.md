@@ -20,4 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
+![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
+
+
  
