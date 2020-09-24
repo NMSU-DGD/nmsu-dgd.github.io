@@ -19,5 +19,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
-
+![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
  
