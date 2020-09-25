@@ -39,4 +39,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
-![Tersis Team Logo v0.1](/logos/tersis0_1.gif)
+![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
