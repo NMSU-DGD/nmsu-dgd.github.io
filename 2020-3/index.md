@@ -5,7 +5,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 - [404 Not Found](#404-not-found---ammar-elwazir-vensan-cabardo-george-torres)
+- [Exemplar Games](#exemplar-games---kashkac-isaacapo-matthewhorrocks)
+- [Four](#four---andresvii-edwin710-torresmi)
+- [Korok Kidz](#korok-kidz---brianna-moffett-kami-otero-de-owens-samantha-turner)
 - [PIxL Lab](#pixl-lab---z-toups)
+- [Project Tanks](#project-tanks---aj1337-fidelsoto-nmsu)
+- [ScaleTippers](#scaletippers---erick-ortiz-benjamin-peaslee)
+- [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
 
