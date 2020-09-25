@@ -41,4 +41,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
+![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
+
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
