@@ -15,7 +15,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Four - andresvii, edwin710, torresmi
 
+![Four Studios Logo](/2020-3/logos/FourLogo.gif)
+
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
+
+### Four - andresvii, edwin710, torresmi
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
 
