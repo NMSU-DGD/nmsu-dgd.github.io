@@ -8,3 +8,5 @@ Information on how the site is structured, mostly for students working on it, ca
 Years for which we have projects are listed below:
 
 * [2020 - Fall](/2020-3/index.md)
+
+### The Cone - ecdraayer, mushfiqayon1, sabival89

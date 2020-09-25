@@ -4,7 +4,20 @@
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
+- [404 Not Found](#404-not-found---ammar-elwazir,-vensan-cabardo,-george-torres)
 - [PIxL Lab](#pixl-lab---z-toups)
+
+### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
+
+### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
+
+![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
+
+### Four - andresvii, edwin710, torresmi
+
+### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
+
+![Team KorokKidz Logo](/logos/korokLogo2.gif)
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
@@ -18,23 +31,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
-### Tersis - Ayavar, Smithsonian64, Tiare-A-C
-
-![Tersis Team Logo v0.1](/logos/tersis0_1.gif)
-
-### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
-
-![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
- 
-### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
-
-
-### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
-
-![Team KorokKidz Logo](/logos/korokLogo2.gif)
-
 ### Project Tanks - aj1337, FidelSoto-NMSU
  
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
+
+### Tersis - Ayavar, Smithsonian64, Tiare-A-C
+
+![Tersis Team Logo v0.1](/logos/tersis0_1.gif)
