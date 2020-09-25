@@ -8,6 +8,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [PIxL Lab](#pixl-lab---z-toups)
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
+
+![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
  
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
