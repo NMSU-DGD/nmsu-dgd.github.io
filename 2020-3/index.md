@@ -19,6 +19,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
 
 ### Four - andresvii, edwin710, torresmi
+![Four Studios Logo](/2020-3/logos/FourLogo.gif)
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
