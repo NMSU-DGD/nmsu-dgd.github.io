@@ -4,7 +4,7 @@
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
-- [404 Not Found](#404-not-found---ammar-elwazir,-vensan-cabardo,-george-torres)
+- [404 Not Found](#404-not-found---ammar-elwazir-vensan-cabardo-george-torres)
 - [PIxL Lab](#pixl-lab---z-toups)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
@@ -18,8 +18,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Four Studios Logo](/2020-3/logos/FourLogo.gif)
 
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
-
-### Four - andresvii, edwin710, torresmi
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
 
@@ -46,3 +44,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
+
+### The Cone - ecdraayer, mushfiqayon1, sabival89
