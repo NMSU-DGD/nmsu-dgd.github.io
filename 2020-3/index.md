@@ -33,11 +33,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](https://github.com/toupsz/pico-8/releases/tag/v1.0)
 
-![Animation of blinking cursor on a grid with markers for revealed mines.](/ztoups/picosweeper-some_cleared.gif)
+![Animation of blinking cursor on a grid with markers for revealed mines.](/pixl-lab/picosweeper-some_cleared.gif)
 
-[Samus Movement Demo](/ztoups/samusmovev0_3.html) \| (no versions yet)
+[Samus Movement Demo](/pixl-lab/samusmovev0_3.html) \| (no versions yet)
 
-![Animation of character jumping in a platformer game.](/ztoups/samusmove-jump_all_collisions.gif)
+![Animation of character jumping in a platformer game.](/pixl-lab/samusmove-jump_all_collisions.gif)
 
 ### Project Tanks - aj1337, FidelSoto-NMSU
  
