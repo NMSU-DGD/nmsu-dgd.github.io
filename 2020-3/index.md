@@ -31,7 +31,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
-[PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](/ztoups/picosweeperv1_0.html)
+[PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](https://github.com/toupsz/pico-8/releases/tag/v1.0)
 
 ![Animation of blinking cursor on a grid with markers for revealed mines.](/ztoups/picosweeper-some_cleared.gif)
 
