@@ -57,6 +57,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
+![You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/logos/lightningGameST.gif) \| [v0.3](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.3)
+
+
+
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
