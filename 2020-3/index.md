@@ -43,7 +43,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
-![You're a lowly peasent that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/logos/lightningGameST.gif)
+![You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/logos/lightningGameST.gif)
 
 
 
