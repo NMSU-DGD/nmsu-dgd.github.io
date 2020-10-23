@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
 
-![1st game most-recent-version playable link](https://github.com/isaacapo/Exemplar_games/blob/master/lightning-game_0.gif)
+![1st game most-recent-version playable link](https://github.com/isaacapo/Exemplar_games/blob/master/lightning-game.html)
 ![Playable game link](https://github.com/isaacapo/Exemplar_games/blob/master/lightning-game.p8.png)
 
 Our game is an addictive twist to the side-scrolling genre. Featuring a fiery dinosaur trying to run for her life, our game provides hours of fun through random generation of bitchin' birds and condemning cacti. You must survive seventy seconds to win the game by jumping over these monstrosities. Good luck out there.
