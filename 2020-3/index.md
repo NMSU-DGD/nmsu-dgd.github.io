@@ -28,6 +28,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
 
+![1st game most-recent-version playable link](https://github.com/isaacapo/Exemplar_games/blob/master/lightning-game.html)
+![Playable game link](/2020-3/Exemplar-Games/lightning-game.html)
+
+Our game is an addictive twist to the side-scrolling genre. Featuring a fiery dinosaur trying to run for her life, our game provides hours of fun through random generation of bitchin' birds and condemning cacti. You must survive seventy seconds to win the game by jumping over these monstrosities. Good luck out there. 
+
 ### Four - andresvii, edwin710, torresmi
 
 ![Four Studios Logo](/2020-3/logos/FourLogo.gif)
@@ -73,10 +78,11 @@ Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
-Teaser Gif for Lightning Game(/2020-3/Scaletippers/scaletippers_latest_0.gif) \| [Release v0.4](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.4)
+Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html) \| [v0.4](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.4)
 
-Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html)
 You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?
+
+![Teaser Gif for Lightning Game](/2020-3/Scaletippers/scaletippers_latest_0.gif) 
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
