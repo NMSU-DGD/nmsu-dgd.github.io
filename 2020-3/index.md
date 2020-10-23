@@ -28,4 +28,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
-![Lightning Game Teaser](/logos/lightning.gif)
+![Lightning Game Teaser - Help little Froggo grab some lunch, Froggo is quite famished.](/logos/lightning.gif)
