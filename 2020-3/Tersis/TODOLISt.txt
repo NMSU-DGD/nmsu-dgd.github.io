@@ -1,7 +1,0 @@
-load and run lighting game in pico8
-press f2 to make a label
-in pico8 command do "export filename.html"
-add the .html and .js file to Tersis folder
-add the gif with the flash_game.gif name to Tersis folder
-change links for game in index page
-delete todo list
