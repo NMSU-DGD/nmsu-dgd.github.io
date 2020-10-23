@@ -42,7 +42,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
-![Play the odds! Which town can you rob for the most money? Or which town will rob you?!](/logos/lightningGame.gif)
+
+![You're a lowly peasent that saved up just enough money to begin tradeing. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/logos/lightningGame.gif)
 
 
 
