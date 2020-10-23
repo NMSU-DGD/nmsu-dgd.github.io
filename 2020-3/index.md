@@ -14,6 +14,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
+Error 404 Team Name Not Found Lightning Game \
+The link to a playable version of our lightning game is [here](https://ammarwa.github.io/404-Not-Found/Game/).
+
+![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/lightning-game-gifs/404TeamNameNotFound.gif)
+
+Our game is a platformer/shooter experience that assigns you the task of maneuvering around a tower and eliminating all the enemies. Run, jump, and shoot your way through the platforms, but be careful - missing your jump or dying to an enemy will bring you right back to the start again. As usual, you can use your gun to damage and kill enemies, but in this game the gun has an additional feature of building platforms for you to jump on and reach new heights - shoot a place on the wall and a platform will appear. In a fully-developed version of this game we would have additional obstacles and varying difficulties of enemies, as well as power ups to increase your jumping ability and the power of your gun.
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
@@ -40,7 +46,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of character jumping in a platformer game.](/pixl-lab/samusmove-jump_all_collisions.gif)
 
 ### Project Tanks - aj1337, FidelSoto-NMSU
- 
+
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
