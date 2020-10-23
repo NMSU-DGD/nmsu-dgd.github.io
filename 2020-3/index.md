@@ -44,7 +44,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
-![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif =128x128)
+<img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
 
 [PicoSweeper](/pixl-lab/picosweeperv1_0.html) \| [v1.0](https://github.com/toupsz/pico-8/releases/tag/v1.0)
 
