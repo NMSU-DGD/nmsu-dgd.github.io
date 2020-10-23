@@ -21,6 +21,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
 ![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
+![1st game most-recent-version playable link](https://github.com/isaacapo/Exemplar_games/blob/master/lightning-game_0.gif)
  
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
 
