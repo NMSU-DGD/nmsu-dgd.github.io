@@ -43,6 +43,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
  
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
+[Lightning Game Demo](/ProjectTanks/lightninggame.html) | [v0.2] (https://github.com/aj1337/Project-Tanks/releases/tag/v0.2)
+
+![Demo of our Lightning Game](/ProjectTanks/lightningGameDemo.gif)
+
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
