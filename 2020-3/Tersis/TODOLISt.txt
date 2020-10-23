@@ -1,0 +1,6 @@
+load and run lighting game
+press f2
+in pico8 command do "export filename.html"
+add the .html and .js file
+add the gif with the flash_game.gif name
+change links for game in index page
