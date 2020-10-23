@@ -40,7 +40,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
 
-![Lightning Game Teaser - Help little Froggo grab some lunch, Froggo is quite famished.](/logos/lightning.gif)
+![Lightning Game Teaser - Help little Froggo grab some lunch, Froggo is quite famished.](/logos/lightning.gif) \| [v.0.4](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.4)
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
