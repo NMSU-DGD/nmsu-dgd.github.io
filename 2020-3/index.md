@@ -79,3 +79,11 @@ Tersis Lighting Game - [Play](/2020-3/Tersis/lg.html) | [Release](https://github
 ![Tersis Lighting Game Preview](/2020-3/Tersis/flash_game.gif)
 
 ### The Cone - ecdraayer, mushfiqayon1, sabival89
+
+[Ninja Runner](/TheCone/ninjarunner.html) \| [v1.0](https://github.com/ecdraayer/TheConeGameProject/releases/tag/v1.0)
+
+![Animation of First Level of NinjaRunner](/TheCone/ninjarunner.gif)
+
+[Avarice Functional Prototype] \| [v0.7](https://github.com/ecdraayer/TheConeGameProject/releases/tag/v0.7)
+
+![Picture Showing Dungeon Generation and Monster Spawning](/TheCone/AvariceFP.png)
