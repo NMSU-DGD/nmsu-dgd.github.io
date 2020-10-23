@@ -88,7 +88,7 @@ You're a lowly peasant that saved up just enough money to begin trading. Can you
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
 
-[Orbit Battle](/2020-3/Tersis/lg.html) | [v0.11](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
+[Orbit Battle](/2020-3/Tersis/lg.html) \| [v0.11](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
 
 ![Match, attack, and movement preview of Orbit Battle](/2020-3/Tersis/flash_game.gif)
 
