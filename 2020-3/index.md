@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Screenshot of other world for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_2.png)
 
-[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/Game/) \| [v1.1](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
+[Lightning Game Demo](https://ammarwa.github.io/404-Not-Found/Game/) \| [v1.1](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
 
 ![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/lightning-game-gifs/404TeamNameNotFound.gif)
 
