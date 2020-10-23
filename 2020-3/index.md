@@ -81,9 +81,9 @@ Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html)
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
 
-Tersis Lighting Game - [Play](/2020-3/Tersis/lg.html) | [Release](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
+[Orbit Battle](/2020-3/Tersis/lg.html) | [v0.11](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
 
-![Tersis Lighting Game Preview](/2020-3/Tersis/flash_game.gif)
+![Match, attack, and movement preview of Orbit Battle](/2020-3/Tersis/flash_game.gif)
 
 ### The Cone - ecdraayer, mushfiqayon1, sabival89
 
