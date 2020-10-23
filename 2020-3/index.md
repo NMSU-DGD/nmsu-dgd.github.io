@@ -57,6 +57,10 @@ Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.
 
 ![Animation of character jumping in a platformer game.](/pixl-lab/samusmove-jump_all_collisions.gif)
 
+[PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
+
+(Animated GIF to come!)
+
 ### Project Tanks - aj1337, FidelSoto-NMSU
 
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
