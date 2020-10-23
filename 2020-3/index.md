@@ -10,7 +10,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
 
-![Team KorokKidz Logo](/logos/korokLogo2.gif)
+
 
 [PicoSweeper](/ztoups/picosweeperv1_0.html) \| [v1.0](/ztoups/picosweeperv1_0.html)
 
@@ -27,3 +27,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
+![Team KorokKidz Logo](/logos/korokLogo2.gif)
+![Lightning Game Teaser](/logos/lightning.gif)
