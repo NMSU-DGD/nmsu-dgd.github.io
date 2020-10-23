@@ -42,5 +42,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
+![Play the odds! Which town can you rob for the most money? Or which town will rob you?!](/logos/lightningGame.gif)
+
+
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
