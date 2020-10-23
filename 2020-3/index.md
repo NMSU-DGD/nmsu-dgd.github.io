@@ -14,6 +14,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
+[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/FPV1/) \| [v0.5](https://github.com/ammarwa/404-Not-Found/releases/tag/0.5)
+
+![Screenshot of scene for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_1.png)
+
+![Screenshot of other world for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_2.png)
+
+[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/Game/) \| [v1.1](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
+
+![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/lightning-game-gifs/404TeamNameNotFound.gif)
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
@@ -46,7 +55,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ![Animation of character jumping in a platformer game.](/pixl-lab/samusmove-jump_all_collisions.gif)
 
 ### Project Tanks - aj1337, FidelSoto-NMSU
- 
+
 ![Animation of Phases of Tank Firing](/logos/Project_Tanks_Logo.gif)
 
 [Lightning Game Demo](/ProjectTanks/lightninggame.html) \| [v0.2](https://github.com/aj1337/Project-Tanks/releases/tag/v0.2)
