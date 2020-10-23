@@ -8,3 +8,10 @@ Years for which we have projects are listed below:
 
 * [2020 - Fall](/2020-3/index.md)
 
+[Ninja Runner](ninjarunner.html) \| [v1.0](https://github.com/ecdraayer/TheConeGameProject/releases/tag/v1.0)
+
+![Animation of Playing Through the First Level](ninjarunner.gif)
+
+[Avarice - Functional Prototype] \| [v0.7](https://github.com/ecdraayer/TheConeGameProject/releases/tag/v0.7)
+
+![Screenshot of Dungeon Generation](AvariceFP.png)
