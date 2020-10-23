@@ -61,4 +61,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
 
+Tersis Lighting Game - [Play](/2020-3/Tersis/lg.html) | [Release](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
+
+![Tersis Lighting Game Preview](/2020-3/Tersis/flash_game.gif)
+
 ### The Cone - ecdraayer, mushfiqayon1, sabival89
