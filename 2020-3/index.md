@@ -14,8 +14,18 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
+Error 404 Team Name Not Found Parallel Functional Prototype 1 \
+The link to a playable version of our lightning game is [here](https://ammarwa.github.io/404-Not-Found/FPV1/).
+The link to our release is [here](https://github.com/ammarwa/404-Not-Found/releases/tag/0.5)
+
+![Screenshot of scene for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_1.png)
+
+![Screenshot of other world for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_2.png)
+
+
 Error 404 Team Name Not Found Lightning Game \
 The link to a playable version of our lightning game is [here](https://ammarwa.github.io/404-Not-Found/Game/).
+The link to our release is [here](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
 
 ![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/lightning-game-gifs/404TeamNameNotFound.gif)
 
