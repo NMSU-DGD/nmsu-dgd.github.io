@@ -43,8 +43,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
-![You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/logos/lightningGameST.gif) \| [v0.3](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.3)
+![You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?](/2020-3/Scaletippers/scaletippers_latest_0.gif) \| [v0.3](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.4)
 
-
+Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html)
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
