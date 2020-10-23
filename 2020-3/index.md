@@ -42,8 +42,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Lighting Game Preview](/2020-3/KorokKidz/froggolightning.gif)
 
-KorokKidz Lighting Game - [Play](/2020-3/KorokKidz/froggolightning.html) | [Release](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.4)
-![Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.](/logos/lightning.gif) \| [v.0.4](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.4)
+KorokKidz Lighting Game - [Play](/2020-3/KorokKidz/froggolightning.html) | [Release v.0.4](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.4)
+Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
