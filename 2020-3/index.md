@@ -73,10 +73,11 @@ Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
-Teaser Gif for Lightning Game(/2020-3/Scaletippers/scaletippers_latest_0.gif) \| [Release v0.4](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.4)
+Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html) \| [v0.4](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.4)
 
-Scaletippers Lighting Game - [Play](/2020-3/Scaletippers/scaletippers.html)
 You're a lowly peasant that saved up just enough money to begin trading. Can you make enough money to buy your own house? Or will bandits rob you of all you've worked for?
+
+![Teaser Gif for Lightning Game](/2020-3/Scaletippers/scaletippers_latest_0.gif) 
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
