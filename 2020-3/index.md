@@ -31,6 +31,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
 
+![Lightning Game Teaser - Help little Froggo grab some lunch, Froggo is quite famished.](/logos/lightning.gif)
+
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
 ![Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in.](/logos/pixl-logo_0.gif)
