@@ -14,22 +14,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
-Error 404 Team Name Not Found Parallel Functional Prototype 1 \
-The link to a playable version of our lightning game is [here](https://ammarwa.github.io/404-Not-Found/FPV1/).
-The link to our release is [here](https://github.com/ammarwa/404-Not-Found/releases/tag/0.5)
+[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/FPV1/) \| [v0.5](https://github.com/ammarwa/404-Not-Found/releases/tag/0.5)
 
 ![Screenshot of scene for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_1.png)
 
 ![Screenshot of other world for Parallel V1](/2020-3/functional-prototype-screenshots/FP_V1_2.png)
 
-
-Error 404 Team Name Not Found Lightning Game \
-The link to a playable version of our lightning game is [here](https://ammarwa.github.io/404-Not-Found/Game/).
-The link to our release is [here](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
+[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/Game/) \| [v1.1](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
 
 ![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/lightning-game-gifs/404TeamNameNotFound.gif)
-
-Our game is a platformer/shooter experience that assigns you the task of maneuvering around a tower and eliminating all the enemies. Run, jump, and shoot your way through the platforms, but be careful - missing your jump or dying to an enemy will bring you right back to the start again. As usual, you can use your gun to damage and kill enemies, but in this game the gun has an additional feature of building platforms for you to jump on and reach new heights - shoot a place on the wall and a platform will appear. In a fully-developed version of this game we would have additional obstacles and varying difficulties of enemies, as well as power ups to increase your jumping ability and the power of your gun.
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
