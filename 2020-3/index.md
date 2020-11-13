@@ -58,7 +58,7 @@ Our game is an addictive twist to the side-scrolling genre. Featuring a fiery di
 
 KorokKidz Lighting Game - [Play](/2020-3/KorokKidz/froggolightning.html) | [Release v.0.4](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.4)
 
-![FPv1 Preview](/2020-3/KorokKidz/fpv1p8.gif)
+![FPv1 Preview](/2020-3/KorokKidz/fpv1p8_2.gif)
 
 KorokKidz FPv1 Game: KoolKid'z Frog-tastic Adventure - [Play](/2020-3/KorokKidz/koolkid_froggo.html) | [Release v.0.5](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.5)
 
