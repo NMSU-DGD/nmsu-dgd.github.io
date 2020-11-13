@@ -46,6 +46,10 @@ Our game is an addictive twist to the side-scrolling genre. Featuring a fiery di
 
 ![Sniper Preview](/Four/SniperPreview.gif)
 
+[From Dark](/Four/fromdark.html) \| [v0.3](https://github.com/torresmi6/DGD-Team-Four/releases/tag/v0.3)
+
+![From Dark Prototype](/Four/fromdark_0.gif)
+
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
 
 ![Team KorokKidz Logo](/logos/korokLogo2.gif)
