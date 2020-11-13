@@ -75,6 +75,10 @@ Lightning Game - Help little Froggo grab some lunch, Froggo is quite famished.
 
 ![Demo of our Lightning Game](/ProjectTanks/lightningGameDemo.gif)
 
+[Prototype 1 Demo](/ProjectTanks/ProjectTanksPrototype1/project-tanks-prototype1.html) \| [v0.1](https://github.com/aj1337/Project-Tanks/releases/tag/FPv0.1)
+
+![Demo of our Prototype](/ProjectTanks/ProjectTanksPrototype1/project-tanks-prototype1.gif)
+
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
