@@ -89,9 +89,13 @@ You're a lowly peasant that saved up just enough money to begin trading. Can you
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
 
-[Orbit Battle](/2020-3/Tersis/lg.html) | [v0.11](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
+[Orbit Battle](/Tersis/lg.html) \| [v0.11](https://github.com/Ayavar/Tersis/releases/tag/v0.11)
 
-![Match, attack, and movement preview of Orbit Battle](/2020-3/Tersis/flash_game.gif)
+![Match, attack, and movement preview of Orbit Battle](/Tersis/flash_game.gif)
+
+[Tersis Main Game](/Tersis/MainGame/tersis_07.html) \| [v0.2](https://github.com/Ayavar/Tersis/releases/tag/v0.2)
+
+![Tersis Main Game gameplay preview](/Tersis/MainGame/tersis_07.gif)
 
 ### The Cone - ecdraayer, mushfiqayon1, sabival89
 
