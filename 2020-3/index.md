@@ -101,6 +101,8 @@ You're a lowly peasant that saved up just enough money to begin trading. Can you
 
 ![Teaser Gif for Lightning Game](/2020-3/Scaletippers/scaletippers_latest_0.gif) 
 
+Scaletippers functional prototype - (/2020-3/Scaletippers/scaletippers_latest_1.gif) \| [Release v0.5](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.5)
+
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
 ![Tersis Team Logo v0.1](/2020-3/logos/tersis0_1.gif)
