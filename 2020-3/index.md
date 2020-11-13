@@ -26,7 +26,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
-![Exemplar Games Logo](/2020-3/logos/Exemplar_Games_logo.gif)
+![Exemplar Games Logo gif](/2020-3/logos/Exemplar_Games_logo.gif)
+
+[Playable Atmos](/Exemplar-Games/atmos.html) \| [Release v0.01](https://github.com/isaacapo/Exemplar_games/releases/tag/v0.01)
+
+![Atmos GIF Preview](/Exemplar-Games/atmos_p8_0.gif)
 
 [Lightning Game](/Exemplar-Games/lightning-game.html) | [v0.2](https://github.com/isaacapo/Exemplar_games/releases/tag/v0.2)
 
