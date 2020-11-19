@@ -14,15 +14,25 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
-[Functional Prototype Demo](https://ammarwa.github.io/404-Not-Found/FPV1/) \| [v0.5](https://github.com/ammarwa/404-Not-Found/releases/tag/0.5)
+[Functional Prototype Demo 1](https://ammarwa.github.io/404-Not-Found/FPV1/) \| [v0.7](https://github.com/ammarwa/404-Not-Found/releases/tag/0.7)
+
+[Functional Prototype Demo 2](https://ammarwa.github.io/404-Not-Found/FPV1/) \| [v0.8](https://github.com/ammarwa/404-Not-Found/releases/tag/0.8)
+
 
 ![Screenshot of scene for Parallel V1](/2020-3/Error404/FP_V1_1.png)
 
 ![Screenshot of other world for Parallel V1](/2020-3/Error404/FP_V1_2.png)
 
+![Screenshot of scene for Start Menu](/2020-3/Error404/FP_V2_1.png)
+
+![Screenshot of the game play](/2020-3/Error404/FP_V2_2.png)
+
+
 [Lightning Game Demo](https://ammarwa.github.io/404-Not-Found/Game/) \| [v1.1](https://github.com/ammarwa/404-Not-Found/releases/tag/1.1)
 
 ![GIF of the gameplay of our lightning game, showing shooting and platform generation mechanics.](/2020-3/Error404/404TeamNameNotFound.gif)
+
+![Try the game online here](https://ammarwa.github.io/404-Not-Found/FPV2/)
 
 ### Exemplar Games - KashkaC, isaacapo, MatthewHorrocks
 
