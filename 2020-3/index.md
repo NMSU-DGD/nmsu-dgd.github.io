@@ -138,3 +138,7 @@ Conflict - [Play](/2020-3/Scaletippers/conflict.p8.html ) | [Release v.0.5](http
 [Avarice Functional Prototype] \| [v0.7](https://github.com/ecdraayer/TheConeGameProject/releases/tag/v0.7)
 
 ![Picture Showing Dungeon Generation and Monster Spawning](/TheCone/AvariceFP.png)
+
+[Avarice Functional Prototype] \| [v0.9.5](https://github.com/ecdraayer/TheConeGameProject/releases/tag/0.9.5)
+
+![Picture of Avarice Combat](/TheCone/AvariceCombat.png)
