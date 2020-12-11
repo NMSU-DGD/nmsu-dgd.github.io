@@ -38,15 +38,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Exemplar Games Logo gif](/2020-3/logos/Exemplar_Games_logo.gif)
 
-[Playable Atmos](/Exemplar-Games/atmos.html) \| [Release v0.01](https://github.com/isaacapo/Exemplar_games/releases/tag/v0.01)
+[Playable Atmos](/Exemplar_Games/atmos_current.html) \| [Release v1.00](https://github.com/isaacapo/Exemplar_games/releases/tag/v1.0)
 
-![Atmos GIF Preview](/Exemplar-Games/atmos_p8_0.gif)
-
-[Lightning Game](/Exemplar-Games/lightning-game.html) | [v0.2](https://github.com/isaacapo/Exemplar_games/releases/tag/v0.2)
-
-![Lightning game preview](/Exemplar-Games/lightning-game_0.gif)
-
-Our game is an addictive twist to the side-scrolling genre. Featuring a fiery dinosaur trying to run for her life, our game provides hours of fun through random generation of bitchin' birds and condemning cacti. You must survive seventy seconds to win the game by jumping over these monstrosities. Good luck out there. 
+![Atmos GIF Preview](/Exemplar_Games/atmos-play-gif.gif)
 
 ### Four - andresvii, edwin710, torresmi
 
