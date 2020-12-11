@@ -77,6 +77,13 @@ KorokKidz Lighting Game - [Play](/2020-3/KorokKidz/froggolightning.html) | [Rele
 KorokKidz FPv1 Game: KoolKid'z Frog-tastic Adventure - [Play](/2020-3/KorokKidz/koolkid_froggo.html) | [Release v.0.5](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v0.5)
 
 
+![FPv2 Preview](/2020-3/KorokKidz/kk_marbles_0.gif)
+
+KorokKidz Presents: KoolKidz Marble-ous Adventure - [Play](/2020-3/KorokKidz/kk_marbles.html) | [Release v.1.0](https://github.com/KamiOtero/Korok-Kidz/releases/tag/v1.0)
+
+
+
+
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
