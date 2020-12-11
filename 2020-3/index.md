@@ -36,9 +36,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Sniper Preview](/Four/SniperPreview.gif)
 
-[From Dark](/Four/fromdark.html) \| [v0.3](https://github.com/torresmi6/DGD-Team-Four/releases/tag/v0.3)
+[From Dark Prototype 1](/Four/fromdark.html) \| [v0.3](https://github.com/torresmi6/DGD-Team-Four/releases/tag/v0.3)
 
 ![From Dark Prototype](/Four/fromdark_0.gif)
+
+[From Dark Prototype 2](/Four/fromdarkp2.html) \| [v0.4](https://github.com/torresmi6/DGD-Team-Four/releases/tag/v0.4)
+
+![From Dark Prototype 2](/Four/fromdarkp2.gif)
 
 ### Korok Kidz - Brianna Moffett, Kami Otero De Owens, Samantha Turner
 
