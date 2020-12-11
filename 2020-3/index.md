@@ -160,3 +160,12 @@ Play - [v0.2](/Tersis/MainGamev0.2/tersis_07.html) [v0.3](/Tersis/MainGamev0.3/t
 [Avarice Functional Prototype] \| [v0.9.5](https://github.com/ecdraayer/TheConeGameProject/releases/tag/0.9.5)
 
 ![Picture of Avarice Combat](/TheCone/AvariceCombat.png)
+
+![Picture Showing Dungeon Generation and Monster Spawning](/TheCone/AvariceFP.png)
+
+[Avarice-First Full Release](https://ecdraayer.github.io/PlayableAvarice/) \| [v1.2](https://github.com/ecdraayer/TheConeGameProject/releases/tag/1.2)
+
+![Picture of Avarice Combat](/TheCone/FinalBoss.png)
+
+
+
