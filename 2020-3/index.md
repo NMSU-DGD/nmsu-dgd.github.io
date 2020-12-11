@@ -129,9 +129,14 @@ You're a lowly peasant that saved up just enough money to begin trading. Can you
 
 Scaletippers functional prototype - (/2020-3/Scaletippers/scaletippers_latest_1.gif) \| [Release v0.5](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.5)
 
-![Teaser Gif fo FPv1](/2020-3/Scaletippers/conflict_1.gif) 
+![Teaser Gif for FPv1](/2020-3/Scaletippers/conflict_1.gif) 
 
 Conflict - [Play](/2020-3/Scaletippers/conflict.p8.html ) | [Release v.0.5](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v0.5)
+
+![Teaser Gif for FPv1](/2020-3/Scaletippers/PICO-8_0.gif) 
+
+Conflict Fpv2 - [Play](/2020-3/Scaletippers/conflict.html ) | [Release v.1.0](https://github.com/ErickSpaceOrtiz/ScaleTippers/releases/tag/v1.0)
+
 
 ### Tersis - Ayavar, Smithsonian64, Tiare-A-C
 
