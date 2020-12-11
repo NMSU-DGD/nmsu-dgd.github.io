@@ -91,6 +91,11 @@ KorokKidz FPv1 Game: KoolKid'z Frog-tastic Adventure - [Play](/2020-3/KorokKidz/
 
 ![Demo of our Prototype](/ProjectTanks/ProjectTanksPrototype1/project-tanks-prototype1.gif)
 
+[Prototype 2 Demo](/ProjectTanks/project-tanks-final/project-tanks-final.html) \|
+[v0.9](https://github.com/aj1337/Project-Tanks/releases/tag/FPv0.9)
+
+![Demo of our second Prototype](/ProjectTanks/project-tanks-final/project-tanks-final.gif)
+
 ### ScaleTippers - Erick Ortiz, Benjamin Peaslee
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
