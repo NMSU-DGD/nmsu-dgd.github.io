@@ -146,9 +146,12 @@ Conflict Fpv2 - [Play](/2020-3/Scaletippers/conflict.html ) | [Release v.1.0](ht
 
 ![Match, attack, and movement preview of Orbit Battle](/Tersis/flash_game.gif)
 
-[Tersis Main Game](/Tersis/MainGame/tersis_07.html) \| [v0.2](https://github.com/Ayavar/Tersis/releases/tag/v0.2)
+Tersis Main Game
+Play - [v0.2](/Tersis/MainGamev0.2/tersis_07.html) [v0.3](/Tersis/MainGamev0.3/tersis_11.html) \| Releases - [v0.2](https://github.com/Ayavar/Tersis/releases/tag/v0.2) \| [v0.3](https://github.com/Ayavar/Tersis/releases/tag/v0.3)
 
-![Tersis Main Game gameplay preview](/Tersis/MainGame/tersis_07.gif)
+![Tersis Main Game v0.3 gameplay preview](/Tersis/MainGamev0.3/tersis_11.gif)
+
+![Tersis Main Game v0.2 gameplay preview](/Tersis/MainGamev0.2/tersis_07.gif)
 
 ### The Cone - ecdraayer, mushfiqayon1, sabival89
 
