@@ -5,6 +5,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 - [PIxL Lab](#pixl-lab---z-toups)
+- [CatCat](#CatCat---catsm7-gabemauger)
 
 
 
@@ -23,4 +24,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
 (Animated GIF to come!)
+
+### CatCat - catsm7, gabemauger
+
 
