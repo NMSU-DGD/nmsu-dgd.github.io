@@ -4,7 +4,7 @@ This page explains some of the structure for adding to the game portfolio.
 
 ## Top-Level File Structure
 
-Each semester has a folder that follows the pattern of <year>-<semester as a number; 1=spring, 2=summer, 3=fall>. Our first semester doing this is fall 2020, which has the subfolder [/2020-3](/2020-3/index.md).
+Each semester has a folder that follows the pattern of <year>-<semester as a number; 1=spring, 2=summer, 3=fall>. Our first semester doing this was fall 2020, which has the subfolder [/2020-3](/2020-3/index.md); spring 2022 would be the subfolder [/2022-1](/2022-1/index.md) and so on...
 
 The semester folder contains an index.md file (e.g., this one: [/2020-3/index.md](/2020-3/index.md)), which contains all the [Team Entries](#Team Entries) (see below). 
 
