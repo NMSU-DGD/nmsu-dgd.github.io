@@ -7,4 +7,5 @@ Information on how the site is structured, mostly for students working on it, ca
 Years for which we have projects are listed below:
 
 * [2020 - Fall](/2020-3/index.md)
+* [2022 - Spring](/2022-1/index.md)
 
