@@ -9,7 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Circus Bears](#circus-bears)
 - [Pico Zen](#pico-zen)
 - [PIxL Lab](#pixl-lab---z-toups)
-- [Project Team 11](#project-team-11)
+- [Golden Wind](#Golden-Wind)
 - [Project Team 12](#project-team-12)
 - [Rogue One](#rogue-one)
 - [Sky Bison](#sky-bison)
@@ -40,7 +40,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 (Animated GIF to come!)
 
-### Project Team 11
+### Golden Wind
 
 ### Project Team 12
 
