@@ -4,10 +4,25 @@
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
-- [PIxL Lab](#pixl-lab---z-toups)
+- [-UWU-](#-UWU-)
 - [CatCat](#CatCat---catsm7-gabemauger)
+- [Circus Bears](#circus-bears)
+- [Pico Zen](#pico-zen)
+- [PIxL Lab](#pixl-lab---z-toups)
+- [Project Team 11](#project-team-11)
+- [Project Team 12](#project-team-12)
+- [Rogue One](#rogue-one)
+- [Sky Bison](#sky-bison)
+- [Super Retro Game Co.](#super-retro-game-co.)
+- [TIM](#tim)
 
+### -UWU-
 
+### CatCat - catsm7, gabemauger
+
+### Circus Bears
+
+### Pico Zen
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
@@ -25,6 +40,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 (Animated GIF to come!)
 
-### CatCat - catsm7, gabemauger
+### Project Team 11
 
+### Project Team 12
 
+### Rogue One
+
+### Sky Bison
+
+### Super Retro Game Co.
+
+### TIM
