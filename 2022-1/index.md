@@ -46,7 +46,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Rogue One
 
-### Sky Bison
+### Sky Bison - alaynar, MeaganWaldo, tom9910
 
 ### Super Retro Game Co.
 
