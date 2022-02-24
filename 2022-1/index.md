@@ -11,7 +11,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Project Team 11](#project-team-11)
 - [Project Team 12](#project-team-12)
-- [Rogue One](#rogue-one)
+- [Rogue One](#rogue-one---dalmei97)
 - [Sky Bison](#sky-bison)
 - [Super Retro Game Co.](#super-retro-game-co.)
 - [TIM](#tim)
@@ -44,7 +44,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Project Team 12
 
-### Rogue One
+### Rogue One - dalmei97
 
 ### Sky Bison
 
