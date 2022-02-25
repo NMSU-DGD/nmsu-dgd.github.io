@@ -16,7 +16,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Super Retro Game Co.](#super-retro-game-co.)
 - [TIM](#tim)
 
-### -UWU- - ddelac, devinthaker, tiennhann, nekMont
+### -UWU- - ddelac, devinthaker, tiennhann, nekMont, hsando20
 
 ### CatCat - catsm7, gabemauger
 
