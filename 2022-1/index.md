@@ -7,7 +7,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [-UWU-](#-UWU-)
 - [CatCat](#CatCat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears)
-- [Pico Zen](#pico-zen---angelinaplaza7)
+- [Pico Zen](#pico-zen---angelinaplaza7-mariorod1015-stevendenny-cpearce10-i-gerena)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Project Team 11](#project-team-11)
 - [Project Team 12](#project-team-12)
@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Circus Bears
 
-### Pico Zen
+### Pico Zen - angelinaplaza7, cpearce10, i-gerena, mariorod1015, stevendenny
 
 ### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
 
