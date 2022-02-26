@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### CatCat - catsm7, gabemauger
 
-### Circus Bears
+### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
 ### Pico Zen
 
