@@ -44,7 +44,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Project Team 12
 
-### Rogue One - dalmei97,mgroov, kpbianco
+### Rogue One - dalmei97,mgroov, kpbianco, LuisRojas99
 
 ### Sky Bison
 
