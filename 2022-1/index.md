@@ -48,7 +48,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
 
-<img src="./logos/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+<img style="width: auto;" src="./logos/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
 
 [Yip-yip](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
 
