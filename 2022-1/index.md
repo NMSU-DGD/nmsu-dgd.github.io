@@ -40,7 +40,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 (Animated GIF to come!)
 
-### Golden Wind
+### Golden Wind - Kaily Luna
+
+##### (*logo in-progress*)
+
+[Artie's Adventure](/https://github.com/KailyLuna/nmsu-dgd.github.io/blob/64ec96cfd95b5e182432e5d427ada7d3a42f5739/2022-1/GoldenWind/fpv1/artie'sadventure.html) | [v0.1](/https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.1) 
+
+![artie sadventure p8_0](https://user-images.githubusercontent.com/89271710/156615531-ea6a6d09-5a5e-4b8f-ade9-fde3c6acd4e5.gif)
+
 
 ### Project Team 12
 
