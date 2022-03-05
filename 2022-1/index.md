@@ -45,6 +45,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Project Team 12
 
 ### Rogue One - dalmei97, mgroov, kpbianco, LuisRojas99
+![Gif of the gameplay.](/pixl-lab/rougeone_v0.7-2_0)
+[RougeOne](/pixl-lab/rougeone_v0.71-2) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
+
 
 ### Sky Bison
 
