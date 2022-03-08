@@ -29,7 +29,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Pico Zen
 
-### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
+### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
 
