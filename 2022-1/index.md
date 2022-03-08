@@ -23,7 +23,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [Shooter](/catcat/shooter.html) \| [v0.2](https://github.com/gabemauger/catcat/releases/tag/v0.2)
 
-![Animation of shooter firing at enimies and dying.](/catcat/shooter_1.gif)
+<img src="./catcat/shooter_1.gif" alt="Animation of shooter firing at enimies and dying." width="128"/>
 
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
@@ -35,11 +35,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [PicoSweeper](/pixl-lab/picosweeperv1_0.html) \| [v1.0](https://github.com/toupsz/pico-8/releases/tag/v1.0)
 
-![Animation of blinking cursor on a grid with markers for revealed mines.](/pixl-lab/picosweeper-some_cleared.gif)
+<img src="./pixl-lab/picosweeper-some_cleared.gif" alt="Animation of blinking cursor on a grid with markers for revealed mines." width="128"/>
 
 [Samus Movement Demo](/pixl-lab/samusmovev0_3.html) \| (no versions yet)
 
-![Animation of character jumping in a platformer game.](/pixl-lab/samusmove-jump_all_collisions.gif)
+<img alt="Animation of character jumping in a platformer game." src="./pixl-lab/samusmove-jump_all_collisions.gif" width="128"/>
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
