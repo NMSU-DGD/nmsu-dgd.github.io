@@ -13,7 +13,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Project Team 12](#project-team-12)
 - [Rogue One](#rogue-one---dalmei97-mgroov-kpbianco-LuisRojas99)
 - [Sky Bison](#sky-bison)
-- [Super Retro Game Co.](#super-retro-game-co.)
+- [Super Retro Game Co](#super-retro-game-co---Gearsie-River\-RS-emmatianxy-mishavc)
 - [TIM](#tim)
 
 ### -UWU-
@@ -56,6 +56,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Sky Bison
 
-### Super Retro Game Co.
+### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
+"Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
+![Animation of player character "AViS" moving and jumping around](https://github.com/Gearsie/nmsu-dgd.github.io/blob/master/2022-1/Super-Retro-Game-Co/game_preview.gif)
+
 
 ### TIM
