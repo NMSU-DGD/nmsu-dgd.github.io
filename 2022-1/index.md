@@ -6,7 +6,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ## Contents
 - [-UWU-](#-UWU-)
 - [CatCat](#CatCat---catsm7-gabemauger)
-- [Circus Bears](#circus-bears)
+- [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersX)
 - [Pico Zen](#pico-zen)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Project Team 11](#project-team-11)
@@ -58,7 +58,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
-![Animation of player character "AViS" moving and jumping around](https://github.com/Gearsie/nmsu-dgd.github.io/blob/master/2022-1/Super-Retro-Game-Co/game_preview.gif)
 
+<img alt="Animation of player character "AViS" moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
 ### TIM
