@@ -25,7 +25,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ![Animation of shooter firing at enimies and dying.](/catcat/shooter_1.gif)
 
-### Circus Bears
+### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
 ### Pico Zen
 
