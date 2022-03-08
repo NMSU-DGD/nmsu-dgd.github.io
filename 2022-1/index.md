@@ -5,20 +5,20 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 - [-UWU-](#-UWU-)
-- [CatCat](#catcat)
-- [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersX)
+- [CatCat](#catcat---catsm7-gabemauger)
+- [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
 - [Pico Zen](#pico-zen)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Project Team 11](#project-team-11)
 - [Project Team 12](#project-team-12)
-- [Rogue One](#rogue-one---dalmei97-mgroov-kpbianco-LuisRojas99)
+- [Rogue One](#rogue-one---dalmei97-mgroov-kpbianco-luisrojas99)
 - [Sky Bison](#sky-bison)
-- [Super Retro Game Co](#super-retro-game-co---Gearsie-River\-RS-emmatianxy-mishavc)
+- [Super Retro Game Co](#super-retro-game-co---gearsie-river-rs-emmatianxy-mishavc)
 - [TIM](#tim)
 
 ### -UWU-
 
-### CatCat - [catsm7](https://www.linkedin.com/in/catalina-sm/), [gabemauger](https://www.linkedin.com/in/gabriel-mauger-5210151a5/){#catcat}
+### CatCat - [catsm7](https://www.linkedin.com/in/catalina-sm/), [gabemauger](https://www.linkedin.com/in/gabriel-mauger-5210151a5/)
 <img src="./logos/catcat_0.gif" alt="Animation of the two cats coming together mirrored on the y-axis, the top has the name CatCat then a small cat in the center. The two cats shift from the bottom left and the bottom right into the center revealing the middle cat and the name above." width="128"/>
 
 [Shooter](/catcat/shooter.html) \| [v0.2](https://github.com/gabemauger/catcat/releases/tag/v0.2)
