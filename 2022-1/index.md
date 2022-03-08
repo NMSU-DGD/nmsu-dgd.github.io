@@ -59,6 +59,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
 
-<img alt="Animation of player character "AViS" moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
+<img alt="Animation of player character 'AViS' moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
 ### TIM
