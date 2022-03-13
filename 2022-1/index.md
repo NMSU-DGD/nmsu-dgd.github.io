@@ -50,4 +50,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Super Retro Game Co.
 
-### TIM
+### TIM - Isaias66, MigglesHere, Theo-Platt
