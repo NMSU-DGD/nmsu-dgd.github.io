@@ -62,3 +62,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img alt="Animation of player character 'AViS' moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
 ### TIM - Isaias66, MigglesHere, Theo-Platt
+
+<img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
+
+"Dashing Around"| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
