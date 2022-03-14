@@ -58,7 +58,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./Sky Bison/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
 
-[Yip-yip](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
+[Yip-yip](/Sky Bison/yipyip.html) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
 
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
