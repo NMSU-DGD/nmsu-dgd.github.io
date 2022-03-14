@@ -61,4 +61,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img alt="Animation of player character 'AViS' moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
-### TIM
+### TIM - Isaias66, MigglesHere, Theo-Platt
