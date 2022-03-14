@@ -27,7 +27,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
-### Pico Zen
+### Pico Zen 
+[boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+
+<img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
 ### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
