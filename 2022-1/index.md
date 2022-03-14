@@ -54,7 +54,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [RougeOne](/pixl-lab/rougeone_v0.71-2) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
 
 
-### Sky Bison
+### Sky Bison - alaynar, MeaganWaldo, tom9910
+
+<img src="./Sky Bison/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+
+[Yip-yip](/Sky Bison/yipyip.html) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
 
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
