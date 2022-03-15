@@ -35,7 +35,10 @@ width="128"/>
 
 [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
 
-### Pico Zen
+### Pico Zen 
+[boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+
+<img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
 ### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
