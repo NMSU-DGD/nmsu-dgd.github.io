@@ -7,7 +7,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [-UWU-](#-uwu-)
 - [CatCat](#catcat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
-- [Pico Zen](#pico-zen)
+- [Pico Zen](#pico-zen---angelinaplaza7-cpearce1-i-gerena-mariorod1015-stevendenny)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Golden Wind](#Golden-Wind)
 - [Project Team 12](#project-team-12)
