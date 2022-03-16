@@ -62,9 +62,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Rogue One - dalmei97, mgroov, kpbianco, LuisRojas99
 
-<img src="./RougeOne/rougeone_v0.7-2_0.gif" alt="Gif for rougeone" width="128"/>
+<img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RougeOne](/RougeOne/rougeone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
+[RougeOne](/RougeOne/rogueone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
 
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
