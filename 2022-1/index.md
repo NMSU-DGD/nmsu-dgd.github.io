@@ -58,12 +58,11 @@ width="128"/>
 
 ### Golden Wind - Kaily Luna
 
-##### (*logo in-progress*)
+<img src=“./logos/goldenwindlogo p8_0.gif” alt=“Animation of a little whirl of golden wind and the text GoldenWind.” width=“128”/>
 
-[Artie's Adventure](/https://github.com/KailyLuna/nmsu-dgd.github.io/blob/64ec96cfd95b5e182432e5d427ada7d3a42f5739/2022-1/GoldenWind/fpv1/artie'sadventure.html) | [v0.1](/https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.1) 
+[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
 
-![artie sadventure p8_0](https://user-images.githubusercontent.com/89271710/156615531-ea6a6d09-5a5e-4b8f-ade9-fde3c6acd4e5.gif)
-
+<img src=“./GoldenWind/fpv1/artie’sadventure.gif” alt=“Animation of Artie in the trench.” width=“128”/>
 
 ### Project Team 12
 
