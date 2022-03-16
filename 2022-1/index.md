@@ -75,9 +75,9 @@ width="128"/>
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
 
-<img src="./Sky Bison/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+<img src="./logos/yipyip_logo.gif" alt="Logo for the game Yip-Yip - pre-release" width="128"/>
 
-[Yip-yip](/Sky Bison/yipyip.html) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
+[Yip-yip](/Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6)
 
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
