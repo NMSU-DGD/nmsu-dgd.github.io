@@ -27,9 +27,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
 [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
+
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
 ### Pico Zen
 
