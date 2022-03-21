@@ -7,7 +7,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [-UWU-](#-uwu-)
 - [CatCat](#catcat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
-- [Pico Zen](#pico-zen)
+- [Pico Zen](#pico-zen---angelinaplaza7-cpearce1-i-gerena-mariorod1015-stevendenny)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Golden Wind](#Golden-Wind)
 - [Project Team 12](#project-team-12)
@@ -35,10 +35,13 @@ width="128"/>
 
 [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
 
+
+### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
+
 <img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
-### Pico Zen 
 [boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+<img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
 <img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
@@ -60,11 +63,12 @@ width="128"/>
 
 ### Golden Wind - Kaily Luna
 
-<img src=“./logos/goldenwindlogo p8_0.gif” alt=“Animation of a little whirl of golden wind and the text GoldenWind.” width=“128”/>
+##### (*logo in-progress*)
 
-[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
+[Artie's Adventure](/https://github.com/KailyLuna/nmsu-dgd.github.io/blob/64ec96cfd95b5e182432e5d427ada7d3a42f5739/2022-1/GoldenWind/fpv1/artie'sadventure.html) | [v0.1](/https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.1) 
 
-<img src=“./GoldenWind/fpv1/artie’sadventure.gif” alt=“Animation of Artie in the trench.” width=“128”/>
+![artie sadventure p8_0](https://user-images.githubusercontent.com/89271710/156615531-ea6a6d09-5a5e-4b8f-ade9-fde3c6acd4e5.gif)
+
 
 ### Project Team 12
 
@@ -74,7 +78,7 @@ width="128"/>
 
 <img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RougeOne](/RougeOne/rogueone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
+[RougeOne](/RougeOne/rougeone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
 
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
