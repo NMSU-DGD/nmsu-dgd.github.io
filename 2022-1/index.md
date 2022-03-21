@@ -84,6 +84,11 @@ width="128"/>
 
 <img alt="Animation of player character 'AViS' moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
+Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.6)
+
+<img alt="game opening screen with animated logo" src="./logos/SRGC_logo.gif" width="128"/>
+
+
 ### TIM - Isaias66, MigglesHere, Theo-Platt
 
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
