@@ -86,6 +86,10 @@ width="128"/>
 
 ### TIM - Isaias66, MigglesHere, Theo-Platt
 
+<img alt="Here is a GIF of our team logo in action!" src="./logos/TIM_logo.gif" width="128">
+
+"TIM Logo" | [v0.7](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.7)
+
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
 
 "Dashing Around"| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
