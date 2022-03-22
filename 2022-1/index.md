@@ -4,10 +4,10 @@
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
-- [-UWU-](#-uwu-)
+- [UWU](#uwu)
 - [CatCat](#catcat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
-- [Pico Zen](#pico-zen)
+- [Pico Zen](#pico-zen---angelinaplaza7-cpearce1-i-gerena-mariorod1015-stevendenny)
 - [PIxL Lab](#pixl-lab---z-toups)
 - [Golden Wind](#Golden-Wind)
 - [Project Team 12](#project-team-12)
@@ -16,7 +16,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Super Retro Game Co](#super-retro-game-co---gearsie-river-rs-emmatianxy-mishavc)
 - [TIM](#tim)
 
-### -UWU- devinthaker, ddelac, hsando20, tiennhann, & nekMont 
+### UWU devinthaker💀 , ddelac😬 , hsando20( ͡° ͜ʖ ͡°) , tiennhann😶 , & nekMont💅 
+<img src="./logos/uwu.gif" alt="dark blue uwu face with a small heart slowly falling over the uwu face while getting larger then the uwu face turns orange and in pink it says uwu and in orange underneath says studios."
+width="128"/>
+
 
 [Prison Break](/2022-1/UWU/prisonbreak.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key. "
@@ -31,12 +34,17 @@ width="128"/>
 
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
 [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
 
-### Pico Zen 
+### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
+
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+
 [boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+
+<img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
 <img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
@@ -68,10 +76,11 @@ width="128"/>
 
 ### Rogue One - dalmei97, mgroov, kpbianco, LuisRojas99
 
+<img src="./logos/rogueone_0.gif" alt=" Main Character appears with RogueOne underneath it." width="128"/>
+
 <img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RougeOne](/RougeOne/rogueone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
-
+[RougeOne](/RougeOne/rougeone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
 
@@ -86,7 +95,16 @@ width="128"/>
 
 <img alt="Animation of player character 'AViS' moving and jumping around." src="./Super-Retro-Game-Co/game_preview.gif" width="128"/>
 
+Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.6)
+
+<img alt="game opening screen with animated logo" src="./logos/SRGC_logo.gif" width="128"/>
+
+
 ### TIM - Isaias66, MigglesHere, Theo-Platt
+
+<img alt="Here is a GIF of our team logo in action!" src="./logos/TIM_logo.gif" width="128">
+
+"TIM Logo" | [v0.7](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.7)
 
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
 
