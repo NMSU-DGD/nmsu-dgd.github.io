@@ -118,3 +118,7 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
 
 "Dashing Around"| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
+
+<img alt="Gameplay of our game where you are a dinosaur running and jumping over cacti." src="./tim/lightning_0.gif" width="128">
+
+[Run Dino](/tim/lightning.html) \| [v0.8](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.8)
