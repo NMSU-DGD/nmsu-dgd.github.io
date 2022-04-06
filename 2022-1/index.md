@@ -26,7 +26,7 @@ width="128"/>
 
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key." width="128"/>
 
-[KegRush](2022-1/UWU/white_lightening.html) \| [v0.2](https://github.com/ddelac/UWU/releases/tag/v0.2)
+[KegRush](./UWU/white_lightening.html) \| [v0.2](https://github.com/ddelac/UWU/releases/tag/v0.2)
 
 <img src="./UWU/kegrush.gif" alt="Animation of drunk man going through a maze trying to find a keg. man is avoiding stray dogs and picking up cans of beer." width="128"/>
 
