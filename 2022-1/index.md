@@ -118,9 +118,9 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 <img alt="game opening screen with animated logo" src="./logos/SRGC_logo.gif" width="128"/>
 
-"Lightning Game!!" | [v0.7] (https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.7)
+"Lightning Game!!" | [v0.7](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.7)
 
-<img alt="Lollipocalypse!!" src=./Super-Retro-Game-Co/column_8.gif" width="128"/>
+<img alt="Lollipocalypse!!" src="./Super-Retro-Game-Co/column_8.gif" width="128"/>
 
 
 ### TIM - Isaias66, MigglesHere, Theo-Platt
