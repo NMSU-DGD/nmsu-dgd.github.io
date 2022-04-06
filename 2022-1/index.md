@@ -74,6 +74,10 @@ width="128"/>
 
 [RougeOne](/RougeOne/rogueone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
 
+<img src="./RougeOne/roguelightning_0.gif" alt="Gif for rougelightning" width="128"/>
+
+[Rougelightning](/RougeOne/lightning.html) \| [v1.0]
+
 
 ### Sky Bison - alaynar, MeaganWaldo, tom9910
 
