@@ -36,11 +36,15 @@ width="128"/>
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
-[v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
-
-### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
+[v0.5](./SchoolRouteCharlie/srch.html)
 
 <img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+
+[Sanik Coins](./SchoolRouteCharlie/sanik.html)
+
+<img src="./SchoolRouteCharlie/Sanik.gif" alt="Gif demonstrating lightning game, collect coins while avoiding fast enemies" width="128"/>
+
+### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
 
 [boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
 
