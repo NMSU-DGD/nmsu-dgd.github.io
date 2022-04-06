@@ -66,11 +66,12 @@ width="128"/>
 
 ### Golden Wind - Kaily Luna
 
-<img src=“./logos/goldenwindlogo p8_0.gif” alt=“Animation of a little whirl of golden wind and the text GoldenWind.” width=“128”/>
+<img alt="GoldenWind Logo." img src="https://user-images.githubusercontent.com/89271710/160124622-46026e1e-3921-435d-b8fb-727023805322.gif" width="130" height="130"/>
 
 [Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
 
-<img src=“./GoldenWind/fpv1/artie’sadventure.gif” alt=“Animation of Artie in the trench.” width=“128”/>
+<img alt="Artie moving around in the trench." img src="https://user-images.githubusercontent.com/89271710/160125325-acc12af3-5feb-48cb-9c15-314a0ef19a42.gif" width="130" height="130"/>
+
 
 ### Project Team 12
 
@@ -89,6 +90,10 @@ width="128"/>
 [Yip-yip](/Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
 
 <img src="./Sky Bison/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+
+[Toy Catch](/Sky Bison/toy_catch.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0-lightning)
+
+<img src="./Sky Bison/toy_catch.gif" alt="Teaser trailer for the game Toy Catch" width="128"/>
 
 ### Super Retro Game Co - Gearsie, River-RS, emmatianxy, mishavc
 "Cyber Saver" | [v0.5](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.5)  
@@ -113,3 +118,7 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
 
 "Dashing Around"| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
+
+<img alt="Gameplay of our game where you are a dinosaur running and jumping over cacti." src="./tim/lightning_0.gif" width="128">
+
+[Run Dino](/tim/lightning.html) \| [v0.8](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.8)
