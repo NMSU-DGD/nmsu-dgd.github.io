@@ -53,6 +53,7 @@ width="128"/>
 ### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
 
 [boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+[lighteningGame](/pico-zen/index.html)
 
 <img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
