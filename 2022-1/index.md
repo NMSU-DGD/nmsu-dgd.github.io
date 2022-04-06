@@ -4,8 +4,9 @@
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
-- [UWU](#uwu)
-- [CatCat](#catcat---catsm7-gabemauger)
+
+- [-UWU-](#-UWU-)
+- [CatCat](#CatCat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
 - [Pico Zen](#pico-zen---angelinaplaza7-cpearce1-i-gerena-mariorod1015-stevendenny)
 - [PIxL Lab](#pixl-lab---z-toups)
