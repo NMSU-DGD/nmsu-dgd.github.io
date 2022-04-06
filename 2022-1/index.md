@@ -24,6 +24,9 @@ width="128"/>
 [Prison Break](/2022-1/UWU/prisonbreak.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key. "
 width="128"/>
+<img src="./UWU/kegrush.gif" alt="Animation of drunk man going through a maze trying to find a keg. man is avoiding stray dogs and picking up cans of beer. "
+width="128"/>
+
 
 ### CatCat - [catsm7](https://www.linkedin.com/in/catalina-sm/), [gabemauger](https://www.linkedin.com/in/gabriel-mauger-5210151a5/)
 <img src="./logos/catcat_0.gif" alt="Animation of the two cats coming together mirrored on the y-axis, the top has the name CatCat then a small cat in the center. The two cats shift from the bottom left and the bottom right into the center revealing the middle cat and the name above." width="128"/>
