@@ -32,6 +32,14 @@ width="128"/>
 
 <img src="./catcat/shooter_1.gif" alt="Animation of shooter firing at enimies and dying." width="128"/>
 
+[Space Blaster Lightning Game](/catcat/spaceblaster.html) \| [v0.3](https://github.com/gabemauger/catcat/releases/tag/v0.3)
+
+<img src="./catcat/shooter_2.gif" alt="Animation of a rocket hitting frog-like creatures" width="128"/>
+
+#### Space Blaster Pitch
+
+##### We have developed a simple version of a Space Blaster with one enemy pattern; the furtherance of this version would have more levels with different enemy attack patterns and at least one different weight of shooting for the player. Catcat envisions this shooter game to invoke nostalgia for the game of Galaga that is widely accessible through the platform of Pico-8. Some current features of the game in the most recent release include win/lose states, different enemies, replay button, and movement boundaries. It is our hope that a newer generation will be able to enjoy this style of game
+
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
