@@ -39,15 +39,19 @@ width="128"/>
 
 [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5)
 
-### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
-
 <img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+
+### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
 
 [boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
 
 <img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
 <img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
+
+[LightningGame](/pico-zen/lightning_game.html) \| [v1.0](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v1.0)
+
+<img src="./pico-zen/lightning_game_0.gif" alt="lightning game start up" width="128"/>
 
 ### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
