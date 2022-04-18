@@ -1,0 +1,5 @@
+Space Blaster Pitch
+We have developed a simple version of a Space Blaster with one enemy pattern; the furtherance of this version would have more levels with different enemy attack patterns and at least one different weight of shooting for the player. 
+
+Catcat envisions this shooter game to invoke nostalgia for the game of Galaga that is widely accessible through the platform of Pico-8. 
+Some current features of the game in the most recent release include win/lose states, different enemies, replay button, and movement boundaries. It is our hope that a newer generation will be able to enjoy this style of game.
