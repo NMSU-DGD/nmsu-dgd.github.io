@@ -59,7 +59,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img alt="Artie going through the maps." img src="https://user-images.githubusercontent.com/89271710/164868851-a6872c88-8f93-4f19-91ef-6705173b601c.gif" width="130" height="130"/>
 
-[Artie’s Adventure]| [v.03](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.3)
+[Artie’s Adventure](/GoldenWing/fpv2\artie'sadventure.html) \| [v.03](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.3)
 
 ### Project Team 12
 
