@@ -54,9 +54,9 @@ width="128"/>
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
-[v0.5](./SchoolRouteCharlie/srch.html)
+[School Route Charlie](./SchoolRouteCharlie/srch.html) \| [v0.7](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.7)
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie2.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
 [Sanik Coins](./SchoolRouteCharlie/sanik.html)
 
