@@ -97,3 +97,7 @@ width="128"/>
 <img alt="Gameplay of our game where you are a dinosaur running and jumping over cacti." src="./tim/lightning_0.gif" width="128">
 
 [Run Dino](/tim/lightning.html) \| [v0.8](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.8)
+
+<img alt="Gameplay of our character dashing around, now with more map and a health icon" src="./tim/gameplay.gif" width="128">
+
+[Dashing Around v0.9](/tim/mytim.html) \| [v0.9](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.9)
