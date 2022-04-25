@@ -91,10 +91,13 @@ width="128"/>
 
 <img alt="GoldenWind Logo." img src="https://user-images.githubusercontent.com/89271710/160124622-46026e1e-3921-435d-b8fb-727023805322.gif" width="130" height="130"/>
 
-[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
-
 <img alt="Artie moving around in the trench." img src="https://user-images.githubusercontent.com/89271710/160125325-acc12af3-5feb-48cb-9c15-314a0ef19a42.gif" width="130" height="130"/>
 
+[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
+
+<img alt="Artie going through the maps." img src="https://user-images.githubusercontent.com/89271710/164868851-a6872c88-8f93-4f19-91ef-6705173b601c.gif" width="130" height="130"/>
+
+[Artie’s Adventure](/GoldenWing/fpv2\artie'sadventure.html) \| [v.03](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.3)
 
 ### Project Team 12
 
