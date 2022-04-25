@@ -61,6 +61,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [Artie’s Adventure](/GoldenWing/fpv2\artie'sadventure.html) \| [v.03](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.3)
 
+<img alt="Artie’s Adventure Logo, first version." img src="https://user-images.githubusercontent.com/89271710/165144738-71005b80-4ab7-486e-82e0-9b1cb7bdad96.gif" width="130" height="130"/>
+
+
+[Artie’s Adventure - Final Demo](/GoldenWind/FinalDemo/artie’sadventure.html) \| [v1.0](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v1.0)
+
 ### Project Team 12
 
 ### Rogue One - dalmei97, mgroov, kpbianco, LuisRojas99
