@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 width="128"/>
 
 
-[Prison Break](/2022-1/UWU/prisonbreak.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
+[Prison Break](/UWU/prisonbreak_demo.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
 
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key." width="128"/>
 
