@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 width="128"/>
 
 
-[Prison Break](/2022-1/UWU/prisonbreak.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
+[Prison Break](/UWU/prisonbreak_demo.html) \| [v0.3](https://github.com/ddelac/UWU/releases/tag/v.03)
 
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key." width="128"/>
 
@@ -54,9 +54,9 @@ width="128"/>
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
-[v0.5](./SchoolRouteCharlie/srch.html)
+[School Route Charlie](./SchoolRouteCharlie/srch.html) \| [v0.7](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.7)
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie2.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
 [Sanik Coins](./SchoolRouteCharlie/sanik.html)
 
@@ -64,12 +64,15 @@ width="128"/>
 
 ### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
 
-[boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+[boat Blitz](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
 [lighteningGame](/pico-zen/index.html)
+[Boat Blitz Fv2](/pico-zen/finalboatgame.html) \| [v0.7](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.7)
 
 <img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
 <img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
+
+<img src="./pico-zen/fpv2.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
 ### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
