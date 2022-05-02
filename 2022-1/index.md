@@ -115,7 +115,7 @@ width="128"/>
 
 <img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RougeOne](/RougeOne/rogueone_v0.73.html) \| [v0.73](https://github.com/dalmei97/RougeOne/releases/tag/v0.73)
+[RougeOne](/RougeOne/rogueone_v3.html) \| [v0.80](https://github.com/dalmei97/RougeOne/releases/tag/v0.80)
 
 <img src="./RougeOne/roguelightning_0.gif" alt="Gif for rougelightning" width="128"/>
 
