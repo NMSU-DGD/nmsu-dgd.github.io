@@ -54,11 +54,11 @@ width="128"/>
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
-[School Route Charlie](./SchoolRouteCharlie/srch.html) \| [v0.7](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.7)
+[School Route Charlie](./SchoolRouteCharlie/srch.html) \| [v0.5](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.5) \| [v0.7](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.7) \| [v1.0](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v1.0)
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie2.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie3.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
-[Sanik Coins](./SchoolRouteCharlie/sanik.html)
+[Sanik Coins](./SchoolRouteCharlie/sanik.html) \| [v0.6] (https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.6.5)
 
 <img src="./SchoolRouteCharlie/Sanik.gif" alt="Gif demonstrating lightning game, collect coins while avoiding fast enemies" width="128"/>
 
@@ -115,7 +115,7 @@ width="128"/>
 
 <img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RougeOne](/RougeOne/rogueone_v0.73.html) \| [v0.73](https://github.com/dalmei97/RougeOne/releases/tag/v0.73)
+[RougeOne](/RougeOne/rogueone_v3.html) \| [v0.80](https://github.com/dalmei97/RougeOne/releases/tag/v0.80)
 
 <img src="./RougeOne/roguelightning_0.gif" alt="Gif for rougelightning" width="128"/>
 
@@ -125,9 +125,9 @@ width="128"/>
 
 <img src="./logos/yipyip_logo.gif" alt="Logo for the game Yip-Yip - pre-release" width="128"/>
 
-[Yip-yip](/Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.9](https://github.com/alaynar/yip-yip/releases/tag/v0.9)
+[Yip-yip](/Sky Bison/yipyip.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.9](https://github.com/alaynar/yip-yip/releases/tag/v0.9)
 
-<img src="./Sky Bison/yipyip_v0.9_teaser.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+<img src="./Sky Bison/yipyip_v1_teaser.gif" alt="Teaser trailer for the game Yip-Yip - Official version!" width="128"/>
 
 [Toy Catch](./Sky Bison/toy_catch.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0-lightning)
 
@@ -157,14 +157,10 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 "TIM Logo" | [v0.7](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.7)
 
-<img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
+<img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/mytim_1.gif" width="128">
 
-[Dashing Around](/tim/tim.html) \| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
+[Final Result](/tim/mytim.html) \| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5) \| [v0.9](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.9) \| [v1.0] (https://github.com/MigglesHere/CS477-TIM/releases/tag/v1.0)
 
 <img alt="Gameplay of our game where you are a dinosaur running and jumping over cacti." src="./tim/lightning_0.gif" width="128">
 
 [Run Dino](/tim/lightning.html) \| [v0.8](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.8)
-
-<img alt="Gameplay of our character dashing around, now with more map and a health icon" src="./tim/gameplay.gif" width="128">
-
-[Dashing Around v0.9](/tim/mytim.html) \| [v0.9](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.9)
