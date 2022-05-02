@@ -125,9 +125,9 @@ width="128"/>
 
 <img src="./logos/yipyip_logo.gif" alt="Logo for the game Yip-Yip - pre-release" width="128"/>
 
-[Yip-yip](/Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.9](https://github.com/alaynar/yip-yip/releases/tag/v0.9)
+[Yip-yip](/Sky Bison/yipyip.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.9](https://github.com/alaynar/yip-yip/releases/tag/v0.9)
 
-<img src="./Sky Bison/yipyip_v0.9_teaser.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+<img src="./Sky Bison/yipyip_v1_teaser.gif" alt="Teaser trailer for the game Yip-Yip - Official version!" width="128"/>
 
 [Toy Catch](./Sky Bison/toy_catch.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0-lightning)
 
