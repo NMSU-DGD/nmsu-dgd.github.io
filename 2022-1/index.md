@@ -44,7 +44,7 @@ width="128"/>
 
 <img src="./catcat/dun_craw_0.gif" alt="Walkthough of the dungeon crawler" width="128"/>
 
-[Kepland Fv3](/catcat/kepland.html) \| [v0.4](https://github.com/gabemauger/catcat/releases/tag/v1.1)
+[Kepland Fv3](/catcat/kepland.html) \| [v1.1](https://github.com/gabemauger/catcat/releases/tag/v1.1)
 
 <img src="./catcat/dun_craw_1.gif" alt="Walkthough of the Kepland dungeon crawler with finalized doors on the side of the pathway to show interactivity" width="128"/>
 
