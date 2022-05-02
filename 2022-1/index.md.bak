@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 width="128"/>
 
 
-[Prison Break](/2022-1/UWU/prisonbreak.html) \| [v0.1](https://github.com/ddelac/UWU/releases/tag/v0.1)
+[Prison Break](/UWU/prisonbreak_demo.html) \| [v0.3](https://github.com/ddelac/UWU/releases/tag/v.03)
 
 <img src="./UWU/PrisonBreak.gif" alt="Animation of a pig guard shuffling left to right fast then going past the spiked floors within a maze to get a key." width="128"/>
 
@@ -38,13 +38,25 @@ width="128"/>
 
 <img src="./catcat/shooter_1.gif" alt="Animation of shooter firing at enimies and dying." width="128"/>
 
+[Space Blaster Lightning Game](/catcat/spaceblaster.html) \| [v0.3](https://github.com/gabemauger/catcat/releases/tag/v0.3)
+
+<img src="./catcat/shooter_2.gif" alt="Animation of a rocket hitting frog-like creatures" width="128"/>
+
+#### Space Blaster Pitch
+
+##### We have developed a simple version of a Space Blaster with one enemy pattern; the furtherance of this version would have more levels with different enemy attack patterns and at least one different weight of shooting for the player. Catcat envisions this shooter game to invoke nostalgia for the game of Galaga that is widely accessible through the platform of Pico-8. Some current features of the game in the most recent release include win/lose states, different enemies, replay button, and movement boundaries. It is our hope that a newer generation will be able to enjoy this style of game
+
+[Kepland Fv2](/catcat/dun_craw.html) \| [v0.4](https://github.com/gabemauger/catcat/releases/tag/v0.4)
+
+<img src="./catcat/dun_craw_0.gif" alt="Walkthough of the dungeon crawler" width="128"/>
+
 ### Circus Bears - mrbryantguy, johng148, alexismen22a, asellersX
 
 <img src="./logos/circusBears_0.gif" alt="Gif demonstrating the Pico-8 logo of our team" width="128"/>
 
-[v0.5](./SchoolRouteCharlie/srch.html)
+[School Route Charlie](./SchoolRouteCharlie/srch.html) \| [v0.7](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.7)
 
-<img src="./SchoolRouteCharlie/SchoolRouteCharlie.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
+<img src="./SchoolRouteCharlie/SchoolRouteCharlie2.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
 [Sanik Coins](./SchoolRouteCharlie/sanik.html)
 
@@ -52,11 +64,15 @@ width="128"/>
 
 ### Pico Zen - angelinaplaza7, cpearce1, i-gerena, mariorod1015, stevendenny
 
-[boatGame](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+[boat Blitz](/pico-zen/newboat.html) \| [v0.5](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.5)
+[lighteningGame](/pico-zen/index.html)
+[Boat Blitz Fv2](/pico-zen/finalboatgame.html) \| [v0.7](https://github.com/angelinaplaza7/Pico-Zen/releases/tag/v0.7)
 
 <img src="./logos/picozen.gif" alt="Zen garden with animation of a rake scraping the sand. Pico Zen text with a sparkle" width="128"/>
 
 <img src="./pico-zen/newboat_1.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
+
+<img src="./pico-zen/fpv2.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
 ### PIxL Lab - [Z Toups](https://pixllab.github.io)
 
@@ -78,10 +94,18 @@ width="128"/>
 
 <img alt="GoldenWind Logo." img src="https://user-images.githubusercontent.com/89271710/160124622-46026e1e-3921-435d-b8fb-727023805322.gif" width="130" height="130"/>
 
-[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
-
 <img alt="Artie moving around in the trench." img src="https://user-images.githubusercontent.com/89271710/160125325-acc12af3-5feb-48cb-9c15-314a0ef19a42.gif" width="130" height="130"/>
 
+[Artie’s Adventure](/GoldenWind/fpv1/artie’sadventure.html) \| [v0.1](https://github.com/KailyLuna/GoldenWind/releases/tag/v0.1)
+
+<img alt="Artie going through the maps." img src="https://user-images.githubusercontent.com/89271710/164868851-a6872c88-8f93-4f19-91ef-6705173b601c.gif" width="130" height="130"/>
+
+[Artie’s Adventure](/GoldenWing/fpv2\artie'sadventure.html) \| [v.03](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v0.3)
+
+<img alt="Artie’s Adventure Logo, first version." img src="https://user-images.githubusercontent.com/89271710/165144738-71005b80-4ab7-486e-82e0-9b1cb7bdad96.gif" width="130" height="130"/>
+
+
+[Artie’s Adventure - Final Demo](/GoldenWind/FinalDemo/artie’sadventure.html) \| [v1.0](https://github.com/KailyLuna/nmsu-dgd.github.io/releases/tag/v1.0)
 
 ### Project Team 12
 
@@ -91,7 +115,7 @@ width="128"/>
 
 <img src="./RougeOne/rogueone_v0 71-2_0.gif" alt="Gif for rougeone" width="128"/>
 
-[RogueOne](/RougeOne/rogueone_v0.71-2.html) \| [v0.71](https://github.com/dalmei97/RougeOne/releases/tag/v0.71)
+[RougeOne](/RougeOne/rogueone_v0.73.html) \| [v0.73](https://github.com/dalmei97/RougeOne/releases/tag/v0.73)
 
 <img src="./RougeOne/roguelightning_0.gif" alt="Gif for rougelightning" width="128"/>
 
@@ -101,9 +125,9 @@ width="128"/>
 
 <img src="./logos/yipyip_logo.gif" alt="Logo for the game Yip-Yip - pre-release" width="128"/>
 
-[Yip-yip](./Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5)
+[Yip-yip](/Sky Bison/yipyip.html) \| [v0.6](https://github.com/alaynar/yip-yip/releases/tag/v0.6) \| [v0.5](https://github.com/alaynar/yip-yip/releases/tag/v0.5) \| [v0.9](https://github.com/alaynar/yip-yip/releases/tag/v0.9)
 
-<img src="./Sky Bison/yipyip_v0.5_pre-release.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
+<img src="./Sky Bison/yipyip_v0.9_teaser.gif" alt="Teaser trailer for the game Yip-Yip - pre-release" width="128"/>
 
 [Toy Catch](./Sky Bison/toy_catch.html) \| [v1.0](https://github.com/alaynar/yip-yip/releases/tag/v1.0-lightning)
 
@@ -118,7 +142,7 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 <img alt="game opening screen with animated logo" src="./logos/SRGC_logo.gif" width="128"/>
 
-"Lightning Game!!" | [v0.7](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.7)
+[Lollipocalypse](./Super-Retro-Game-Co/lollipocalypse.html) \| [v0.7](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.7)
 
 <img alt="Lollipocalypse!!" src="./Super-Retro-Game-Co/column_8.gif" width="128"/>
 
@@ -131,8 +155,12 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 <img alt="Gameplay of our character going around and dashing through our environment with block collision" src="./tim/gameplay.gif" width="128">
 
-"Dashing Around"| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
+[Dashing Around](/tim/tim.html) \| [v0.5](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.5)
 
 <img alt="Gameplay of our game where you are a dinosaur running and jumping over cacti." src="./tim/lightning_0.gif" width="128">
 
 [Run Dino](/tim/lightning.html) \| [v0.8](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.8)
+
+<img alt="Gameplay of our character dashing around, now with more map and a health icon" src="./tim/gameplay.gif" width="128">
+
+[Dashing Around v0.9](/tim/mytim.html) \| [v0.9](https://github.com/MigglesHere/CS477-TIM/releases/tag/v0.9)
