@@ -146,6 +146,10 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 <img alt="Lollipocalypse!!" src="./Super-Retro-Game-Co/column_8.gif" width="128"/>
 
+[FPv2 Demo](./Super-Retro-Game-Co/hero.html) \| [v0.8](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v0.8)
+
+<img alt="FP v2 demo" src="./Super-Retro-Game-Co/FPv2_Demo.gif" width="128"/>
+
 
 ### TIM - Isaias66, MigglesHere, Theo-Platt
 
