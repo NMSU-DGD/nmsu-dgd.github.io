@@ -154,6 +154,10 @@ Super Retro Game Co logo screen | [v0.6](https://github.com/Gearsie/Super-Retro-
 
 <img alt="FP v2 demo" src="./Super-Retro-Game-Co/FPv2_Demo.gif" width="128"/>
 
+[Final Cyber Saver](./Super-Retro-Game-Co/hero.html) \| [v1.0](https://github.com/Gearsie/Super-Retro-Game-Co/releases/tag/v1.0)
+
+<img alt="FP v2 demo" src="./Super-Retro-Game-Co/hero_2.gif" width="128"/>
+
 
 ### TIM - Isaias66, MigglesHere, Theo-Platt
 
