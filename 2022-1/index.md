@@ -62,7 +62,7 @@ width="128"/>
 
 <img src="./SchoolRouteCharlie/SchoolRouteCharlie3.gif" alt="Gif of the current state of School Route Charlie game - pre-release" width="128"/>
 
-[Sanik Coins](./SchoolRouteCharlie/sanik.html) \| [v0.6] (https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.6.5)
+[Sanik Coins](./SchoolRouteCharlie/sanik.html) \| [v0.6](https://github.com/mrbryantguy/School-Route-Charlie/releases/tag/v0.6.5)
 
 <img src="./SchoolRouteCharlie/Sanik.gif" alt="Gif demonstrating lightning game, collect coins while avoiding fast enemies" width="128"/>
 
