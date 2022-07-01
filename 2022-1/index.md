@@ -9,7 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [CatCat](#CatCat---catsm7-gabemauger)
 - [Circus Bears](#circus-bears---mrbryantguy-johng148-alexismen22a-asellersx)
 - [Pico Zen](#pico-zen---angelinaplaza7-cpearce1-i-gerena-mariorod1015-stevendenny)
-- [PIxL Lab](#pixl-lab---z-toups)
+- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Golden Wind](#Golden-Wind)
 - [Project Team 12](#project-team-12)
 - [Rogue One](#rogue-one---dalmei97-mgroov-kpbianco-luisrojas99)
@@ -78,7 +78,7 @@ width="128"/>
 
 <img src="./pico-zen/fpv2.gif" alt="Boat dodges and gets hit by falling objects" width="128"/>
 
-### PIxL Lab - [Z Toups](https://pixllab.github.io)
+### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
 

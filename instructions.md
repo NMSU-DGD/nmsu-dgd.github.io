@@ -8,7 +8,7 @@ Each semester has a folder that follows the pattern of <year>-<semester as a num
 
 The semester folder contains an index.md file (e.g., this one: [/2020-3/index.md](/2020-3/index.md)), which contains all the [Team Entries](#Team Entries) (see below). 
 
-The semester subfolder contains one folder for all the logos (e.g., [/2020-3/logos](/2020-3/logos)) and then one folder for each team (e.g., [/2020-3/ztoups](/2020-3/ztoups)). 
+The semester subfolder contains one folder for all the logos (e.g., [/2020-3/logos](/2020-3/logos)) and then one folder for each team (e.g., [/2020-3/pixl-lab](/2020-3/pixl-lab)). 
 
 * The logos folder should only contain GIFs for each team's logo. 
 

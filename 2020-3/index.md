@@ -8,7 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Exemplar Games](#exemplar-games---kashkac-isaacapo-matthewhorrocks)
 - [Four](#four---andresvii-edwin710-torresmi)
 - [Korok Kidz](#korok-kidz---brianna-moffett-kami-otero-de-owens-samantha-turner)
-- [PIxL Lab](#pixl-lab---z-toups)
+- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Project Tanks](#project-tanks---aj1337-fidelsoto-nmsu)
 - [ScaleTippers](#scaletippers---erick-ortiz-benjamin-peaslee)
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
@@ -78,7 +78,7 @@ KorokKidz Presents: KoolKidz Marble-ous Adventure - [Play](/2020-3/KorokKidz/kk_
 
 
 
-### PIxL Lab - [Z Toups](https://pixl.nmsu.edu/people/z)
+### PIxL Lab - [Phoebe Toups Dugas](https://pixl.nmsu.edu/people/z)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
 
