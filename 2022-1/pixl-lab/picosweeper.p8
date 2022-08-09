@@ -2,7 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 27
 __lua__
 -- picosweeper
--- by z toups
+-- by p toups
 
 -- init
 
@@ -52,7 +52,7 @@ ui.mode = k_start
 ui.menu_item = 0
 
 -- save ids
-k_save_name  = "ztoups_picosweeper_0_1"
+k_save_name  = "snapdragoness_picosweeper_0_1"
 k_save_first = 0
 k_save_n_m   = 1
 k_save_w     = 2

@@ -2,7 +2,7 @@ pico-8 cartridge // http://www.pico-8.com
 version 29
 __lua__
 -- atmos
--- game design, z toups
+-- game design, p toups
 -- exemplar games
 
 --{ global vars
