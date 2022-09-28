@@ -5,11 +5,30 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
-- [Team Placeholder 1](#team-placeholder-1)
-- [Team Lamb](#team-lamb---r-vargas)
+- [Ascension](#ascension)
+- [Bullet Blaze](#bullet-blaze)
+- [Concerned Ape](#concerned-ape)
+- [Gunner Channel](#gunner-channel)
+- [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
+- [Polar Pear](#polar-pear)
+- [Radical Ascension](#radical-ascension)
+- [Sumptuous Skunk](#sumptuous-skunk)
+- [Team Lamb](#team-lamb---r-vargas)
+- [The Dropouts](#the-dropouts)
+- [The Iron Squids](#the-iron-squids)
 
-### Team Placeholder 1 
+### Ascension
+
+### Bullet Blaze
+
+### Concerned Ape
+
+### Gunner Channel
+
+### Mini
+
+### Radical Ascension
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
@@ -27,3 +46,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
+### Polar Pear
+
+### Sumptuous Skunk
+
+### The Dropouts
+
+### The Iron Squids
