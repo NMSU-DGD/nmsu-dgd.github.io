@@ -6,9 +6,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ## Contents
 
 - [Team Placeholder 1](#team-placeholder-1)
+- [Team Lamb](#team-lamb---r-vargas)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 
 ### Team Placeholder 1 
+
+### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
