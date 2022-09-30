@@ -12,7 +12,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
-- [Radical Ascension](#radical-ascension)
+- [Radical Ascension](#radical-ascension---dylrlas)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Mini
 
-### Radical Ascension
+### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
