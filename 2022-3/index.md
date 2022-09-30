@@ -17,6 +17,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
+- [Alis](#alis---laszlo-nguyen)
+
 
 ### Ascension
 
@@ -53,3 +55,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Dropouts
 
 ### The Iron Squids
+
+### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
