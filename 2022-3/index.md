@@ -8,6 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
+- [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
@@ -23,6 +24,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Bullet Blaze
 
 ### Concerned Ape
+
+### Fat Bird - marcusm5670
 
 ### Gunner Channel
 
