@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Mini
 
-### Radical Ascension
+### Radical Ascension - [Dylan L.](https://github.com/dylrlas/Team-Repo)
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
