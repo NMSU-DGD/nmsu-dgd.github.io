@@ -27,7 +27,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Gunner Channel
 
-### Lotus
+### Lotus - [Levi Lopez]
 
 ### Mini
 
