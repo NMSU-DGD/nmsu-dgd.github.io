@@ -9,6 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
 - [Gunner Channel](#gunner-channel)
+- [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
@@ -25,6 +26,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Concerned Ape
 
 ### Gunner Channel
+
+### Lotus
 
 ### Mini
 
