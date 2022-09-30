@@ -53,3 +53,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Dropouts
 
 ### The Iron Squids
+### Maze in the Dungeon - Ruidong Chen , Morgan Knight, Xiaoyan Tian
