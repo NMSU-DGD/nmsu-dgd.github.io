@@ -22,7 +22,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bullet Blaze
 
-### Concerned Ape
+### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 
 ### Gunner Channel
 
