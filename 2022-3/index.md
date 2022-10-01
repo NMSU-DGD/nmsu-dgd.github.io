@@ -48,7 +48,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Polar Pear
 
-### Sumptuous Skunk
+### Sumptuous Skunk - Kira-Flakes
 
 ### The Dropouts
 
