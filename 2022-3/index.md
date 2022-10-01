@@ -1,4 +1,5 @@
 # 2022 - Fall
+
 ## [Game Portfolio for NMSU Digital Game Design](/../index.md)
 
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
@@ -46,7 +47,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
-### Polar Pear
+### Polar Pear - [William Le - thinhtun2000]
 
 ### Sumptuous Skunk
 
