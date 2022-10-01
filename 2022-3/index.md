@@ -13,6 +13,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension)
+- [Rat-Man](#rat-man)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -29,6 +30,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Mini
 
 ### Radical Ascension
+
+### Rat-Man - [Andrew Melo]
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
