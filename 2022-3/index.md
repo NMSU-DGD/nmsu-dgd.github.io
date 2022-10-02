@@ -9,6 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
 - [Gunner Channel](#gunner-channel)
+- [Insufficient A](#insufficient-a---a-marquez)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
@@ -25,6 +26,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Concerned Ape
 
 ### Gunner Channel
+
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
 ### Mini
 
