@@ -62,7 +62,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
-### Sumptuous Skunk
+### Sumptuous Skunk - Kira-Flakes
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
