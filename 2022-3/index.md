@@ -11,6 +11,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Concerned Ape](#concerned-ape)
 - [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
+- [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
@@ -32,6 +33,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Fat Bird - marcusm5670
 
 ### Gunner Channel - Mgroov
+
+### Lotus - [Levi Lopez](https://github.com/llopez020)
 
 ### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
