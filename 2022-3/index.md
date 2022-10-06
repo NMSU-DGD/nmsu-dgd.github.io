@@ -14,13 +14,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
+- [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
-- [One's Comp Games](#ones-comp-games--m-romero)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -36,11 +36,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Lotus - [Levi Lopez](https://github.com/llopez020)
 
+### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
+
 ### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
-### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
-
-### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
@@ -58,12 +58,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Polar Pear
 
+### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+
 ### Sumptuous Skunk
+
+### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
 ### The Dropouts
 
 ### The Iron Squids
 
-### Maze in the Dungeon - Ruidong Chen , Morgan Knight, Xiaoyan Tian
-
-### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
