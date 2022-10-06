@@ -5,33 +5,40 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+- [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
+- [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
 - [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
-- [Radical Ascension](#radical-ascension)
+- [Radical Ascension](#radical-ascension---dylrlas)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
+- [One's Comp Games](#ones-comp-games--m-romero)
+
+### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
 ### Ascension
 
-### Bullet Blaze
+### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
 ### Concerned Ape
 
-### Gunner Channel
+### Fat Bird - marcusm5670
+
+### Gunner Channel - Mgroov
 
 ### Lotus - [Levi Lopez](https://github.com/llopez020)
 
-### Mini
+### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
-### Radical Ascension
+### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
@@ -56,3 +63,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Dropouts
 
 ### The Iron Squids
+
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
