@@ -17,6 +17,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
+- [Rat-Man](#rat-man)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -61,6 +62,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Polar Pear
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+
+### Rat-Man - [Andrew Melo]
 
 ### Sumptuous Skunk - Kira-Flakes
 
