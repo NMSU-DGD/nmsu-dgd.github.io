@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
-- [The Iron Squids](#the-iron-squids)
+- [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -68,6 +68,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### The Dropouts
 
-### The Iron Squids
+### The Iron Squids - [J. Cooper](https://github.com/n0dat)[D. Ferguson](https://github.com/InlaidData)
 
 ### Tony Spicy - John Gilbert
