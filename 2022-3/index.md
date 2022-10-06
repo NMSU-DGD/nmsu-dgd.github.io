@@ -24,7 +24,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Concerned Ape
 
-### Gunner Channel
+### Gunner Channel - Mgroov
 
 ### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
