@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
-### Concerned Ape
+### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 
 ### Fat Bird - marcusm5670
 
