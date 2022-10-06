@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Ascension
 
-### Bullet Blaze
+### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
 ### Concerned Ape
 
