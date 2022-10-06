@@ -19,6 +19,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
+- [One's Comp Games](#ones-comp-games--m-romero)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -60,3 +61,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### The Iron Squids
 
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
