@@ -12,6 +12,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Concerned Ape](#concerned-ape)
 - [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
+- [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
@@ -37,6 +38,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Galactic Survivor - Alejandro Flores, Fabliha Bushra
 
 ### Gunner Channel - Mgroov
+
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
 ### Lotus - [Levi Lopez](https://github.com/llopez020)
 
