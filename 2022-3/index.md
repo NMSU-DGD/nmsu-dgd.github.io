@@ -32,6 +32,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Fat Bird - marcusm5670
 
+### Galactic Survivor - Alejandro Flores, Fabliha Bushra
+
 ### Gunner Channel - Mgroov
 
 ### Lotus - [Levi Lopez](https://github.com/llopez020)
@@ -67,4 +69,3 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Dropouts
 
 ### The Iron Squids
-
