@@ -64,4 +64,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### The Iron Squids
 
+### Maze in the Dungeon - Ruidong Chen , Morgan Knight, Xiaoyan Tian
+
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
