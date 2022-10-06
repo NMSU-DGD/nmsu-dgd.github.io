@@ -5,6 +5,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+- [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
@@ -19,17 +20,19 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
 
+### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
+
 ### Ascension
 
-### Bullet Blaze
+### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
 ### Concerned Ape
 
 ### Fat Bird - marcusm5670
 
-### Gunner Channel
+### Gunner Channel - Mgroov
 
-### Mini
+### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
 ### Radical Ascension
 
@@ -56,3 +59,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Dropouts
 
 ### The Iron Squids
+
