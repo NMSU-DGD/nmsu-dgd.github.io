@@ -38,6 +38,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Galactic Survivor - Alejandro Flores, Fabliha Bushra
 
 ### Gunner Channel - Mgroov
+<img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
+
+https://mgroov.github.io/starstruck/
+
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
