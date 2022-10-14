@@ -10,7 +10,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Korok Kidz](#korok-kidz---brianna-moffett-kami-otero-de-owens-samantha-turner)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Project Tanks](#project-tanks---aj1337-fidelsoto-nmsu)
-- [ScaleTippers](#scaletippers---erick-ortiz-alexandria-helion)
+- [ScaleTippers](#scaletippers---erick-ortiz-alexandria-hellion)
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
