@@ -64,7 +64,10 @@ https://mgroov.github.io/starstruck/
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
-### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+<img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
+
+[Miny](/Miny/miny.html) \| [v0.1](https://github.com/dustinbachman/PICOProject/releases/tag/v0.1)
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
