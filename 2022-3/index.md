@@ -1,39 +1,60 @@
 # 2022 - Fall
+
 ## [Game Portfolio for NMSU Digital Game Design](/../index.md)
 
 Projects are organized by team. Each team has the animated gif of their logo, and a series of games below, each with a gif preview and links to versions of the game.
 
 ## Contents
 
+- [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
+- [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
+- [Insufficient A](#insufficient-a---a-marquez)
+- [Lotus](#lotus)
 - [Mini](#mini)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
+- [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
-- [Radical Ascension](#radical-ascension)
+- [Radical Ascension](#radical-ascension---dylrlas)
+- [Rat-Man](#rat-man)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
-- [The Iron Squids](#the-iron-squids)
+- [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
+
+### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
 ### Ascension
 
-### Bullet Blaze
+### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
-### Concerned Ape
+### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 
-### Gunner Channel
+### Fat Bird - marcusm5670
+
+### Galactic Survivor - Alejandro Flores, Fabliha Bushra
+
+### Gunner Channel - Mgroov
+<img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
+
+https://mgroov.github.io/starstruck/
+
+
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
+
+### Lotus - [Levi Lopez](https://github.com/llopez020)
+
+### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 [Miny](/Miny/miny.html) \| [v0.1](https://github.com/dustinbachman/PICOProject/releases/tag/v0.1)
 
-### Radical Ascension
-
-### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
@@ -49,10 +70,18 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
-### Polar Pear
+### Polar Pear - [William Le - thinhtun2000]
 
-### Sumptuous Skunk
+### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+
+### Rat-Man - [Andrew Melo]
+
+### Sumptuous Skunk - Kira-Flakes
+
+### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
 ### The Dropouts
 
-### The Iron Squids
+### The Iron Squids - [J. Cooper](https://github.com/n0dat)[D. Ferguson](https://github.com/InlaidData)
+
+### Tony Spicy - John Gilbert
