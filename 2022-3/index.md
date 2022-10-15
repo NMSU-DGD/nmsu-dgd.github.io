@@ -81,7 +81,7 @@ https://mgroov.github.io/starstruck/
 
 ### The Iron Squids - [J. Cooper](https://github.com/n0dat) [D. Ferguson](https://github.com/InlaidData)
 
-<img src="./logos/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks." width="128"/>
+<img src="./armoted-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks." width="128"/>
 
 [Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
