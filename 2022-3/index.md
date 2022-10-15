@@ -33,7 +33,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 
-### Fat Bird - marcusm5670
+### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
+Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release page](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.1)
+[Game preview](2022-3/FatBird/v0.1/preview.gif)
 
 ### Galactic Survivor - Alejandro Flores, Fabliha Bushra
 
