@@ -32,6 +32,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
+[hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
+
+<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - marcusm5670
 
