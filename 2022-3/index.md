@@ -9,7 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
 - [Gunner Channel](#gunner-channel)
-- [Mini](#mini)
+- [Miny](#miny)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension)
