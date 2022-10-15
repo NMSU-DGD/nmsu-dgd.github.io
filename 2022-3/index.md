@@ -12,7 +12,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Concerned Ape](#concerned-ape)
 - [Fat Bird](#fat-bird)
 - [Gunner Channel](#gunner-channel)
-- [Miny](#miny)
+- [Miny](#miny---dustinbachman)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
