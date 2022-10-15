@@ -10,7 +10,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Korok Kidz](#korok-kidz---brianna-moffett-kami-otero-de-owens-samantha-turner)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Project Tanks](#project-tanks---aj1337-fidelsoto-nmsu)
-- [ScaleTippers](#scaletippers---erick-ortiz-benjamin-peaslee)
+- [ScaleTippers](#scaletippers---erick-ortiz-alexandria-hellion)
 - [Tersis](#tersis---ayavar-smithsonian64-tiare-a-c)
 
 ### 404 Not Found - Ammar ELWazir, Vensan Cabardo, George Torres
@@ -111,7 +111,7 @@ KorokKidz Presents: KoolKidz Marble-ous Adventure - [Play](/2020-3/KorokKidz/kk_
 
 ![Demo of our second Prototype](/ProjectTanks/project-tanks-final/project-tanks-final.gif)
 
-### ScaleTippers - Erick Ortiz, Benjamin Peaslee
+### ScaleTippers - Erick Ortiz, Alexandria Hellion
 
 ![Team ScaleTippers logo](/logos/scaletippers-logo.gif)
 
