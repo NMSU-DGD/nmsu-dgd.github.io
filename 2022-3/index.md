@@ -29,7 +29,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Mini
 
 ### Radical Ascension
-[BattleofChaos](/Radical_Ascension/BattleofChaos.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
+[BattleofChaos](/Team-Repo/battleofchaos.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
 
 <img src= ./Radical_Ascension/battleofchaos_v0.1.gif alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
 
