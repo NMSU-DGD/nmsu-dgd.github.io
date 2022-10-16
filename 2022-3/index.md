@@ -15,7 +15,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
-- [Mini](#mini)
+- [Miny](#miny---dustinbachman)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
@@ -64,7 +64,10 @@ https://mgroov.github.io/starstruck/
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
-### Mini - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+<img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
+
+[Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
