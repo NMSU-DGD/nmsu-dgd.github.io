@@ -15,7 +15,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
-- [Mini](#mini)
+- [Miny](#miny---dustinbachman)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [One's Comp Games](#ones-comp-games--m-romero)
 - [Polar Pear](#polar-pear)
