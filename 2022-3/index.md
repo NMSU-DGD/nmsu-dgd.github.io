@@ -17,6 +17,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids)
+- [Tony Spicy](#TonySpicy)
 
 ### Ascension
 
@@ -54,4 +55,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### The Iron Squids
 
-### Tony Spicy - John Gilbert
+### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+
+<img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
