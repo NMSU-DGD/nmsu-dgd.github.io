@@ -67,7 +67,7 @@ https://mgroov.github.io/starstruck/
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
-[Miny](/Miny/miny.html) \| [v0.1](https://github.com/dustinbachman/PICOProject/releases/tag/v0.1)
+[Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
