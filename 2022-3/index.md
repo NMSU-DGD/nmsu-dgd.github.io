@@ -101,6 +101,10 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 ### The Dropouts
 
-### The Iron Squids - [J. Cooper](https://github.com/n0dat)[D. Ferguson](https://github.com/InlaidData)
+### The Iron Squids - [J. Cooper](https://github.com/n0dat) [D. Ferguson](https://github.com/InlaidData)
+
+<img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks." width="128"/>
+
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
 ### Tony Spicy - John Gilbert
