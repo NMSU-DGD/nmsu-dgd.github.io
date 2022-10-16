@@ -36,6 +36,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
+
+<img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
+
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+
+<img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
+
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 [hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
 
