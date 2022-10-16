@@ -11,6 +11,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
 - [Fat Bird](#fat-bird)
+- [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -39,7 +40,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Fat Bird - marcusm5670
 
-### Galactic Survivor - Alejandro Flores, Fabliha Bushra
+### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+[Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
+
+<img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 <img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
