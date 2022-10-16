@@ -11,6 +11,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape)
 - [Fat Bird](#fat-bird)
+- [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -27,17 +28,27 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
-### Ascension
+### Ascension - navarrebrown
+[Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+
+<img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
+
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
+[hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
+
+<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
-Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release v0.1](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.1)
-![Subgame preview](/2022-3/FatBird/v0.1/preview.gif)
+Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release page](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.1)
+[Game preview](2022-3/FatBird/v0.1/preview.gif)
 
-### Galactic Survivor - Alejandro Flores, Fabliha Bushra
+### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+[Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
+
+<img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 <img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
@@ -47,7 +58,9 @@ https://mgroov.github.io/starstruck/
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
-### Lotus - [Levi Lopez](https://github.com/llopez020)
+[Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
+
+<img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
@@ -72,15 +85,26 @@ https://mgroov.github.io/starstruck/
 ### Polar Pear - [William Le - thinhtun2000]
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaos.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
+
+<img src="./Radical_Ascension/battleofchaos_v0.1.gif" alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
 
 ### Rat-Man - [Andrew Melo]
 
-### Sumptuous Skunk - Kira-Flakes
+### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
+Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
+
+![Skarper preview v0.1](/2022-3/SumptuousSkunk/skarper_0.gif)
+
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
 ### The Dropouts
 
-### The Iron Squids - [J. Cooper](https://github.com/n0dat)[D. Ferguson](https://github.com/InlaidData)
+### The Iron Squids - [J. Cooper](https://github.com/n0dat) [D. Ferguson](https://github.com/InlaidData)
+
+<img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks." width="128"/>
+
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
 ### Tony Spicy - John Gilbert
