@@ -58,7 +58,9 @@ https://mgroov.github.io/starstruck/
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
-### Lotus - [Levi Lopez](https://github.com/llopez020)
+[Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
+
+<img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
