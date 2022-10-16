@@ -81,7 +81,11 @@ https://mgroov.github.io/starstruck/
 
 ### Rat-Man - [Andrew Melo]
 
-### Sumptuous Skunk - Kira-Flakes
+### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
+Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
+
+![Skarper preview v0.1](/2022-3/SumptuousSkunk/skarper_0.gif)
+
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
