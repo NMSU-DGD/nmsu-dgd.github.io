@@ -21,7 +21,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
-- [Rat-Man](#rat-man)
+- [Rat-Man](#rat-man---andrew-melo)
 - [Sumptuous Skunk](#sumptuous-skunk)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -111,6 +111,9 @@ https://mgroov.github.io/starstruck/
 <img src="./Radical_Ascension/battleofchaos_v0.1.gif" alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
 
 ### Rat-Man - [Andrew Melo]
+<img src="./Rat-Man/Rat-Man.gif" alt="Demonstrating in game movement." width="128"/>
+
+[Rat-Man](/Rat-Man/ratman.html) \| [v0.1](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.1)
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
