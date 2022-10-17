@@ -15,9 +15,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
+- [Maze in the Dungeon](#Maze-in-the-Dungeon)
 - [Miny](#miny---dustinbachman)
-- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [One's Comp Games](#ones-comp-games--m-romero)
+- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man)
@@ -25,7 +26,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
-- [Maze in the Dungeon](#Maze-in-the-Dungeon)
+- [Tony Spicy](#TonySpicy)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -36,6 +37,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
+
+
+<img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
+
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+
+<img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
 [hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
@@ -89,6 +97,12 @@ https://mgroov.github.io/starstruck/
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
+
+<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+
+[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
+
 ### Polar Pear - [William Le - thinhtun2000]
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
@@ -101,8 +115,7 @@ https://mgroov.github.io/starstruck/
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
 
-![Skarper preview v0.1](/2022-3/SumptuousSkunk/skarper_0.gif)
-
+<img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
@@ -114,4 +127,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 [Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
-### Tony Spicy - John Gilbert
+### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+
+<img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
