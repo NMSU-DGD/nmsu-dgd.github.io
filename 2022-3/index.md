@@ -132,6 +132,10 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
+<img src="./TheLamb/apocalypse_couriers_0.gif" alt="Animation showing a level generation and movement in-game." width="128">
+
+[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+
 ### The Dropouts
 
 ### The Iron Squids - [J. Cooper](https://github.com/n0dat) [D. Ferguson](https://github.com/InlaidData)
