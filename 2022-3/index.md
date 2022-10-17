@@ -31,13 +31,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
 ### Ascension - navarrebrown
+
 [Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
 
-
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
-
 
 <img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
 
@@ -46,24 +45,27 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
 ### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
+
 [hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
 
 <img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
+
 Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release page](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.1)
 [Game preview](2022-3/FatBird/v0.1/preview.gif)
 
 ### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+
 [Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
 
 <img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
+
 <img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
 
 https://mgroov.github.io/starstruck/
-
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
@@ -72,11 +74,13 @@ https://mgroov.github.io/starstruck/
 <img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
+
 [Click to play demo](/Maze-in-Dungeon/maze.html) \| [v0.1](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v0.1)
 
 <img src="./Maze-in-Dungeon/maze_0.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 [Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
@@ -103,9 +107,14 @@ https://mgroov.github.io/starstruck/
 
 [Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
 
-### Polar Pear - [William Le - thinhtun2000]
+### Polar Pear - [William Le]()
+
+<img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
+
+[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.1)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+
 [BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaos.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
 
 <img src="./Radical_Ascension/battleofchaos_v0.1.gif" alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
@@ -116,6 +125,7 @@ https://mgroov.github.io/starstruck/
 [Rat-Man](/Rat-Man/ratman.html) \| [v0.1](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.1)
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
+
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
 
 <img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
@@ -131,6 +141,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
-[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1)
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
