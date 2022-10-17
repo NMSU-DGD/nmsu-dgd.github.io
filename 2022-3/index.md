@@ -62,3 +62,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Iron Squids
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
+
+<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+
+[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
