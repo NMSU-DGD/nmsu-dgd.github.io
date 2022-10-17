@@ -98,8 +98,7 @@ https://mgroov.github.io/starstruck/
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
 
-![Skarper preview v0.1](/2022-3/SumptuousSkunk/skarper_0.gif)
-
+<img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
