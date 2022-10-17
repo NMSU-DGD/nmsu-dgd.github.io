@@ -15,6 +15,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
+- [Maze in the Dungeon](#Maze-in-the-Dungeon)
 - [Miny](#miny---dustinbachman)
 - [One's Comp Games](#ones-comp-games--m-romero)
 - [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
@@ -71,6 +72,9 @@ https://mgroov.github.io/starstruck/
 <img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
+[Click to play demo](/Maze-in-Dungeon/maze.html) \| [v0.1](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v0.1)
+
+<img src="./Maze-in-Dungeon/maze_0.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
