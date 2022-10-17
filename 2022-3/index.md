@@ -78,3 +78,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### The Iron Squids - [J. Cooper](https://github.com/n0dat)[D. Ferguson](https://github.com/InlaidData)
 
 ### Tony Spicy - John Gilbert
+
+### Cave Ascent - Elias Leverett (https://github.com/eliaslev0/Fall-2022-Game-Design)
