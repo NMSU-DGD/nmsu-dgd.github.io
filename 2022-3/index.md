@@ -25,6 +25,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
+- [Tony Spicy](#TonySpicy)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -110,4 +111,8 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 [Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
-### Tony Spicy - John Gilbert
+### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+
+<img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
