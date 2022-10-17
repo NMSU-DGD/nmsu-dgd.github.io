@@ -16,8 +16,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
 - [Miny](#miny---dustinbachman)
-- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [One's Comp Games](#ones-comp-games--m-romero)
+- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man)
@@ -93,6 +93,12 @@ https://mgroov.github.io/starstruck/
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
 
+### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
+
+<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+
+[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
+
 ### Polar Pear - [William Le - thinhtun2000]
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
@@ -121,4 +127,3 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
-
