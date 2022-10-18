@@ -91,6 +91,9 @@ https://mgroov.github.io/starstruck/
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
+<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+
+[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
@@ -104,12 +107,6 @@ https://mgroov.github.io/starstruck/
 <img alt="Animation of character jumping in a platformer game." src="./pixl-lab/samusmove_0.gif" width="128"/>
 
 [PIxL Pong!](/pixl-lab/pixlpong.html) \| [v0.8](https://github.com/NMSU-DGD/lets_make_in_pico_8/releases/tag/0.8)
-
-### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
-
-<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
-
-[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
 
 ### Polar Pear - [William Le]()
 
