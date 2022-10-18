@@ -52,8 +52,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
 
-Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release page](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.1)
-[Game preview](2022-3/FatBird/v0.1/preview.gif)
+Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.15)
+
+<img alt="Game preview" src="./FatBird/v0.1/preview.gif" width="128"/>
 
 ### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
 
