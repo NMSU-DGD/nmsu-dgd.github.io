@@ -67,7 +67,10 @@ Subgame - [Play](/2022-3/FatBird/v0.1/subgame.html) | [Release page](https://git
 
 https://mgroov.github.io/starstruck/
 
-### Insufficient A - [A. Marquez](https://github.com/amarq30)
+### Insufficient A - [A. Marquez](https://github.com/amarq30) 
+[The Help v0.1](/InsufficientA/thehelp.html)
+
+<img src = "./InsufficientA/thehelp_0.gif" alt = "Quick gameplay" width ="128"/>
 
 [Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
 
