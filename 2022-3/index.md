@@ -9,7 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
-- [Concerned Ape](#concerned-ape)
+- [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
 - [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
@@ -44,7 +44,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
-### Concerned Ape - [Vinny Mikelic] (https://github.com/vmikelic)
+### Concerned Ape - [Vinny Mikelic](https://github.com/vmikelic)
 
 [hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
 
