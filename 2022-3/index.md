@@ -112,7 +112,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.1)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
-[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
