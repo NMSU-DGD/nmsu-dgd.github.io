@@ -150,3 +150,9 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
+### Rand 3 - Ryan (John) Weems, Simon Hockin 
+
+Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
+
+<img src="./Maze-Guy/mazeguy.gif" alt="A short gif showing the gameplay of Maze Guy" width="128"/>
