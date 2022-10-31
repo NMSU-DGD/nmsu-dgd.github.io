@@ -22,11 +22,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man---andrew-melo)
-- [Sumptuous Skunk](#sumptuous-skunk)
+- [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
+- [Rand 3](#rand-3---ryan-john-weems-simon-hockin)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
