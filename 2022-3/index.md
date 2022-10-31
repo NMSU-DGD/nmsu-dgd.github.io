@@ -8,6 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
+- [Brick Breaker](#brick-breaker)
 - [Bullet Blaze](#bullet-blaze)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
@@ -35,6 +36,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
+
+[Brick Breaker](./brickbreak/brickbreak.html) - [Levi Lopez](https://github.com/llopez020/Lightning-Game)
+
+<img src="./brickbreak/brickbreak.gif" alt="Gameplay" width="128"/>
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
