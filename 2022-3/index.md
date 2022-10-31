@@ -8,7 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
-- [Bullet Blaze](#bullet-blaze)
+- [Bullet Blaze](#bullet-blaze---steven-williams)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
 - [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
@@ -40,7 +40,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
 
-[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
