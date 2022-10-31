@@ -37,7 +37,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
 
-[Brick Breaker](./brickbreak/brickbreak.html) - [Levi Lopez](https://github.com/llopez020/Lightning-Game)
+[Brick Breaker](./brickbreak/brickbreak.html) - [John Gilbert, Dylan Lassard, Elias Leverett, Levi Lopez](https://github.com/llopez020/Lightning-Game)
 
 <img src="./brickbreak/brickbreak.gif" alt="Gameplay" width="128"/>
 
