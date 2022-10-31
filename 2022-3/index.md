@@ -9,9 +9,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Bullet Blaze](#bullet-blaze)
+  [Chicken Shooter](#chicken-shooter--william-le--alejandro-flores--matthew-groover--morgan-knight--ruidong-chen--)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
-- [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
+- [Galactic Survival](#galactic-survival--alejandro-flores--fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -43,6 +44,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
+
+### Chicken Shooter - [William Le](https://github.com/thinhtun2000), [Alejandro Flores](https://github.com/ilbambino4), [Matthew Groover](https://github.com/mgroov), [Morgan Knight](https://github.com/mknight132), [Ruidong Chen](https://github.com/chenruid)
+
+[Chicken Shooter](/ChickenShooter/chicken.html) \| (V1.0)
+
+<img alt="Chiken Shooter" src="./ChickenShooter/teaser.gif" width="128"/>
 
 ### Concerned Ape - [Vinny Mikelic](https://github.com/vmikelic)
 
