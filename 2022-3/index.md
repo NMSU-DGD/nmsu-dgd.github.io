@@ -9,7 +9,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
 - [Brick Breaker](#brick-breaker)
-- [Bullet Blaze](#bullet-blaze)
+- [Bullet Blaze](#bullet-blaze---steven-williams)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
 - [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
@@ -28,6 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
+- [Space Invaders: Phys](#space-invaders---phys)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -45,7 +46,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
 
-[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
@@ -155,3 +156,9 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
+### Space Invaders - Phys
+
+[Space Invaders: Phys](https://vmikelic.github.io/lightning) \| [v1.0](https://github.com/vmikelic/lightning-game-rand/releases/tag/v1.0)
+
+<img src="https://vmikelic.github.io/lightning.gif" alt="Animation of a player shooting asteroids with a space ship in a game." width="128"/>
