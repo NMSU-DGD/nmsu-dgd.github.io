@@ -127,3 +127,18 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.0](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
+### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
+
+<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
+
+[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
+
+
+
+
+
+
+
+
+
