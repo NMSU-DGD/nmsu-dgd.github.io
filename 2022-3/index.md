@@ -166,6 +166,12 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
+### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
+
+<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
+
+[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
+
 ### Rand 3 - Ryan (John) Weems, Simon Hockin 
 
 Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
