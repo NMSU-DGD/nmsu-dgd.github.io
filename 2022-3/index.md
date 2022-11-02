@@ -8,6 +8,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
+- [Beat](#dustin-bachman--navarre-brown--marcus-martinez--steven-williams)
 - [Bullet Blaze](#bullet-blaze)
 - [Brick Breaker](#brick-breaker)
 - [Bullet Blaze](#bullet-blaze---steven-williams)
@@ -40,6 +41,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
+
+### Beat - [Dustin Bachman, Navarre Brown, Marcus Martinez, Steven Williams](https://github.com/marcusm5670/LightningGame)
+
+[Play](Beat/beatv0.2.html) \| [Release page](https://github.com/marcusm5670/LightningGame/releases/tag/v0.2)
+
+<img src="./Beat/beatteaser.gif" alt="Teaser showing gameplay" width="128"/>
 
 [Brick Breaker](./brickbreak/brickbreak.html) - [John Gilbert, Dylan Lassard, Elias Leverett, Levi Lopez](https://github.com/llopez020/Lightning-Game)
 
