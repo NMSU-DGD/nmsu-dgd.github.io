@@ -106,7 +106,7 @@ https://mgroov.github.io/starstruck/
 <img src="./Maze-in-Dungeon/maze_0.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
-
+<img src = "./logos/miny_logo.gif" alt = "Gif of Miny logo" width = "128"/>
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 [Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
