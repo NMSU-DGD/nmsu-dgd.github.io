@@ -82,6 +82,7 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 [Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
 
+<img alt="Glogo" src="./logos/Galactic_Survivor_Logo.gif" width="128"/>
 <img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
