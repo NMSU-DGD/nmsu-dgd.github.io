@@ -74,6 +74,8 @@ https://mgroov.github.io/starstruck/
 
 <img src="./Radical_Ascension/battleofchaos_v0.1.gif" alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
 
+<img src="./logos/radicalasc_logo.gif" alt="Game dev. team logo for Radical Ascension" width="128"/>
+
 ### Rat-Man - [Andrew Melo]
 
 ### Sumptuous Skunk - Kira-Flakes
