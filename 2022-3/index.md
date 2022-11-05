@@ -8,11 +8,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
-- [Brick Breaker](#brick-breaker)
+- [Beat](#dustin-bachman--navarre-brown--marcus-martinez--steven-williams)
 - [Bullet Blaze](#bullet-blaze)
+- [Brick Breaker](#brick-breaker)
+- [Bullet Blaze](#bullet-blaze---steven-williams)
+- [Chicken Shooter](#chicken-shooter--william-le--alejandro-flores--matthew-groover--morgan-knight--ruidong-chen--)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
-- [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
+- [Galactic Survival](#galactic-survival--alejandro-flores--fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -23,11 +26,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man---andrew-melo)
-- [Sumptuous Skunk](#sumptuous-skunk)
+- [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
+- [Rand 3](#rand-3---ryan-john-weems-simon-hockin)
+- [Space Invaders: Phys](#space-invaders---phys)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
@@ -37,6 +42,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
 
+### Beat - [Dustin Bachman, Navarre Brown, Marcus Martinez, Steven Williams](https://github.com/marcusm5670/LightningGame)
+
+[Play](Beat/beatv0.2.html) \| [Release page](https://github.com/marcusm5670/LightningGame/releases/tag/v0.2)
+
+<img src="./Beat/beatteaser.gif" alt="Teaser showing gameplay" width="128"/>
+
 [Brick Breaker](./brickbreak/brickbreak.html) - [John Gilbert, Dylan Lassard, Elias Leverett, Levi Lopez](https://github.com/llopez020/Lightning-Game)
 
 <img src="./brickbreak/brickbreak.gif" alt="Gameplay" width="128"/>
@@ -45,9 +56,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
 
-[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
+
+### Chicken Shooter - [William Le](https://github.com/thinhtun2000), [Alejandro Flores](https://github.com/ilbambino4), [Matthew Groover](https://github.com/mgroov), [Morgan Knight](https://github.com/mknight132), [Ruidong Chen](https://github.com/chenruid)
+
+[Chicken Shooter](/ChickenShooter/chicken.html) \| (V1.0)
+
+<img alt="Chiken Shooter" src="./ChickenShooter/teaser.gif" width="128"/>
 
 ### Concerned Ape - [Vinny Mikelic](https://github.com/vmikelic)
 
@@ -157,3 +174,21 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
+### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
+
+<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
+
+[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
+
+### Rand 3 - Ryan (John) Weems, Simon Hockin 
+
+Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
+
+<img src="./Maze-Guy/mazeguy.gif" alt="A short gif showing the gameplay of Maze Guy" width="128"/>
+
+### Space Invaders - Phys
+
+[Space Invaders: Phys](https://vmikelic.github.io/lightning) \| [v1.0](https://github.com/vmikelic/lightning-game-rand/releases/tag/v1.0)
+
+<img src="https://vmikelic.github.io/lightning.gif" alt="Animation of a player shooting asteroids with a space ship in a game." width="128"/>
