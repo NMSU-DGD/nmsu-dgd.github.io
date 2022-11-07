@@ -15,7 +15,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Chicken Shooter](#chicken-shooter--william-le--alejandro-flores--matthew-groover--morgan-knight--ruidong-chen--)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
-- [Galactic Survival](#galactic-survival--alejandro-flores--fabliha-bushra)
+- [Galactic Survival](#galactic-survival---alejandro-flores-fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -86,9 +86,10 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 ### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
 
-[Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
+[Galactic Survival](/Galactic-Survival/galactic.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3)
 
-<img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
+<img alt="GalacticGameslogo" src="./logos/Galactic_Survivor_Logo.gif" width="128"/>
+<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 
