@@ -150,6 +150,8 @@ https://mgroov.github.io/starstruck/
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
+<img src="./SumptuousSkunk/Sump_Skunk.JPG" alt="A gif showing the Sumptuous Skunk group logo (picture)" width="128"/>
+
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
 
 <img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
