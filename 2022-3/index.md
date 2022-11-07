@@ -99,7 +99,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/project_lotus.gif" alt="Project Lotus Logo" width="128"/>
 
-<img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
+<img src="./lotus/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
