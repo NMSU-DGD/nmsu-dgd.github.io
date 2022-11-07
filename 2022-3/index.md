@@ -8,10 +8,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Alis](#alis---laszlo-nguyen)
 - [Ascension](#ascension)
+- [Beat](#dustin-bachman--navarre-brown--marcus-martinez--steven-williams)
 - [Bullet Blaze](#bullet-blaze)
+- [Brick Breaker](#brick-breaker)
+- [Bullet Blaze](#bullet-blaze---steven-williams)
+- [Chicken Shooter](#chicken-shooter--william-le--alejandro-flores--matthew-groover--morgan-knight--ruidong-chen--)
 - [Concerned Ape](#concerned-ape---vinny-mikelic)
 - [Fat Bird](#fat-bird)
-- [Galactic Survival](#galactic-survival---alejandro-flores--fabliha-bushra)
+- [Galactic Survival](#galactic-survival---alejandro-flores-fabliha-bushra)
 - [Gunner Channel](#gunner-channel)
 - [Insufficient A](#insufficient-a---a-marquez)
 - [Lotus](#lotus)
@@ -22,33 +26,57 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man---andrew-melo)
-- [Sumptuous Skunk](#sumptuous-skunk)
+- [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
+- [Rand 3](#rand-3---ryan-john-weems-simon-hockin)
+- [Space Invaders: Phys](#space-invaders---phys)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
-### Ascension - navarrebrown
+### Ascension - [Navarre Brown](https://github.com/navarrebrown/cs477)
 
-[Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+<img src="./logos/Ascension-logo" alt="Ascension Logo" width="128"/>
+
+[Ascension](/Ascension/prototype2/ascension.html) [v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+
+<img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
 
+### Beat - [Dustin Bachman, Navarre Brown, Marcus Martinez, Steven Williams](https://github.com/marcusm5670/LightningGame)
+
+[Play](Beat/beatv0.2.html) \| [Release page](https://github.com/marcusm5670/LightningGame/releases/tag/v0.2)
+
+<img src="./Beat/beatteaser.gif" alt="Teaser showing gameplay" width="128"/>
+
+[Brick Breaker](./brickbreak/brickbreak.html) - [John Gilbert, Dylan Lassard, Elias Leverett, Levi Lopez](https://github.com/llopez020/Lightning-Game)
+
+<img src="./brickbreak/brickbreak.gif" alt="Gameplay" width="128"/>
+
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
-<img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
+<img src="./logos/bulletblaze_logop8_0.gif" alt="Bullet Blaze Logo" width="128"/>
 
-[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/nmsu-dgd.github.io/releases/tag/v0.1)
+[Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
+### Chicken Shooter - [William Le](https://github.com/thinhtun2000), [Alejandro Flores](https://github.com/ilbambino4), [Matthew Groover](https://github.com/mgroov), [Morgan Knight](https://github.com/mknight132), [Ruidong Chen](https://github.com/chenruid)
+
+[Chicken Shooter](/ChickenShooter/chicken.html) \| (V1.0)
+
+<img alt="Chiken Shooter" src="./ChickenShooter/teaser.gif" width="128"/>
+
 ### Concerned Ape - [Vinny Mikelic](https://github.com/vmikelic)
 
-[hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
+<img src="./logos/hop.gif" alt="Splash screen for 'Concerned Ape'. A pixel art animation of a gorilla looking concerned." width="128"/>
 
-<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
+[hop](https://vmikelic.github.io/hop) \| [v0.3](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.3)
+
+<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player running around enemies and using a slash attack in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
 
@@ -58,9 +86,10 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 ### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
 
-[Galactic Survival](/Galactic-Survival/galactic.html) \| (no versions yet)
+[Galactic Survival](/Galactic-Survival/galactic.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3)
 
-<img alt="Player Firing in All Angles" src="./Galactic-Survival/Teaser.gif" width="128"/>
+<img alt="GalacticGameslogo" src="./logos/Galactic_Survivor_Logo.gif" width="128"/>
+<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/Teaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 
@@ -68,14 +97,16 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 https://mgroov.github.io/starstruck/
 
-### Insufficient A - [A. Marquez](https://github.com/amarq30) 
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
 [The Help v0.1](/InsufficientA/thehelp.html)
 
 <img src = "./InsufficientA/thehelp_0.gif" alt = "Quick gameplay" width ="128"/>
 
 [Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
 
-<img src="./logos/lotus.gif" alt="Gameplay" width="128"/>
+<img src="./logos/project_lotus.gif" alt="Project Lotus Logo" width="128"/>
+
+<img src="./lotus/lotus.gif" alt="Gameplay" width="128"/>
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
@@ -84,10 +115,11 @@ https://mgroov.github.io/starstruck/
 <img src="./Maze-in-Dungeon/maze_0.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
-
+<img src = "./logos/miny_logo.gif" alt = "Gif of Miny logo" width = "128"/>
 <img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 [Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
+
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
@@ -127,6 +159,8 @@ https://mgroov.github.io/starstruck/
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
+<img src="./SumptuousSkunk/Sump_Skunk.JPG" alt="A gif showing the Sumptuous Skunk group logo (picture)" width="128"/>
+
 Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
 
 <img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
@@ -150,3 +184,21 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 <img src="./logos/tslogo_0.gif" alt="Preview." width="128"/>
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
+
+### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
+
+<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
+
+[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
+
+### Rand 3 - Ryan (John) Weems, Simon Hockin
+
+Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
+
+<img src="./Maze-Guy/mazeguy.gif" alt="A short gif showing the gameplay of Maze Guy" width="128"/>
+
+### Space Invaders - Phys
+
+[Space Invaders: Phys](https://vmikelic.github.io/lightning) \| [v1.0](https://github.com/vmikelic/lightning-game-rand/releases/tag/v1.0)
+
+<img src="https://vmikelic.github.io/lightning.gif" alt="Animation of a player shooting asteroids with a space ship in a game." width="128"/>
