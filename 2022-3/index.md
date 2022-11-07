@@ -70,11 +70,9 @@ https://mgroov.github.io/starstruck/
 ### Polar Pear - [William Le - thinhtun2000]
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
-[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaos.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
+[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv2.html) \| [v0.1](https://github.com/dylrlas/Team-Repo/releases/tag/v0.1)
 
-<img src="./Radical_Ascension/battleofchaos_v0.1.gif" alt="Character movement and health spawns for first prototype completed in Battle of Chaos" width="128"/>
-
-<img src="./logos/radicalasc_logo.gif" alt="Game dev. team logo for Radical Ascension" width="128"/>
+<img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
 
 ### Rat-Man - [Andrew Melo]
 
