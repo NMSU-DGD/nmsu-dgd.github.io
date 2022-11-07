@@ -148,5 +148,5 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
-
+<img src="./logos/tslogo_0.gif" alt="Preview." width="128"/>
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
