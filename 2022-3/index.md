@@ -58,7 +58,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bullet Blaze - [Steven Williams](https://github.com/swillNMSU)
 
-<img src="./logos/BulletBlaze_logo.gif" alt="Bullet Blaze Logo" width="128"/>
+<img src="./logos/bulletblaze_logop8_0.gif" alt="Bullet Blaze Logo" width="128"/>
 
 [Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
