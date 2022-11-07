@@ -36,9 +36,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
-### Ascension - navarrebrown
+### Ascension - [Navarre Brown](https://github.com/navarrebrown/cs477)
 
-[Ascension](/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+<img src="./logos/Ascension-logo" alt="Ascension Logo" width="128"/>
+
+[Ascension](/Ascension/prototype2/ascension.html) [v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+
+<img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
 
 <img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
 
@@ -90,7 +94,7 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 https://mgroov.github.io/starstruck/
 
-### Insufficient A - [A. Marquez](https://github.com/amarq30) 
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
 [The Help v0.1](/InsufficientA/thehelp.html)
 
 <img src = "./InsufficientA/thehelp_0.gif" alt = "Quick gameplay" width ="128"/>
@@ -174,7 +178,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
-[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1)
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
@@ -184,7 +188,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 [Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
 
-### Rand 3 - Ryan (John) Weems, Simon Hockin 
+### Rand 3 - Ryan (John) Weems, Simon Hockin
 
 Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
 
