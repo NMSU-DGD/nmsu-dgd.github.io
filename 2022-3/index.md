@@ -49,9 +49,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/hop.gif" alt="Splash screen for 'Concerned Ape'. A pixel art animation of a gorilla looking concerned." width="128"/>
 
-[hop](https://vmikelic.github.io/hop) \| [v0.1](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.1)
+[hop](https://vmikelic.github.io/hop) \| [v0.3](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.3)
 
-<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
+<img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player running around enemies and using a slash attack in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
 
