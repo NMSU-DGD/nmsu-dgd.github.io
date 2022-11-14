@@ -154,10 +154,10 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
 
-### Rat-Man - [Andrew Melo]
-<img src="./Rat-Man/Rat-Man.gif" alt="Demonstrating in game movement." width="128"/>
+### Rat-Man - Andrew Melo
+<img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
 
-[Rat-Man](/Rat-Man/ratman.html) \| [v0.1](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.1)
+[Rat-Man](/Rat-Man/ratman.html) \| [v0.2](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.2)
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
