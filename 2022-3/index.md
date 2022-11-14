@@ -148,7 +148,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
 
-[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.2](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2)
+[NinJump](/2022-3/Polar-Pear/ppj.html) \| [v0.2.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2.1)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
