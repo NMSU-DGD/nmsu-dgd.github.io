@@ -148,7 +148,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
 
-[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.1)
+[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.2](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
@@ -187,7 +187,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks, along with shooting." width="128"/>
 
-[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.2](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
