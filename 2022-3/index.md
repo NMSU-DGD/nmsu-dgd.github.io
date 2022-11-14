@@ -148,7 +148,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
 
-[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.2](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2)
+[NinJump](/2022-3/Polar-Pear/ppj.html) \| [v0.2.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2.1)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
@@ -173,9 +173,11 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
-<img src="./TheLamb/apocalypse_couriers_0.gif" alt="Animation showing a level generation and movement in-game." width="128">
+<img src="./logos/Em_Games_The_Lamb_logo.gif" alt="Animated logo displaying 'Em Games' sliding out from behind a logo with an E." width="128">
 
-[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+<img src="./TheLamb/apocalypse_couriers_1.gif" alt="Animation showing a level generation and movement in-game." width="128">
+
+[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
 
 ### The Dropouts
 
