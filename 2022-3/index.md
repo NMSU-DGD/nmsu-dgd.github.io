@@ -98,7 +98,10 @@ Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.c
 https://mgroov.github.io/starstruck/
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30) 
+
 [The Help v0.2](/InsufficientA/thehelp.html)
+
+<img src = "./logos/InsuffA_Logo.gif" alt = "\nLogo for team Insufficient A" width ="128"/>
 
 <img src = "./InsufficientA/thehelpv2_2.gif" alt = "Quick gameplay" width ="128"/>
 
