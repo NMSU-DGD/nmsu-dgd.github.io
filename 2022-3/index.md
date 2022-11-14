@@ -126,9 +126,10 @@ https://mgroov.github.io/starstruck/
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
-<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+<img src="./logos/sinsteel_logo.gif" alt="Animated logo for Sinister Steel." width="128"/>
 
-[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
+[Sinister Steel](/sin-steel/realsteel1.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.2)
+
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
