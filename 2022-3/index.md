@@ -26,6 +26,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man---andrew-melo)
+- [Snake](#snake--michael-medrano--diegor-morales--fabliha--)
 - [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -164,6 +165,11 @@ https://mgroov.github.io/starstruck/
 <img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
 
 [Rat-Man](/Rat-Man/ratman.html) \| [v0.2](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.2)
+
+### Snake - Michael Medrano
+<img src="./mysnake/mysnake.gif" alt="GIF showing snake game being played." width="128"/>
+
+[Snake](./mysnake/mysnake.html)
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
