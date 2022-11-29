@@ -115,7 +115,7 @@ https://mgroov.github.io/starstruck/
 
 [Click to play demo](/Maze-in-Dungeon/maze.html) \| [v0.1](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v0.1)
 
-<img src="./Maze-in-Dungeon/maze_0.gif" alt="demo." width="128"/>
+<img src="./Maze-in-Dungeon/maze1_0.gif" alt="FP2." width="128"/>
 <img src="./Maze-in-Dungeon/Maze-in-Dungeon.gif" alt="logo." width="128"/>
 
 
