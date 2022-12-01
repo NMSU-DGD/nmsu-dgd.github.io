@@ -49,7 +49,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/hop.gif" alt="Splash screen for 'Concerned Ape'. A pixel art animation of a gorilla looking concerned." width="128"/>
 
-[hop](https://vmikelic.github.io/hop) \| [v0.3](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.3)
+[hop](https://vmikelic.github.io/hop) \| [v1.0](https://github.com/vmikelic/hop-PICO8/releases/tag/v1.0)
 
 <img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player running around enemies and using a slash attack in a PICO 8 cartridge named hop." width="128"/>
 
