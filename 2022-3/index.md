@@ -40,7 +40,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/Ascension-logo" alt="Ascension Logo" width="128"/>
 
-[Ascension](/Ascension/prototype2/ascension.html) [v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+[Ascension](/Ascension/final_game/ascension.p8.html) [v1.0](https://github.com/navarrebrown/cs477/releases/tag/v1.0)[v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+
+<img src=./Ascension/final_game/ascensionp8_1.gif alt="Animation of the Play and Interactive Experiences of final_game of Ascension" width="128"/>
 
 <img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
 
