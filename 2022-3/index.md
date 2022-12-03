@@ -26,6 +26,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Polar Pear](#polar-pear)
 - [Radical Ascension](#radical-ascension---dylrlas)
 - [Rat-Man](#rat-man---andrew-melo)
+- [Snake](#snake--michael-medrano--diegor-morales--fabliha--)
 - [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
 - [Team Lamb](#team-lamb---r-vargas)
 - [The Dropouts](#the-dropouts)
@@ -74,13 +75,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/hop.gif" alt="Splash screen for 'Concerned Ape'. A pixel art animation of a gorilla looking concerned." width="128"/>
 
-[hop](https://vmikelic.github.io/hop) \| [v0.3](https://github.com/vmikelic/hop-PICO8/releases/tag/v0.3)
+[hop](https://vmikelic.github.io/hop) \| [v1.0](https://github.com/vmikelic/hop-PICO8/releases/tag/v1.0)
 
 <img src="https://vmikelic.github.io/hop.gif" alt="Animation of a player running around enemies and using a slash attack in a PICO 8 cartridge named hop." width="128"/>
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
 
-Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.15)
+Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.5)
 
 <img alt="Game preview" src="./FatBird/v0.1/preview.gif" width="128"/>
 
@@ -97,10 +98,13 @@ Subgame - [Play](2022-3/FatBird/v0.15/subgame.html) | [Release page v0.15](https
 
 https://mgroov.github.io/starstruck/
 
-### Insufficient A - [A. Marquez](https://github.com/amarq30)
-[The Help v0.1](/InsufficientA/thehelp.html)
+### Insufficient A - [A. Marquez](https://github.com/amarq30) 
 
-<img src = "./InsufficientA/thehelp_0.gif" alt = "Quick gameplay" width ="128"/>
+[The Help v0.2](/InsufficientA/thehelp.html)
+
+<img src = "./logos/InsuffA_Logo.gif" alt = "\nLogo for team Insufficient A" width ="128"/>
+
+<img src = "./InsufficientA/thehelpv2_2.gif" alt = "Quick gameplay" width ="128"/>
 
 [Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
 
@@ -112,20 +116,23 @@ https://mgroov.github.io/starstruck/
 
 [Click to play demo](/Maze-in-Dungeon/maze.html) \| [v0.1](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v0.1)
 
-<img src="./Maze-in-Dungeon/maze_0.gif" alt="Animation of a player demonstrating movement and dashing in a PICO 8 cartridge named hop." width="128"/>
+<img src="./Maze-in-Dungeon/maze1_0.gif" alt="FP2." width="128"/>
+<img src="./Maze-in-Dungeon/Maze-in-Dungeon.gif" alt="logo." width="128"/>
+
 
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 <img src = "./logos/miny_logo.gif" alt = "Gif of Miny logo" width = "128"/>
-<img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
+<img src = "./Miny/minyv2_fpv2.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
-[Miny](/Miny/minyv1.html) \| [v0.10](https://github.com/dustinbachman/PICOProject/releases/tag/v0.10)
+[Miny](/Miny/miny21.html) \| [v0.5](https://github.com/dustinbachman/PICOProject/releases/tag/v0.5)
 
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
-<img src="./logos/sinsteel_2.gif" alt="Demonstration of movement and janky enemy AI movement." width="128"/>
+<img src="./logos/sinsteel_logo.gif" alt="Animated logo for Sinister Steel." width="128"/>
 
-[Sinister Steel](/sin-steel/sinsteel.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v1.0)
+[Sinister Steel](/sin-steel/realsteel1.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.2)
+
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
 <img src="./logos/pixl-logo_0.gif" alt="Animation of the Play and Interactive Experiences for Learning lab logo showing P-I-L, then the X fades in." width="128"/>
@@ -144,7 +151,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
 
-[NinJump](/2022-3/Polar-Pear/pjj.html) \| [v0.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.1)
+[NinJump](/2022-3/Polar-Pear/ppj.html) \| [v0.2.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2.1)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
@@ -154,24 +161,31 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
 
-### Rat-Man - [Andrew Melo]
-<img src="./Rat-Man/Rat-Man.gif" alt="Demonstrating in game movement." width="128"/>
+### Rat-Man - Andrew Melo
+<img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
 
-[Rat-Man](/Rat-Man/ratman.html) \| [v0.1](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.1)
+[Rat-Man](/Rat-Man/ratman.html) \| [v0.2](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.2)
+
+### Snake - Michael Medrano
+<img src="./mysnake/mysnake.gif" alt="GIF showing snake game being played." width="128"/>
+
+[Snake](./mysnake/mysnake.html)
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
-<img src="./SumptuousSkunk/Sump_Skunk.JPG" alt="A gif showing the Sumptuous Skunk group logo (picture)" width="128"/>
+<img src="./logos/SumpSkunk.gif" alt="A gif showing the Sumptuous Skunk group logo" width="128"/>
 
-Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1)
+Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.2)
 
-<img src="./SumptuousSkunk/skarper_0.gif" alt="A short gif showing basic player movement in Skarper" width="128"/>
+<img src="./SumptuousSkunk/skarper_3.gif" alt="A short gif showing basic player movement and game states in Skarper" width="128"/>
 
 ### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
 
-<img src="./TheLamb/apocalypse_couriers_0.gif" alt="Animation showing a level generation and movement in-game." width="128">
+<img src="./logos/Em_Games_The_Lamb_logo.gif" alt="Animated logo displaying 'Em Games' sliding out from behind a logo with an E." width="128">
 
-[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+<img src="./TheLamb/apocalypse_couriers_1.gif" alt="Animation showing a level generation and movement in-game." width="128">
+
+[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
 
 ### The Dropouts
 
@@ -181,7 +195,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v.0.1](https://
 
 <img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks, along with shooting." width="128"/>
 
-[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.1](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.2](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
