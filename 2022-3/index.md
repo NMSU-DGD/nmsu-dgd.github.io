@@ -45,7 +45,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
 
-### Cave Ascent - Elias Leverett (https://github.com/eliaslev0/Fall-2022-Game-Design)
+### Cave Ascent - Elias Leverett (https://eliaslev0.github.io/Fall-2022-Game-Design/caveascent.html)
+
+<img src="./CaveAscent/caveascent_0.gif" alt="Character running and jumping around map" width="128"/>
 
 ### Concerned Ape - [Vinny Mikelic](https://github.com/vmikelic)
 
