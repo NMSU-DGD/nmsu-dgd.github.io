@@ -183,9 +183,15 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./logos/Em_Games_The_Lamb_logo.gif" alt="Animated logo displaying 'Em Games' sliding out from behind a logo with an E." width="128">
 
-<img src="./TheLamb/apocalypse_couriers_1.gif" alt="Animation showing a level generation and movement in-game." width="128">
+<span>
+    <img src="./TheLamb/merchant.gif" alt="Animation showing a level generation and movement in-game." width="128">
+    <img src="./TheLamb/level_1_traversal.gif" alt="Animation showing a level generation and movement in-game." width="128">
+    <img src="./TheLamb/level_3_traversal.gif" alt="Animation showing a level generation and movement in-game." width="128">
+    <img src="./TheLamb/combat.gif" alt="Animation showing a level generation and movement in-game." width="128">
+    <img src="./TheLamb/item_drops.gif" alt="Animation showing a level generation and movement in-game." width="128">
+</span>
 
-[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+[Apocalypse Couriers](./TheLamb/ac_v_1_0.html) \| [v1.0](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v1.0) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
 
 ### The Dropouts
 
