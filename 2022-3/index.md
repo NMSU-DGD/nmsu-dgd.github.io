@@ -92,12 +92,16 @@ Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.c
 
 <img alt="Game preview" src="./FatBird/v0.1/preview.gif" width="128"/>
 
-### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+### Galactic Survival - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+<img alt="GalacticGameslogo" src="./Galactic-Survival/Logo.gif" width="128"/>
 
-[Galactic Survival](/Galactic-Survival/galactic.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3)
+[Galactic Survival](/Galactic-Survival/galactic_survival.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3), [v1.0](https://github.com/ilbambino4/CS477-PGP/releases/tag/V1.0)
 
-<img alt="GalacticGameslogo" src="./logos/Galactic_Survivor_Logo.gif" width="128"/>
-<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/Teaser.gif" width="128"/>
+<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/galacticTeaser.gif" width="128"/>
+
+[Airborn Survival](/Galactic-Survival/airborn_survival.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3), [v1.0](https://github.com/ilbambino4/CS477-PGP/releases/tag/V1.0)
+
+<img alt="AirbornSurvivorTeaser" src="./Galactic-Survival/airbornTeaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 
