@@ -162,11 +162,11 @@ https://mgroov.github.io/starstruck/
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
-[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv2.html) \| [v0.2](https://github.com/dylrlas/Team-Repo/releases/tag/v0.2)
+[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv1.0.html) \| [v1.0](https://github.com/dylrlas/Team-Repo/releases/tag/v1.0)
 
-<img src="./Radical_Ascension/battleofchaosv2_0.gif" alt="Armor loot, game music, and idle enemies added" width="128"/>
+<img src="./Radical_Ascension/battleofchaosv1.0_0.gif" alt="Bullet/missile weapon system, no bullet and enemy collision, gameover state, and Eye of Holiness to initiate randomized generation added" width="128"/>
 
-<img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
+<img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features implemented" width="128"/>
 
 ### Rat-Man - Andrew Melo
 <img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
