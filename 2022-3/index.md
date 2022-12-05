@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Rat-Man](#rat-man---andrew-melo)
 - [Snake](#snake--michael-medrano--diegor-morales--fabliha--)
 - [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
-- [Team Lamb](#team-lamb---r-vargas)
+- [Team Lamb](#team-lamb---em-r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
@@ -181,13 +181,19 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./SumptuousSkunk/skarper_3.gif" alt="A short gif showing basic player movement and game states in Skarper" width="128"/>
 
-### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
+### Team Lamb - [Em (R.) Vargas](https://github.com/robertvargas-irq)
 
 <img src="./logos/Em_Games_The_Lamb_logo.gif" alt="Animated logo displaying 'Em Games' sliding out from behind a logo with an E." width="128">
 
-<img src="./TheLamb/apocalypse_couriers_1.gif" alt="Animation showing a level generation and movement in-game." width="128">
+<span>
+    <img src="./TheLamb/merchant.gif" alt="8-bit merchant sitting behind their stand and talking to the player." width="128">
+    <img src="./TheLamb/level_1_traversal.gif" alt="Animation showing the player character–grey astronaut suit with a green helmet–walking through the first level Charred Forest, a green landscape filled with crosses both upright and down with skulls scattered, and entering different rooms with enemies." width="128">
+    <img src="./TheLamb/level_3_traversal.gif" alt="Animation showing the player character–grey astronaut suit with a green helmet–walking through the third level Fenrir's Tomb, a dull, black and violet landscape filled with crosses both upright and down with skulls scattered, and entering different rooms with enemies." width="128">
+    <img src="./TheLamb/combat.gif" alt="Animation showing the player utilizing attack moves and cycling enemies in combat, and enemies responding with their own attacks." width="128">
+    <img src="./TheLamb/item_drops.gif" alt="Animation showing the finishing blow to an enemy then cutting back to the main level, showing the player being rewarded with two healing items, a temporary accuracy boost, and a permanent health boost." width="128">
+</span>
 
-[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+[Apocalypse Couriers](./TheLamb/ac_v_1_0.html) \| [v1.0](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v1.0) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
 
 ### The Dropouts
 
