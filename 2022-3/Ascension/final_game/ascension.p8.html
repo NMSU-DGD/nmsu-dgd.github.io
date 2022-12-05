@@ -632,7 +632,7 @@
 
 		}
 		e.type = "application/javascript";
-		e.src = "tanks.js";
+		e.src = "ascension.p8.js";
 		e.id = "e_script";
 		
 		document.body.appendChild(e); // load and run
@@ -655,7 +655,7 @@
 
 		// install drag&drop listeners
 		{
-			let canvas = document.getElementById("canvas");
+			let canvas = p8_document().getElementById("canvas");
 			if (canvas)
 			{
 				canvas.addEventListener('dragenter', dragover, false);
@@ -893,16 +893,15 @@
 	// End of gamepad code
 
 
-	// key blocker. prevent browser operations while playing cart so that PICO-8 can use those keys e.g. cursors to scroll, ctrl-r to reload
+	// key blocker. prevent cursor keys from scrolling page while playing cart.
+	// also don't act on M, R so that can mute / reset cart
 	document.addEventListener('keydown',
 	function (event) {
 		event = event || window.event;
 		if (!p8_is_running) return;
-
 		if (pico8_state.has_focus == 1)
-			if ([32, 37, 38, 39, 40, 77, 82, 80, 9].indexOf(event.keyCode) > -1)       // block only cursors, M R P, tab
+			if ([32, 37, 38, 39, 40, 77, 82, 80, 9].indexOf(event.keyCode) > -1)       // block cursors, M R P, tab
 				if (event.preventDefault) event.preventDefault();
-
 	},{passive: false});
 
 	// when using codo_textarea to determine focus, need to explicitly hand focus back when clicking a p8_menu_button
@@ -982,7 +981,7 @@ canvas{
 
 .p8_start_button{
 	cursor:pointer;
-	background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAADjUlEQVR4Ae3dP08UXRTH8VnFZmlMnJAYEhMxCmZJCDTEjoTmCYGwNCPWlrQWdpOttLTZwlcAbiORwkITXgKh2OSBgg5jsVZGLWwsxtwMd+fvOnPPGf2enExml7t3ht/n3pm25QehR8nVNSIAAAAKAAAoAACgAACAclx+EFbV8TnTzs3H3PGJ88ePafMn3o81bdp1rWPiPNV2xTsgLRpTo0GvIM9o0PvDa8W/j64bfYyfZ/w20aZhOyBx5Vr/T+LyjK/BtHnSdow1Z5Hdlr0Dxj82ZgcUWcVmTO4qjhZv7rWyl0I2j/uacn9J6ylkhWueEpVf1Jp8/B6sFZM2rNpqyfpTFT+CKAAAoABoUE3pvK3RoBed+EEYP7fGmG/Sxqf9lh2QU1Fe48cJxvtBqDb9Rj6CzKKuaTwAhTZHfeMdV0vn/RV8B6SNMa8H/e8ApQD/TjXvEQQABQAA1N8PMDs8EPy5s2r5Qagt98vObnQc/+voy5vEX/m3HpedCgC79n72opPD8/lS6WcbdLe2ovP+xTQAhQD6NxJuKTv9DIO9uW8A5EU/2Pd2zse/NxJF0rcMTO5X6uW7fvBEFcCUirvYOe+99ZY686fDM3PsPjgrm3402BgcHh3FJzwdnoXPn3kXunbA9XZnTfwmPv3/eWOzuzr9Ye7R09uzd7bvnrTvdV/tn7Q7a6XSj+r7j2G7vfj+9YuNze72f+vtmzPLyyurK0tz9x8eH3/8OrPIIyhp5Q561g647OxOkH78WTQ7PLB2gJ4XnsaX8ARv3QneyQA4Sr8pBhoBqkq/EQbqAKpNX7+BLoA60lduoAigvvQ1G2gBqDt9tQYqANykr9NAHsBl+goNhAHcp6/NQBJAKn1VBmIAsunrMZAB0JC+EgMBAD3pazBwDaAtfXEDpwA605c1cAegOX1BA0cA+tOXMpgEoClpNsKsNADpV2tQDoD0KzcoAUD6dRgUBSD9mgwKAZB+fQb5AKRfq0EOAOnXbZAFQPoODFIBSN+NQTIA6TszSAAgfZcGNgDpuzbwg9C0t75A19TxnK9kTvqyBr8BSEfKwCN9WYOWt77AS1LwnQyAsAEA4gY8l0XfBwBINxEAAAANAAA0AADQAABAAwAADQAANAAA0AAAQAMAAA0AADQAANAAAEADAAANAAA0AADQAABAAwAADQAANAAA0AAAQAMAAA0AADQAANAAAEADoLp/AVDK3HDjmSFaAAAAEHRFWHRMb2RlUE5HADIwMTEwMjIx41m2wQAAAABJRU5ErkJggg==");
+	background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAACT0lEQVR4Ae3du66jMBRG4Um6dBGvk2kiTR1p3v8dIjraUyAhZIIBHy52+JYoCMHG/Mvs3V6ej9cfHMdVBKtzv73bY87Nn7+AyOC6qUS8IkqQEkQACCAABBAAAggAAQSAAAJAAAEggAAQQAAIIAAEEAACCNiD++3dHsVNnsDl+XglvEN7UjfVFgENJx/mtcWjyxBwtoDW2kPdX8HFlC8gt7ddKjurLzhHAfsHpAfkG9ABAuIf9dkC2noPFd8DSi9xxfSAhGabENCwW279rRfWA/YPKLsmfLaANu8B///9FdAvZwtK5aINWkwP+NYSV1gP+D7W7AH97XO2spbeAzIsQYcEFJTyeKFPmHysrOkBB3/BesAX9QDoAXvsoclusWjya54BtUekiY1d/GX6w0cPiSdbN1V7FNMDgg01GdCXFcCVe4AOoQekBBQv68mTt+fxmXMUsOlntDSg+CSL2sPePaC/reZvsU0DyrA2nrEEZcVVBAQQAAIIAAEEgAACQAABIIAAEEAACCAABBAAAggAAQSAAAJAAAEggAAcJ+B+e99v77SBk+fJA+csKXLPzDXMfPH4bf0Ar/0f7fnkKuumqptq7EmR4d2o4HyS/uM+ThJcH1tJZNn9vz6+Qt1Uw6d0VvoZdrMF83Q/+5Ncno/XHJ/t47t1JIQYxDR2Hh/18Ur3s7+w4T0JCw5ef87wmbctEwBNmAAQQAAIIAAEEAACCAABBIAAAkAAASCAABBAAAggAAQQAAIIAAEEgAACQAABIIAAEEAACCAABBAAArLhBxmwkKFjMhYwAAAAEHRFWHRMb2RlUE5HADIwMTEwMjIx41m2wQAAAABJRU5ErkJggg==");
 	-repeat center;
 	-webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover; background-size:cover;
 }

@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Rat-Man](#rat-man---andrew-melo)
 - [Snake](#snake--michael-medrano--diegor-morales--fabliha--)
 - [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
-- [Team Lamb](#team-lamb---r-vargas)
+- [Team Lamb](#team-lamb---em-r-vargas)
 - [The Dropouts](#the-dropouts)
 - [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
 - [Tony Spicy](#TonySpicy)
@@ -41,7 +41,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./logos/Ascension-logo" alt="Ascension Logo" width="128"/>
 
-[Ascension](/Ascension/prototype2/ascension.html) [v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+[Ascension](/Ascension/final_game/ascension.p8.html) [v1.0](https://github.com/navarrebrown/cs477/releases/tag/v1.0)[v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+
+<img src=./Ascension/final_game/ascensionp8_1.gif alt="Animation of the Play and Interactive Experiences of final_game of Ascension" width="128"/>
 
 <img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
 
@@ -63,7 +65,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
+
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
+
+### Cave Ascent - Elias Leverett (https://eliaslev0.github.io/Fall-2022-Game-Design/caveascent.html)
+
+<img src="./CaveAscent/caveascent_0.gif" alt="Character running and jumping around map" width="128"/>
 
 ### Chicken Shooter - [William Le](https://github.com/thinhtun2000), [Alejandro Flores](https://github.com/ilbambino4), [Matthew Groover](https://github.com/mgroov), [Morgan Knight](https://github.com/mknight132), [Ruidong Chen](https://github.com/chenruid)
 
@@ -85,12 +92,16 @@ Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.c
 
 <img alt="Game preview" src="./FatBird/v0.1/preview.gif" width="128"/>
 
-### Galactic Survivor - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+### Galactic Survival - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
+<img alt="GalacticGameslogo" src="./Galactic-Survival/Logo.gif" width="128"/>
 
-[Galactic Survival](/Galactic-Survival/galactic.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3)
+[Galactic Survival](/Galactic-Survival/galactic_survival.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3), [v1.0](https://github.com/ilbambino4/CS477-PGP/releases/tag/V1.0)
 
-<img alt="GalacticGameslogo" src="./logos/Galactic_Survivor_Logo.gif" width="128"/>
-<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/Teaser.gif" width="128"/>
+<img alt="GalacticSurvivorTeaser" src="./Galactic-Survival/galacticTeaser.gif" width="128"/>
+
+[Airborn Survival](/Galactic-Survival/airborn_survival.html) \| [v0.1](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.1), [v0.3](https://github.com/ilbambino4/CS477-PGP/releases/tag/V0.3), [v1.0](https://github.com/ilbambino4/CS477-PGP/releases/tag/V1.0)
+
+<img alt="AirbornSurvivorTeaser" src="./Galactic-Survival/airbornTeaser.gif" width="128"/>
 
 ### Gunner Channel - Mgroov
 
@@ -100,11 +111,11 @@ https://mgroov.github.io/starstruck/
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
-[The Help v0.2](/InsufficientA/thehelp.html)
+[The Help v0.3](/InsufficientA/thehelpv2.html)
 
 <img src = "./logos/InsuffA_Logo.gif" alt = "\nLogo for team Insufficient A" width ="128"/>
 
-<img src = "./InsufficientA/thehelpv2_2.gif" alt = "Quick gameplay" width ="128"/>
+<img src = "./InsufficientA/thehelpv2_1.gif" alt = "Quick gameplay" width ="128"/>
 
 [Lotus](./lotus/lotus.html) - [Levi Lopez](https://github.com/llopez020)
 
@@ -114,7 +125,7 @@ https://mgroov.github.io/starstruck/
 
 ### Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian
 
-[Click to play demo](/Maze-in-Dungeon/maze.html) \| [v0.1](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v0.1)
+[Click to play demo](/Maze-in-Dungeon/maze.html) \| [v1.0](https://github.com/chenruid/Pico-8-Maze---477-/releases/tag/v1.0)
 
 <img src="./Maze-in-Dungeon/maze1_0.gif" alt="FP2." width="128"/>
 <img src="./Maze-in-Dungeon/Maze-in-Dungeon.gif" alt="logo." width="128"/>
@@ -122,15 +133,15 @@ https://mgroov.github.io/starstruck/
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
 
 <img src = "./logos/miny_logo.gif" alt = "Gif of Miny logo" width = "128"/>
-<img src = "./Miny/minyv2_fpv2.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
+<img src = "./Miny/minyv1_0.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
-[Miny](/Miny/miny21.html) \| [v0.5](https://github.com/dustinbachman/PICOProject/releases/tag/v0.5)
+[Miny](/Miny/miny.html) \| [v0.7](https://github.com/dustinbachman/PICOProject/releases/tag/v0.7)
 
-### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
+### Ones Comp Games - [Mateo Romero](https://github.com/matrom01-v2)
 
 <img src="./logos/sinsteel_logo.gif" alt="Animated logo for Sinister Steel." width="128"/>
 
-[Sinister Steel](/sin-steel/realsteel1.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.2)
+[Sinister Steel](/sin-steel/realsteel1.html) \| [v0.3](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.3)
 
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
@@ -154,11 +165,11 @@ https://mgroov.github.io/starstruck/
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
-[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv2.html) \| [v0.2](https://github.com/dylrlas/Team-Repo/releases/tag/v0.2)
+[BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv1.0.html) \| [v1.0](https://github.com/dylrlas/Team-Repo/releases/tag/v1.0)
 
-<img src="./Radical_Ascension/battleofchaosv2_0.gif" alt="Armor loot, game music, and idle enemies added" width="128"/>
+<img src="./Radical_Ascension/battleofchaosv1.0_0.gif" alt="Bullet/missile weapon system, no bullet and enemy collision, gameover state, and Eye of Holiness to initiate randomized generation added" width="128"/>
 
-<img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
+<img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features implemented" width="128"/>
 
 ### Rat-Man - Andrew Melo
 
@@ -180,13 +191,19 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./SumptuousSkunk/skarper_3.gif" alt="A short gif showing basic player movement and game states in Skarper" width="128"/>
 
-### Team Lamb - [R. Vargas](https://github.com/robertvargas-irq)
+### Team Lamb - [Em (R.) Vargas](https://github.com/robertvargas-irq)
 
 <img src="./logos/Em_Games_The_Lamb_logo.gif" alt="Animated logo displaying 'Em Games' sliding out from behind a logo with an E." width="128">
 
-<img src="./TheLamb/apocalypse_couriers_1.gif" alt="Animation showing a level generation and movement in-game." width="128">
+<span>
+    <img src="./TheLamb/merchant.gif" alt="8-bit merchant sitting behind their stand and talking to the player." width="128">
+    <img src="./TheLamb/level_1_traversal.gif" alt="Animation showing the player character–grey astronaut suit with a green helmet–walking through the first level Charred Forest, a green landscape filled with crosses both upright and down with skulls scattered, and entering different rooms with enemies." width="128">
+    <img src="./TheLamb/level_3_traversal.gif" alt="Animation showing the player character–grey astronaut suit with a green helmet–walking through the third level Fenrir's Tomb, a dull, black and violet landscape filled with crosses both upright and down with skulls scattered, and entering different rooms with enemies." width="128">
+    <img src="./TheLamb/combat.gif" alt="Animation showing the player utilizing attack moves and cycling enemies in combat, and enemies responding with their own attacks." width="128">
+    <img src="./TheLamb/item_drops.gif" alt="Animation showing the finishing blow to an enemy then cutting back to the main level, showing the player being rewarded with two healing items, a temporary accuracy boost, and a permanent health boost." width="128">
+</span>
 
-[Apocalypse Couriers](./TheLamb/apocalypse_couriers.html) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
+[Apocalypse Couriers](./TheLamb/ac_v_1_0.html) \| [v1.0](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v1.0) \| [v0.2](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.2) \| [v0.1](https://github.com/robertvargas-irq/gamedev-pico8-game-source/releases/tag/v0.1)
 
 ### The Dropouts
 
@@ -196,12 +213,13 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks, along with shooting." width="128"/>
 
-[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.2](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.4](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.4)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
 [SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1)
 <img src="./logos/tslogo_0.gif" alt="Preview." width="128"/>
+
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
 ### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)

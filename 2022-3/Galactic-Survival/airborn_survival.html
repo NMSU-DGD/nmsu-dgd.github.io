@@ -632,7 +632,7 @@
 
 		}
 		e.type = "application/javascript";
-		e.src = "sinsteel.js";
+		e.src = "airborn_survival.js";
 		e.id = "e_script";
 		
 		document.body.appendChild(e); // load and run
@@ -982,7 +982,7 @@ canvas{
 
 .p8_start_button{
 	cursor:pointer;
-	background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAAD3klEQVR4Ae2dsY7aQBCGx4hUBumKFChIlGDswtIVV+Su2xdwQ3oL6ZrreAGLJ8kDpOEFrswDUNjuUyDqAC1OsdLGhw13Pszu2vuPfq3MSOzOzrcz0xIxxzgthhoFYygAfRiYC0AwUMvDRAD5RqS8GsztP/kVAJS9fQBQXAQAoHgOA4DpQgoAAAAgAAAACAAAAAIAAIAAAAAgAAAACAAAALq9LGIOVbHZZld0uqm9ZJ2z//F3tO5XOqUZVse9up/4j5vaJ55keiC6GAoY1AXATe2VZxXcvQqx+jsiag+P6+51vm+cMZ79IM6COPvof9b9/2G1Kft13KsyAJ76ZHoQ30GcjY/7Sw+EB5ePux0Pv457SRzCItyWNZ/r7lUZgL8t7zzrQXEw5ALl8bWv+199r88AKO3+lypAxNqyCqjnXsyBVAopAAAAgAAAACAAAADIRAARjSMaGwugQ0otej2efJhnqp8/LYbR84wWQ1SAoiLYfxcrKkBBBfjeJAznvjdBBci2cPS48qz7hyciun948rdZOHpEBSioAGKOsRWgGAAxJwznYgUAM7QYanSuoQCUMCg911wAIhfSeJSea2jnFQ1BfjWcnGtu/8mvCs81/e3LfP6l5xo9hOUDKJ5r7gCQXwFl51rEHIKdt9lmV3S6qb1knVr27yLF75qb2ieeZHog6gOApOyvPKvg7tW1fz111GLj2Q/iLIizW+wPAO8YT30yPYjvIM7Gx31d+2MIKx7CAPCO+dvyzrMeFAcDANwGQGn3r6sCiJgDqRRSAAAAAAEAAEAAAAAQAACAAQrDuT7BdMgwC0ePYtXDDHv7X39EYkUFKLCXu2T05e/LXYIKUCPfm0TPM9+baBKPRcwxbQAI+/nnNypAnqLnGa+AMJzzCuAexZJxxmKoVQsSqxaSBEAnBnpJHgDBADxkA8g3ImRfNgCR8fwKKRjCJ40IUjCEAUDZDBDPHwDeyiLmUJNtttkVnW5qL1mnEfF3G519ke4TTzI9EPUBQFL2V55VcPeaEn8z6vSC8ewHcRbEWRPjbzwAnvpkehDfQZyNj/umxI8hDADXmb8t7zzrQXEwAMBtAJR2/6ZUABFzIJVCCgAAACAAAAAIAAAAAgAAgAAAACAAAAAIAAAAur0sYg7pZLPNruh0UzuZHir5l6yj1b3OWVfDmNzUPvHwLFf09wHgk9lfeVbB3QvirJK/EdknIu3qlGcziLMgzq7xN8W0mwHR65H3kHxjET8/7v/1rRktCEMYAN6av62nk6wHxcEAAB8DUNrNV55Vyd+UCiBiDqRSSAEAAAAEAAAAAQAAQPL1D8zbCzaZnqGGAAAAEHRFWHRMb2RlUE5HADIwMTEwMjIx41m2wQAAAABJRU5ErkJggg==");
+	background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAAFAElEQVR4Ae1dO27jMBSUFoobAdtYewEDKfYYrl2l0QVcqjKwCLYj1LkwkEplLuA+tQ8SQCdISjdJswU3zINIydSHH1EzEIInhpaoN29m2jjLWQS4ww+0AASAAAAEgAAABIAAAASAAAAELAqJ/Vd+XM6zaM1qm1t4S5zlDN13yIFVAubVfTsc2MsA2v3VNm9c/qxbHhpLBMxx9u0c3kEINz6MDh1dkT9b3m9u3drE2LMgwDsF9M23ttnsO7OWZxwKgAK0M0B/P53fvt7txOuhAE/hFwGrbS4EQWv9X+msw4JuoNhceVHVafAKiLOcWbP7+cKckpAByAAQYD9mV9v8sN/xlcN+J2p5nV9t4SzX9Bq/f4kKEMErF0EisZxjIo2fLlpk8P06I0l36me+/vNnT8CsUWyuskZnSQCdNT593d/Td6LHnEefjAk58C4DZieI2SiATrH+3LU5e9/JbdvvPAOggCGY0ILsKUB2/2EzqKMJ+t+2/b1OO23wQgEeIc5yZj8D5gWjCWFPAQ6DzudjW7Wg2XFg4cC2M2BGHNg5ahLqh80FthUAuFeAEm/nsrGS5QwKADxWQLG58qKq0/Gzz/7+aayXx29NBKyGgQoQ3ec1vQWMK8Bcu5+eX0RNNcHVEKQO+hHQ0fpicx3pRRyH/Y6SIW4XrQCbDiP6zlv/9Pxy2O+4GoLUwe0M6O6+mPpJxp/SIOyI+lJ4iG8OVBsB03b87Vxy35fb3XCh8nia8L3O9XRbAW6BDIiqOuUiEIXpjgsRKGef50HbSl84zxWtEDZk9N0cBD/7uhlgEyIJpDntmvRhOuC/QgYsHX4pQNaB/nTrqITCkw+HAqCAnnmgrwM69d5+JhTgGElg30Nn39uphwKggEGeHiSgAChA29P1dfD1q9L/JIACoABjOkAGAKEooK8O6B6eBBRepQIUAAWM0AFdkWdf/u/XntIfHRgnoNhcRV3VqbUPm0timyWAdp/fjueAd5bOL3X5RsfL40mhj4eouvMlBgxmQKP7HYvmnKphVt/H+Gwmc4AEWDOcLGfiKo8n0fHG7JfHE3tcswe/ODBrQVWdNkbeZgyoM+B+HUVR9Pq+iAyYtuOy+/dI48d1k4bX9+KzdB4GBi3Id9yvfTAi4wpwCPXsqwLZoQ4WoIBbdl/dMYc6CE0BPCHKYxlFEXsgHPDsVbECBRjL/zv23dnX9zYpQAG6bs6nW18Hiv5KHHCGxiig2Fz/P6pOYUGtUhBuI68PsyDR95GI9cfKCd7OZa/Z72oZaTSvB7t/W/cHiCDkDFDqgIuAOk/xWSIDtNzcKxFMBd8tyFtwF6rqlNrRAAsCAY6xoAwAAQAIAAEACPAMWc6MXj9//eZXRy1u5Vr5qJsbdJ6jebaO101y2VDAapu31fz243JW1hQfl7P4udipfBF9jnwY+nz6t+2cjT0hKKBt5LsnTnMq6TPpbYdKus+pfMj8FEAHSkwuXVTWyke1jfaAw3QrVVaYCSQO40e4CrUXWsut5/9t26N0mw4r8wFxljNPjrJM2LAgAASAAAAEgABAgQQt0EGxuYq6qlMowFn35VsQ4J4SEGAW03oOCPALIMCxCOIsZ+hvX+ufkA8QAAsCAYBDJF55q9G4gwJud1++BQFWu79ADhwTsDTDkRFnOfPNhRbFihcELBnuQxgEAC6R+HkskQrB54FfBDTSGBbkvvvBU4IMcIx/1ihV7KV7u7EAAAAQdEVYdExvZGVQTkcAMjAxMTAyMjHjWbbBAAAAAElFTkSuQmCC");
 	-repeat center;
 	-webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover; background-size:cover;
 }
@@ -1013,6 +1013,16 @@ canvas{
 
 <!-- Add any content above the cart here -->
 
+<h1>Mouse Controls:</h1>
+<h2>Aim using mouse<br><br>Fire weapon using left click<br><br>Once more weapons are unlocked,<br>change weapons with right click</h2>
+<br>
+<h1>Note:</h1>
+
+<h2>You can buy upgrades between rounds<h2>
+
+<h2>Try to survive as many rounds as possible<h2>
+
+<h2>Good Luck!<h2>
 
 <div id="p8_frame_0" style="max-width:800px; max-height:800px; margin:auto;"> <!-- double function: limit size, and display only this div for touch devices -->
 <div id="p8_frame" style="display:flex; width:100%; max-width:95vw; height:100vw; max-height:95vh; margin:auto;">
