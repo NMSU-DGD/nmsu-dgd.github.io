@@ -107,6 +107,9 @@ Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.c
 
 <img src = "https://user-images.githubusercontent.com/44854053/195670132-0530042f-a621-4a38-8377-d5c377b6d5e1.gif" alt="Scene Transition" width="128"/>
 
+<img src ="https://user-images.githubusercontent.com/44854053/205681770-8ec68508-fc68-4c5a-92a0-0e4e4d687db0.png" width = "500"/>
+
+
 https://mgroov.github.io/starstruck/
 
 ### Insufficient A - [A. Marquez](https://github.com/amarq30)
