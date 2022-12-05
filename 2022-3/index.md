@@ -201,8 +201,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
-[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
-<img src="./logos/tslogo_0.gif" alt="Preview." width="128"/>
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.1](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
 ### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
