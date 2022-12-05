@@ -122,6 +122,23 @@
 		evt.preventDefault();
 		Module.pico8DragStop();
 	}
+
+	// download (pico-8 0.2.4d web exports can save a .wav file)
+	function download_browser_file(filename, contents)
+	{
+	  var element = document.createElement('a');
+	  if (filename.substr(filename.length - 7) == ".p8.png")
+	  	element.setAttribute('href', 'data:image/png;base64,' + encodeURIComponent(contents));
+	  else if (filename.substr(filename.length - 4) == ".wav")
+	  	element.setAttribute('href', 'data:audio/x-wav;base64,' + encodeURIComponent(contents));
+	  else
+	  	element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(contents));
+	  element.setAttribute('download', filename);
+	  element.style.display = 'none';
+	  document.body.appendChild(element);
+	  element.click();
+	  document.body.removeChild(element);
+	}
 	// --------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -615,7 +632,7 @@
 
 		}
 		e.type = "application/javascript";
-		e.src = "thehelp.js";
+		e.src = "ac_v_1_0.js";
 		e.id = "e_script";
 		
 		document.body.appendChild(e); // load and run
@@ -638,7 +655,7 @@
 
 		// install drag&drop listeners
 		{
-			let canvas = p8_document().getElementById("canvas");
+			let canvas = document.getElementById("canvas");
 			if (canvas)
 			{
 				canvas.addEventListener('dragenter', dragover, false);
@@ -876,15 +893,16 @@
 	// End of gamepad code
 
 
-	// key blocker. prevent cursor keys from scrolling page while playing cart.
-	// also don't act on M, R so that can mute / reset cart
+	// key blocker. prevent browser operations while playing cart so that PICO-8 can use those keys e.g. cursors to scroll, ctrl-r to reload
 	document.addEventListener('keydown',
 	function (event) {
 		event = event || window.event;
 		if (!p8_is_running) return;
+
 		if (pico8_state.has_focus == 1)
-			if ([32, 37, 38, 39, 40, 77, 82, 80, 9].indexOf(event.keyCode) > -1)       // block cursors, M R P, tab
+			if ([32, 37, 38, 39, 40, 77, 82, 80, 9].indexOf(event.keyCode) > -1)       // block only cursors, M R P, tab
 				if (event.preventDefault) event.preventDefault();
+
 	},{passive: false});
 
 	// when using codo_textarea to determine focus, need to explicitly hand focus back when clicking a p8_menu_button
@@ -964,7 +982,7 @@ canvas{
 
 .p8_start_button{
 	cursor:pointer;
-	background:url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAABqklEQVR4Ae3dMW7qMACA4VJxlwwZkBgy5fhMGXKmDpEsy3b83JQQyPt+IZS2xg3+bFgvt7770nF9WwIAAAQAgAAAEAAAAgBAAAAIAAABACAAAAQAgAAAEAAAAgBAAADo7QHuw7g8luv4Ofw+GV8cE49ce+3ndt1v6nl63Idxnh7FP7W8vDKtE7DlQBSv/zLGCfj1gWjf3ZUxvgOe8/XQPuZkn/txl1vfnfKNOQECAEAAAAgAAAEAIAAABACAAAAQAAACAEAAAAAQAAA6IcB9GJdH5Tr8mF8Xp/rngJZ5Gu+t8u+e2HXX2efpEd5Ach1WpHidrFp4+fKcjwx/DfPkCxe/Kh6/dp/JmI/8CIpXIVnrfFdWdm5lWTccyvb7fEG7n4DiJo23XrzHk7Uo7vHNBpX58xPwMoNjvoSTz9mwNMV3Hi9cTFWfPx+zNv+xXW5991Y39L91zAkQAAACAEAAAAAQAAACAEAAAAgAAAEAIAAABACAAAAQAAACAEAAAAgAAAEAIAAABACAAAAQAAACAEAAAAgAAAEAIAAABACAAAAQAAACAEAAACjtB/SEwRnC+EGgAAAAEHRFWHRMb2RlUE5HADIwMTEwMjIx41m2wQAAAABJRU5ErkJggg==");
+	background:url("data:image/png;base64,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");
 	-repeat center;
 	-webkit-background-size:cover; -moz-background-size:cover; -o-background-size:cover; background-size:cover;
 }
@@ -991,16 +1009,29 @@ canvas{
 
 <body style="padding:0px; margin:0px; background-color:#222; color:#ccc">
 <div id="body_0"> <!-- hide this when playing in mobile (p8_touch_detected) so that elements don't affect layout -->
-	<html>
-	<head>
-		<title>Instructions</title>	
-	</head>
 
-	<body>
-		<h1> Basic controls: </h1>
-		<p> Movement with arrow keys, x and z for other options.</p>
-	</body>
-</html>
+
+<div>
+	<h2>Keybinds</h2>
+	<h3>Menu Controls</h3>
+	<ul>
+		<li>[🅾️/z] Select Option</li>
+	</ul>
+
+	<h3>In-Game Controls</h3>
+	<ul>
+		<li>[⬅️➡️⬆️⬇️] Move</li>
+	</ul>
+
+	<h3>Combat Controls</h3>
+	<ul>
+		<li>[❎/x] Cycle Enemy Selection</li>
+		<li>[⬅️] Light Attack (1 Target)</li>
+		<li>[➡️] Heavy Attack (1 Target)</li>
+		<li>[⬆️] Light Attack (Multi-Target)</li>
+		<li>[⬇️] Heavy Attack (Multi-Target)</li>
+	</ul>
+</div>
 
 
 <!-- Add any content above the cart here -->
@@ -1060,7 +1091,9 @@ canvas{
 
 			<!-- used for clipboard access & keyboard input; displayed and used by PICO-8 only once needed. can be safely removed if clipboard / key presses not needed. -->
 			<!-- (needs to be inside p8_playarea so that it still works under Chrome when fullscreened) -->
-			<textarea id="codo_textarea" class="emscripten" style="position:absolute; left:-9999px; height:0px; overflow:hidden"></textarea>
+			<!-- 0.2.5: added "display:none"; pico8.js shows on demand to avoid mac osx accent character selector // https://www.lexaloffle.com/bbs/?tid=47743 -->
+
+			<textarea id="codo_textarea" class="emscripten" style="display:none; position:absolute; left:-9999px; height:0px; overflow:hidden"></textarea>
 
 		</div> <!--p8_playarea -->
 
