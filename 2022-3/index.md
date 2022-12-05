@@ -98,7 +98,7 @@ Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.c
 
 https://mgroov.github.io/starstruck/
 
-### Insufficient A - [A. Marquez](https://github.com/amarq30) 
+### Insufficient A - [A. Marquez](https://github.com/amarq30)
 
 [The Help v0.2](/InsufficientA/thehelp.html)
 
@@ -119,13 +119,12 @@ https://mgroov.github.io/starstruck/
 <img src="./Maze-in-Dungeon/maze1_0.gif" alt="FP2." width="128"/>
 <img src="./Maze-in-Dungeon/Maze-in-Dungeon.gif" alt="logo." width="128"/>
 
-
 ### Miny - [dustinbachman](https://github.com/dustinbachman/PICOProject)
+
 <img src = "./logos/miny_logo.gif" alt = "Gif of Miny logo" width = "128"/>
 <img src = "./Miny/minyv2_fpv2.gif" alt = "Gif of Miny gameplay testing" width = "128"/>
 
 [Miny](/Miny/miny21.html) \| [v0.5](https://github.com/dustinbachman/PICOProject/releases/tag/v0.5)
-
 
 ### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
 
@@ -151,7 +150,7 @@ https://mgroov.github.io/starstruck/
 
 <img src="./logos/ppj_0.gif" alt="Jumping and moving from platform to platform" width="128"/>
 
-[NinJump](/2022-3/Polar-Pear/ppj.html) \| [v0.2.1](https://github.com/thinhtun2000/Ninjump/releases/tag/v0.2.1)
+[NinJump](/2022-3/Polar-Pear/final.html) \| [v1.0](https://github.com/thinhtun2000/Ninjump/releases/tag/v1.0)
 
 ### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
 
@@ -162,11 +161,13 @@ https://mgroov.github.io/starstruck/
 <img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features game music, armor loot, and idle enemies" width="128"/>
 
 ### Rat-Man - Andrew Melo
+
 <img src="./logos/Rat-Man.gif" alt="A gif showing my pico-8 logo." width="128"/>
 
 [Rat-Man](/Rat-Man/ratman.html) \| [v0.2](https://github.com/andrewmelo32/Rat-Man/releases/tag/v0.2)
 
 ### Snake - Michael Medrano
+
 <img src="./mysnake/mysnake.gif" alt="GIF showing snake game being played." width="128"/>
 
 [Snake](./mysnake/mysnake.html)
@@ -199,7 +200,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
-[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1) 
+[SuperMetalDetector](/TonySpicy/supermetal.html) \| [v1.2](https://github.com/JohnMGilbert/MetalDetectorGame/releases/tag/v0.1)
 <img src="./logos/tslogo_0.gif" alt="Preview." width="128"/>
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
