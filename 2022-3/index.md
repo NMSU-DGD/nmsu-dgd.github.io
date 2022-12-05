@@ -208,7 +208,7 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./armored-war-assault-II-lite/tanks_0.gif" alt="Animation demonstrating the movement of player 1 and player 2's tanks, along with shooting." width="128"/>
 
-[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.2](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.2)
+[Armored War Assault II Lite](/armored-war-assault-II-lite/tanks.html) \| [v0.4](https://github.com/n0dat/armored-war-assault-II-lite/releases/tag/v0.4)
 
 ### Tony Spicy - [John Gilbert](https://github.com/JohnMGilbert)
 
