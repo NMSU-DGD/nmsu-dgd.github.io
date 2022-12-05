@@ -6,54 +6,62 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
-- [Alis](#alis---laszlo-nguyen)
-- [Ascension](#ascension)
-- [Beat](#dustin-bachman--navarre-brown--marcus-martinez--steven-williams)
-- [Bullet Blaze](#bullet-blaze)
-- [Brick Breaker](#brick-breaker)
-- [Bullet Blaze](#bullet-blaze---steven-williams)
-- [Chicken Shooter](#chicken-shooter--william-le--alejandro-flores--matthew-groover--morgan-knight--ruidong-chen--)
-- [Concerned Ape](#concerned-ape---vinny-mikelic)
-- [Fat Bird](#fat-bird)
-- [Galactic Survival](#galactic-survival---alejandro-flores-fabliha-bushra)
-- [Gunner Channel](#gunner-channel)
-- [Insufficient A](#insufficient-a---a-marquez)
-- [Lotus](#lotus)
-- [Maze in the Dungeon](#Maze-in-the-Dungeon)
-- [Miny](#miny---dustinbachman)
-- [One's Comp Games](#ones-comp-games--m-romero)
-- [PIxL Lab](#pixl-lab---phoebe-toups-dugas)
-- [Polar Pear](#polar-pear)
-- [Radical Ascension](#radical-ascension---dylrlas)
-- [Rat-Man](#rat-man---andrew-melo)
-- [Snake](#snake--michael-medrano--diegor-morales--fabliha--)
-- [Sumptuous Skunk](#sumptuous-skunk---simon-hockin)
-- [Team Lamb](#team-lamb---em-r-vargas)
-- [The Dropouts](#the-dropouts)
-- [The Iron Squids](#the-iron-squids--j-cooper--d-ferguson)
-- [Tony Spicy](#TonySpicy)
-- [Rand 3](#rand-3---ryan-john-weems-simon-hockin)
-- [Space Invaders: Phys](#space-invaders---phys)
+- [2022 - Fall](#2022---fall)
+  - [Game Portfolio for NMSU Digital Game Design](#game-portfolio-for-nmsu-digital-game-design)
+  - [Contents](#contents)
+    - [Alis - Laszlo Nguyen](#alis---laszlo-nguyen)
+    - [Ascension - Navarre Brown](#ascension---navarre-brown)
+    - [Beat - Dustin Bachman, Navarre Brown, Marcus Martinez, Steven Williams](#beat---dustin-bachman-navarre-brown-marcus-martinez-steven-williams)
+    - [BLAST BROS - Andres Marquez James Cooper Andrew Melo Mateo Romero](#blast-bros---andres-marquez-james-cooper-andrew-melo-mateo-romero)
+    - [Bullet Blaze - Steven Williams](#bullet-blaze---steven-williams)
+    - [Cave Ascent - Elias Leverett (https://eliaslev0.github.io/Fall-2022-Game-Design/caveascent.html)](#cave-ascent---elias-leverett-httpseliaslev0githubiofall-2022-game-designcaveascenthtml)
+    - [Chicken Shooter - William Le, Alejandro Flores, Matthew Groover, Morgan Knight, Ruidong Chen](#chicken-shooter---william-le-alejandro-flores-matthew-groover-morgan-knight-ruidong-chen)
+    - [Concerned Ape - Vinny Mikelic](#concerned-ape---vinny-mikelic)
+    - [Fat Bird - marcusm5670](#fat-bird---marcusm5670)
+    - [Galactic Survival - Alejandro Flores, Fabliha Bushra](#galactic-survival---alejandro-flores-fabliha-bushra)
+    - [Gunner Channel - Mgroov](#gunner-channel---mgroov)
+    - [Insufficient A - A. Marquez](#insufficient-a---a-marquez)
+    - [Maze in the Dungeon - Ruidong Chen, Morgan Knight, Xiaoyan Tian](#maze-in-the-dungeon---ruidong-chen-morgan-knight-xiaoyan-tian)
+    - [Miny - dustinbachman](#miny---dustinbachman)
+    - [Ones Comp Games - Mateo Romero](#ones-comp-games---mateo-romero)
+    - [PIxL Lab - Phoebe Toups Dugas](#pixl-lab---phoebe-toups-dugas)
+    - [Polar Pear - William Le](#polar-pear---william-le)
+    - [Radical Ascension - Dylan L.](#radical-ascension---dylan-l)
+    - [Rand 3 - Ryan (John) Weems, Simon Hockin](#rand-3---ryan-john-weems-simon-hockin)
+    - [Rat-Man - Andrew Melo](#rat-man---andrew-melo)
+    - [Snake - Michael Medrano](#snake---michael-medrano)
+    - [Space Invaders - Phys](#space-invaders---phys)
+    - [Sumptuous Skunk - Simon Hockin](#sumptuous-skunk---simon-hockin)
+    - [Team Lamb - Em (R.) Vargas](#team-lamb---em-r-vargas)
+    - [The Dropouts](#the-dropouts)
+    - [The Iron Squids - J. Cooper D. Ferguson](#the-iron-squids---j-cooper-d-ferguson)
+    - [Tony Spicy - John Gilbert](#tony-spicy---john-gilbert)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
 
 ### Ascension - [Navarre Brown](https://github.com/navarrebrown/cs477)
 
-<img src="./logos/Ascension-logo" alt="Ascension Logo" width="128"/>
+<img src="./logos/Ascension-logo.gif" alt="Ascension Logo" width="128"/>
 
-[Ascension](/Ascension/final_game/ascension.p8.html) [v1.0](https://github.com/navarrebrown/cs477/releases/tag/v1.0)[v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)\|(/Ascension/protoype1/ascension.p8.html)\| [v0.1](https://github.com/navarrebrown/cs477/releases/tag/v0.1)
+[Ascension](/Ascension/final_game/ascension.p8.html) \| [v1.0](https://github.com/navarrebrown/cs477/releases/tag/v1.0) \| [v0.2](https://github.com/navarrebrown/cs477/releases/tag/v0.2)
 
-<img src=./Ascension/final_game/ascensionp8_1.gif alt="Animation of the Play and Interactive Experiences of final_game of Ascension" width="128"/>
+<img src="./Ascension/final_game/ascensionp8_1.gif" alt="Animation of the Play and Interactive Experiences of final_game of Ascension" width="128"/>
 
-<img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
+<!-- <img src=./Ascension/prototype2/ascensionp8_1.gif alt="Animation of the Play and Interactivr Experiences of protoype2 of Ascension" width="128"/>
 
-<img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/>
+<img src=./Ascension/protoype1/ascension1.gif alt="Animation of the Play and Interactivr Experiences of protoype1 of Ascension" width="128"/> -->
 
 ### Beat - [Dustin Bachman, Navarre Brown, Marcus Martinez, Steven Williams](https://github.com/marcusm5670/LightningGame)
 
 [Play](Beat/beatv0.2.html) \| [Release page](https://github.com/marcusm5670/LightningGame/releases/tag/v0.2)
 
 <img src="./Beat/beatteaser.gif" alt="Teaser showing gameplay" width="128"/>
+
+### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
+
+<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
+
+[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
 
 [Brick Breaker](./brickbreak/brickbreak.html) - [John Gilbert, Dylan Lassard, Elias Leverett, Levi Lopez](https://github.com/llopez020/Lightning-Game)
 
@@ -166,13 +174,19 @@ https://mgroov.github.io/starstruck/
 
 [NinJump](/2022-3/Polar-Pear/final.html) \| [v1.0](https://github.com/thinhtun2000/Ninjump/releases/tag/v1.0)
 
-### Radical Ascension - [Dylan L.] (https://github.com/dylrlas/Team-Repo)
+### Radical Ascension - [Dylan L.](https://github.com/dylrlas/Team-Repo)
 
 [BattleofChaos](https://dylrlas.github.io/Team-Repo/battleofchaosv1.0.html) \| [v1.0](https://github.com/dylrlas/Team-Repo/releases/tag/v1.0)
 
 <img src="./Radical_Ascension/battleofchaosv1.0_0.gif" alt="Bullet/missile weapon system, no bullet and enemy collision, gameover state, and Eye of Holiness to initiate randomized generation added" width="128"/>
 
 <img src="./logos/Radical_Ascensionv0.2.gif" alt="Game dev. team logo for Radical Ascension with new features implemented" width="128"/>
+
+### Rand 3 - Ryan (John) Weems, Simon Hockin
+
+Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
+
+<img src="./Maze-Guy/mazeguy.gif" alt="A short gif showing the gameplay of Maze Guy" width="128"/>
 
 ### Rat-Man - Andrew Melo
 
@@ -185,6 +199,12 @@ https://mgroov.github.io/starstruck/
 <img src="./mysnake/mysnake.gif" alt="GIF showing snake game being played." width="128"/>
 
 [Snake](./mysnake/mysnake.html)
+
+### Space Invaders - Phys
+
+[Space Invaders: Phys](https://vmikelic.github.io/lightning) \| [v1.0](https://github.com/vmikelic/lightning-game-rand/releases/tag/v1.0)
+
+<img src="https://vmikelic.github.io/lightning.gif" alt="Animation of a player shooting asteroids with a space ship in a game." width="128"/>
 
 ### Sumptuous Skunk - [Simon Hockin](https://github.com/Kira-Flakes)
 
@@ -225,20 +245,8 @@ Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://g
 
 <img src="./TonySpicy/metal_1.gif" alt="Preview." width="128"/>
 
-### BLAST BROS - [Andres Marquez James Cooper Andrew Melo Mateo Romero](https://github.com/matrom01-v2/LightningGame)
 
-<image src="./logos/escapedetroit_2.gif" alt="Demonstration of our sick new lightning game" width="128" />
 
-[Escape Detroit](/escape-detroit/escapedetroit.html) \| [v1.0](https://github.com/matrom01-v2/LightningGame/releases/tag/v1.0)
 
-### Rand 3 - Ryan (John) Weems, Simon Hockin
 
-Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0.1.1](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.1.1)
 
-<img src="./Maze-Guy/mazeguy.gif" alt="A short gif showing the gameplay of Maze Guy" width="128"/>
-
-### Space Invaders - Phys
-
-[Space Invaders: Phys](https://vmikelic.github.io/lightning) \| [v1.0](https://github.com/vmikelic/lightning-game-rand/releases/tag/v1.0)
-
-<img src="https://vmikelic.github.io/lightning.gif" alt="Animation of a player shooting asteroids with a space ship in a game." width="128"/>
