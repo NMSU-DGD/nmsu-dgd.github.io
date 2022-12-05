@@ -134,11 +134,11 @@ https://mgroov.github.io/starstruck/
 [Miny](/Miny/miny21.html) \| [v0.5](https://github.com/dustinbachman/PICOProject/releases/tag/v0.5)
 
 
-### One's Comp Games - [M. Romero](https://github.com/matrom01-v2)
+### Ones Comp Games - [Mateo Romero](https://github.com/matrom01-v2)
 
 <img src="./logos/sinsteel_logo.gif" alt="Animated logo for Sinister Steel." width="128"/>
 
-[Sinister Steel](/sin-steel/realsteel1.html) \| [v1.0](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.2)
+[Sinister Steel](/sin-steel/realsteel1.html) \| [v0.3](https://github.com/matrom01-v2/Pico-8Site/releases/tag/v0.3)
 
 ### PIxL Lab - [Phoebe Toups Dugas](https://pixllab.github.io)
 
