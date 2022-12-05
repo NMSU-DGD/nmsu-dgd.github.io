@@ -65,7 +65,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [Bullet Blaze Web Demo](/BulletBlaze/bulletblaze.html) \| [v0.1](https://github.com/swillNMSU/BulletBlaze/releases/tag/v0.1)
 
+
 <img src="./BulletBlaze/Prototype_1.gif" alt="Animation of character moving and shooting" width="128"/>
+
+### Cave Ascent - Elias Leverett (https://eliaslev0.github.io/Fall-2022-Game-Design/caveascent.html)
+
+<img src="./CaveAscent/caveascent_0.gif" alt="Character running and jumping around map" width="128"/>
 
 ### Chicken Shooter - [William Le](https://github.com/thinhtun2000), [Alejandro Flores](https://github.com/ilbambino4), [Matthew Groover](https://github.com/mgroov), [Morgan Knight](https://github.com/mknight132), [Ruidong Chen](https://github.com/chenruid)
 

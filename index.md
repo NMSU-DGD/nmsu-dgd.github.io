@@ -9,6 +9,3 @@ Years for which we have projects are listed below:
 * [2022 - Fall](/2022-3/index.md)
 * [2022 - Spring](/2022-1/index.md)
 * [2020 - Fall](/2020-3/index.md)
-
-
-
