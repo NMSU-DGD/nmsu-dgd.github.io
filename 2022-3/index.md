@@ -96,9 +96,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Fat Bird - [marcusm5670](https://github.com/marcusm5670/CS477-GameRepo)
 
-Saltwater - [Play](/FatBird/subgame.html) | [Release page v0.5](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.5)
+Saltwater - [Play](/FatBird/saltwater.html) | [Release page v0.8](https://github.com/marcusm5670/CS477-GameRepo/releases/tag/v0.8)
 
-<img alt="Game preview" src="./FatBird/v0.1/preview.gif" width="128"/>
+<img alt="Game preview" src="./FatBird/saltwater.gif" width="128"/>
 
 ### Galactic Survival - [Alejandro Flores](https://github.com/ilbambino4), [Fabliha Bushra](https://github.com/fbushra)
 <img alt="GalacticGameslogo" src="./Galactic-Survival/Logo.gif" width="128"/>
