@@ -38,6 +38,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
     - [Tony Spicy - John Gilbert](#tony-spicy---john-gilbert)
 
 ### Alis - [Laszlo Nguyen](https://github.com/LaszloNguyen)
+<img src="./logos/Alis-logo.gif" alt="Alis logo" width="128"/>
+
+[Alis](/Alis/proto1/alis-vo-1.html) \| [v0.1](https://github.com/LaszloNguyen/CS517-Team-Repo/releases/tag/v0.1) \| [v0.2](https://github.com/LaszloNguyen/CS517-Team-Repo/releases/tag/v0.2)
+
+<img src="./Alis/alis-v02_0.gif" alt="Gameplay teaser" width="128"/>
 
 ### Ascension - [Navarre Brown](https://github.com/navarrebrown/cs477)
 
