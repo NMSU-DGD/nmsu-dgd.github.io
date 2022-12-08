@@ -215,9 +215,9 @@ Maze Guy (Lightning Game) - [Play](/2022-3/Maze-Guy/mazeguy.html) | [Release v.0
 
 <img src="./logos/SumpSkunk.gif" alt="A gif showing the Sumptuous Skunk group logo" width="128"/>
 
-Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.2](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.2)
+Skarper - [Play](/2022-3/SumptuousSkunk/skarper.html) | [Release v0.5](https://github.com/Kira-Flakes/CS-477-Game/releases/tag/v0.5)
 
-<img src="./SumptuousSkunk/skarper_3.gif" alt="A short gif showing basic player movement and game states in Skarper" width="128"/>
+<img src="./SumptuousSkunk/skarper_4.gif" alt="A short gif showing Skarper gameplay" width="128"/>
 
 ### Team Lamb - [Em (R.) Vargas](https://github.com/robertvargas-irq)
 
