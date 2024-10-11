@@ -160,3 +160,5 @@ Play - [v0.2](/Tersis/MainGamev0.2/tersis_07.html) [v0.3](/Tersis/MainGamev0.3/t
 [Avarice Functional Prototype] \| [v0.9.5](https://github.com/ecdraayer/TheConeGameProject/releases/tag/0.9.5)
 
 ![Picture of Avarice Combat](/TheCone/AvariceCombat.png)
+
+### Code Crashers - meghana-20, Akanksha4varma, Jaya Jwalitha Nagulla, Rama Chandra Baddireddy
