@@ -161,4 +161,4 @@ Play - [v0.2](/Tersis/MainGamev0.2/tersis_07.html) [v0.3](/Tersis/MainGamev0.3/t
 
 ![Picture of Avarice Combat](/TheCone/AvariceCombat.png)
 
-### Code Crashers - meghana-20, Akanksha4varma, Jaya Jwalitha Nagulla, Rama Chandra Baddireddy
+### Code Crashers - Akanksha4varma, Jaya Jwalitha, meghana-20 Nagulla, Rama Chandra Baddireddy
