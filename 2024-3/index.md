@@ -6,6 +6,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
 ### Roomate Studios - Matthew Melendez, Rogelio Long
 
