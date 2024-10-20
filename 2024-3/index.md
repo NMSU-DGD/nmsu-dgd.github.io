@@ -6,4 +6,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
+
+### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
+
+### Bingo - FuadAhmad, shafiqaust
+
+### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
+
