@@ -10,5 +10,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 (https://elijah-nix.github.io/) 
 
-<img src="./WakeUp/Releases/tag/v0.1/Screenshot.2024-10-19.181521.png" alt="Picture showing the ability to draw cards." width="128"/>
+<img src="https://github.com/elijah-nix/WakeUp/releases/tag/v0.1/Screenshot.2024-10-19.181521.png" alt="Picture showing the ability to draw cards." width="128"/>
 [v0.1](https://github.com/elijah-nix/WakeUp/releases/tag/v0.1)
