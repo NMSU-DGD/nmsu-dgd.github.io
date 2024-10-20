@@ -6,6 +6,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+
+### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
+
 ### Bingo - FuadAhmad, shafiqaust
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
+
