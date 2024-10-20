@@ -6,6 +6,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
 
@@ -20,5 +21,3 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Bingo - FuadAhmad, shafiqaust
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
-
-
