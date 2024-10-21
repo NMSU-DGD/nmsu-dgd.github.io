@@ -33,6 +33,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
 
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
+[Uphill Adventure](https://vivekpyda.github.io/)
+
+
+[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
+
+<img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
 
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
 
