@@ -6,6 +6,21 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+- [Anointed](#anointed---dominik-trujillo-dtru5)
+- [Bingo](#Bingo---FuadAhmad-shafiqaust)
+- [Bloody Unicorn](#bloody-unicorn---karina-gonzaleskbg2201-david-davidkuntz02-ryan-rweems3-avery-gremloid)
+- [BOOM!](#boom---christopher-biekeu-indronil-bhattacharjee-mingfang-zhu-redwan-ul-haq-choyon-sarhan-osman-bhuiya)
+- [CodeCrashers](#Team-CodeCrashers----Akanksha4varma-Jaya-Jwalitha-Nagulla-meghana-20-Rama-Chandra-Baddireddy)
+- [GAME CHANGERS](#GAME-CHANGERS---Fayaz-Shaik-Jyothiswaroop-Koyya-Mahesh-Maddineni-Vivekananda-Reddy-Pyda-Vivek-Reddy-Suram)
+- [Neon Dream-On Joyride !!MISSING!!](#)
+- [Roomate Studios](#Roomate-Studios---Matthew-Melendez-Rogelio-Long)
+- [Rust Rescue !!MISSING!!](#)
+- [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
+- [*Totally NOT Adderall Abusers*](#totally-not-adderall-abusers---alex-paque-garns-jd-lepinski-matthew-quinones)
+- [Wake Up !!MISSING!!](#)
+- [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
+- [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
+
 - [TA's Example](#Team-TA---Theo-Platt)
 
 
