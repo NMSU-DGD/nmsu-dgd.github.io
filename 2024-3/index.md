@@ -25,6 +25,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Roomate Studios - Matthew Melendez, Rogelio Long
 
+[Escape Velocity](https://requestforcriticism.com/escape-velocity/)
+
+[v0.1](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.1)
+
+<img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
+
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
 
 ### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
