@@ -44,6 +44,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
+[v0.1](https://github.com/kbg2201/BUD-Team/releases/tag/v0.1)
+
+<img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
+
 ### Roomate Studios - Matthew Melendez, Rogelio Long
 
 [Escape Velocity](https://requestforcriticism.com/escape-velocity/)
