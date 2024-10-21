@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [missing](#)
 - [missing](#)
 - [missing](#)
-- [TA's Example](#Team-TA---Theo-Platt)
+- [TA's Example](#Team-TA---Theo-Platt,-teammates-here)
 
 
 
@@ -67,7 +67,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/anointed.gif>" alt="Movement and scene changing" height="128"/>
 
-### Team TA - Theo Platt
+### Team TA - Theo Platt, teammates here
 [Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
 
 [v0.1](https://github.com/Theo-Platt/Shotgun_Witch/releases/tag/v0.0.1) 
