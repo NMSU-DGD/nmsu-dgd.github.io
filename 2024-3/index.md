@@ -28,6 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
 
 ### Wandering Inn: The Game - Alayna Randall/Montoya
+[Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
 
 [v0.1](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.1)
 
