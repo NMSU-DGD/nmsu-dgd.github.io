@@ -49,6 +49,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
 
 ### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
+[Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
+
+[v0.1](https://github.com/RobRob7/Team-Zombie-Bash/releases/tag/v0.1)
+
+<img src="./art/zombiebash_v01.gif" alt="Zombie Bash main menu and gameplay" height="128"/>
 
 ### Bingo - FuadAhmad, shafiqaust
 
