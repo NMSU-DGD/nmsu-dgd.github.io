@@ -90,3 +90,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
 
+
+### Rust-Rescue - [ahmedbony, xindi-z]
+
+[Rust-Rescue](https://xindi-z.github.io/Rust-Rescue/index.html)
+
+[v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
+
+<img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
+<img src="./art/running model.gif>" alt="demo" height="128"/>
