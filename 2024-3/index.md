@@ -11,6 +11,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
+[School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
+[v0.1](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.1)
+<img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
 
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 
