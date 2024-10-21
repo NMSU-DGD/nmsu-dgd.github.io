@@ -27,6 +27,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
 
+### Wandering Inn: The Game - Alayna Randall/Montoya
+
+[v0.1](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.1)
+
+<img src="./art/wanderingInnGame_v01.gif" alt="Dialogue Example" height="128"/>
+
 ### Team TA - Theo Platt
 [Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
 
