@@ -6,13 +6,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
-- [CodeCrashers](#Team-CodeCrashers----Akanksha4varma,-Jaya-Jwalitha-Nagulla,-meghana-20,-Rama-Chandra-Baddireddy)
-- [GAME CHANGERS](#GAME-CHANGERS---Fayaz-Shaik,-Jyothiswaroop-Koyya,-Mahesh-Maddineni,-Vivekananda-Reddy-Pyda,-Vivek-Reddy-Suram)
+- [CodeCrashers](#Team-CodeCrashers----Akanksha4varma-Jaya-Jwalitha-Nagulla-meghana-20-Rama-Chandra-Baddireddy)
+- [GAME CHANGERS](#GAME-CHANGERS---Fayaz-Shaik-Jyothiswaroop-Koyya-Mahesh-Maddineni-Vivekananda-Reddy-Pyda-Vivek-Reddy-Suram)
 - [*Totally NOT Adderall Abusers*](#*Totally-NOT-Adderall-Abusers*---[Alex Paque Garns,-JD-Lepinski,-Matthew Quinones])
-- [Bloody Unicorn](#Bloody-Unicorn---Karina-Gonzales(kbg2201),-David-(Davidkuntz02),-Ryan-(rweems3),-Avery-(gremloid))
-- [Roomate Studios](#Roomate-Studios---Matthew-Melendez,-Rogelio-Long)
-- [Space Marshall](#Space-Marshall---chiagozie-Emelife,-Julio-Estrada,-Kwabena-Adu-Agyemang,-Mauricio-Munoz,-Sayantan-Maity)
-- [Zombie Bash](#Zombie-Bash---[arentschool,-gturner9371213,-Hakka2424,-RobRob7])
+- [Bloody Unicorn](#Bloody-Unicorn---Karina-Gonzales(kbg2201)-David-(Davidkuntz02)-Ryan-(rweems3)-Avery-(gremloid))
+- [Roomate Studios](#Roomate-Studios---Matthew-Melendez-Rogelio-Long)
+- [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
+- [Zombie Bash](#Zombie-Bash---[arentschool-gturner9371213-Hakka2424-RobRob7])
 - [Bingo](#Bingo---FuadAhmad,-shafiqaust)
 - [BOOM!](#BOOM!---Christopher Biekeu,-Indronil-Bhattacharjee,-Mingfang-Zhu,-Redwan-Ul-Haq-Choyon,-Sarhan-Osman-Bhuiya)
 - [Wandering Inn: The Game](#Wandering-Inn:-The-Game---Alayna Randall/Montoya)
@@ -20,7 +20,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [missing](#)
 - [missing](#)
 - [missing](#)
-- [TA's Example](#Team-TA---Theo-Platt,-teammates-here)
+- [TA's Example](#Team-TA---Theo-Platt)
 
 
 
@@ -67,7 +67,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/anointed.gif>" alt="Movement and scene changing" height="128"/>
 
-### Team TA - Theo Platt, teammates here
+### Team TA - Theo Platt
 [Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
 
 [v0.1](https://github.com/Theo-Platt/Shotgun_Witch/releases/tag/v0.0.1) 
