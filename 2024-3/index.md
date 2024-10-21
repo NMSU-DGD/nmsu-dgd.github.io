@@ -33,6 +33,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
 
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
+[Uphill Adventure](https://vivekpyda.github.io/)
+
+
+[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
+
+<img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
 
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
 
@@ -62,6 +68,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Bingo - FuadAhmad, shafiqaust
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
+[BOOM!] We cannot host the game in github.io site because of the .pck file being larger than 100MB github limit. We will show the game functioning in the class.
+
+[v0.1](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v1.0)
+
+<img src="./art/samuel-gif.gif" alt="Dialogue Example" height="128"/>
 
 ### Wandering Inn: The Game - Alayna Randall/Montoya
 [Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
@@ -88,3 +99,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
 
+
+### Rust-Rescue - [ahmedbony, xindi-z]
+
+[Rust-Rescue](https://xindi-z.github.io/Rust-Rescue/index.html)
+
+[v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
+
+<img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
+<img src="./art/running model.gif>" alt="demo" height="128"/>
