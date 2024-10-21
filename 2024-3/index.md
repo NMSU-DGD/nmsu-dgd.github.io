@@ -10,6 +10,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
+### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
 
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 
@@ -37,3 +38,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [v0.2](https://github.com/Theo-Platt/Shotgun_Witch/releases/tag/v0.0.2)
 
 <img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
+
