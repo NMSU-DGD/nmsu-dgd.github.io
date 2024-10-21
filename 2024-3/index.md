@@ -59,6 +59,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
+[Space Marshall](https://github.com/MoriMnz/spacemarshall/tree/main/webgame)
+
+[v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
+
+<img src="./art/spacemarshall.gif" alt="The Space Wonderer Base Map and Player" height="128">
 
 ### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
 [Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
