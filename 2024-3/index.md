@@ -46,6 +46,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/wanderingInnGame_v01.gif" alt="Dialogue Example" height="128"/>
 
+### Anointed - Dominik Trujillo (dtru5)
+[Anointed](https://dtru5.github.io/anointedv0.1/)
+
+[v0.1](https://github.com/dtru5/cs477-project_game/releases/tag/v0.1)
+
+<img src="./art/anointed.gif>" alt="Movement and scene changing" height="128"/>
+
 ### Team TA - Theo Platt
 [Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
 
