@@ -111,5 +111,5 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
-<img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
-<img src="./art/running model.gif>" alt="demo" height="128"/>
+<img src="./art/rrdemo1.gif" alt="demo" height="128"/>
+<img src="./art/running model.gif" alt="demo" height="128"/>
