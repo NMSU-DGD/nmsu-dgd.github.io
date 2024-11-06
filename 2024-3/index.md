@@ -44,6 +44,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
+[Bloody Unicorn Demo](https://kbg2201.github.io/BUD-Team/demo/)
+
 [v0.1](https://github.com/kbg2201/BUD-Team/releases/tag/v0.1)
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
@@ -57,7 +59,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
-[Space Marshall](https://github.com/MoriMnz/spacemarshall/tree/main/webgame)
+[Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
 
 [v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
 
@@ -111,8 +113,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
+
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
 
 ### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
 
@@ -121,3 +125,25 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [v0.1](https://github.com/VivekPyda/flappybat/tree/v0.1)
 
 <img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
+
+
+### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
+<!-- index page -->
+[NMSU Carnival Shooting](https://shaik-fayaz.github.io/)
+<!-- release -->
+[v0.1](https://github.com/apgarns/https---github.com-apgarns-NMSUCarnival/releases/tag/v0.1)
+
+NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim and reflexes in a classic carnival-style shooting gallery. Your goal is to hit as many moving beer bottles as possible, with every successful shot rewarded by exciting animations and sound effects. With two modes to keep things fresh – Infinite Mode for endless fun and Target Mode for hitting a specific goal – it’s a game that’s easy to pick up but hard to put down. Whether you’re aiming for a high score or just testing your reflexes, Beer Bottle Shooter is your next go-to for quick, thrilling gameplay. Give it a shot and see how many you can hit!
+
+<img src="./art/lighting.gif" alt="a NMSU carnival shooting game" height="128"/>
+
+
+### Team Ro - Rogelio Long
+[Stalwart Defenders](https://rlong021.github.io/stalwart_defenders/) 
+
+[v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
+
+<img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
+
+
