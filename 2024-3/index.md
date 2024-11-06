@@ -44,6 +44,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
+[Bloody Unicorn Demo](https://kbg2201.github.io/BUD-Team/demo/)
+
 [v0.1](https://github.com/kbg2201/BUD-Team/releases/tag/v0.1)
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
@@ -57,7 +59,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
-[Space Marshall](https://github.com/MoriMnz/spacemarshall/tree/main/webgame)
+[Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
 
 [v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
 
@@ -111,6 +113,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
+
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
@@ -120,3 +123,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
 
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
