@@ -24,7 +24,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
 
 
-- [One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
+- [Lostronaut](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
 
 - [TA's Example](#Team-TA---Theo-Platt)
 - [One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-Mingfang-Zhu-Joshua-Wilson)
