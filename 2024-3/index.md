@@ -28,7 +28,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Group 1: One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-mingfang-zhu-joshua-wilson)
 - [Group 2: NMSU Carnival Shooting](#lighting-game----alex-paque-garns-fayaz-shaik-sarhan-osman-bhuiya-xindi-z-)
 - [Group 3: Bob the Builder](#group3----chiagozie-emelife-matthew-melendez-meghana-20-vivek-reddy-suram)
-- [Group 4: Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+- [Group 4: Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-shiva1-d-alaynar)
 - [Group 5: Bat's Midnight Dash](#group-5---karina-gonzaleskbg2201-rama-chandra-baddireddy-tyreke-hetzel-vivekananda-reddy-pyda)
 - [Group 6: One-Lostronaut Space Shooting](#lightning-game-team-6---md-zaman-jyothiswaroop-koyya-david-kuntz-mauriciomunoz)
 - [Group 7: Infinity-Lighting Game](#group-7---akanksha-varma-sagi--matthew-quinones-avery-johnson-garrett-turner)
