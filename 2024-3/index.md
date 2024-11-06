@@ -118,6 +118,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
 
+### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
+
+[Bat's Midnight Dash](https://vivekpyda.github.io/flappybat.github.io/)
+
+[v0.1](https://github.com/VivekPyda/flappybat/tree/v0.1)
+
+<img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
+
+
 ### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
 <!-- index page -->
 [NMSU Carnival Shooting](https://shaik-fayaz.github.io/)
@@ -135,5 +144,6 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
 
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
 
 
