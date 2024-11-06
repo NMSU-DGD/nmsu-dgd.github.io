@@ -21,6 +21,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
+- [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+
 - [TA's Example](#Team-TA---Theo-Platt)
 
 
@@ -113,3 +115,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
+### Beyond Infinity - [redwan1795, ahmedbbony, Shiva1-D, alaynar]
+
+[Beyond Infinity](https://redwan1795.github.io/DGD-Lightning-Game/)
+
+[v1.5](https://github.com/redwan1795/DGD-Lightning-Game/releases/tag/v1.5)
+
+<img src="./art/beyondInfinity.gif" alt="Soaring and Flying" height="128"/>
