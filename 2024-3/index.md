@@ -36,8 +36,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Group 9: Lightning Game](#lightning-game---group-9---jaya-jwalitha-nagulla-jd-lepinski-john-weems-dominik-trujillo)
 - [Group 10:<missing>](#)
 
-
-
 ## Team Game
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
@@ -53,6 +51,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 [Uphill Adventure](https://vivekpyda.github.io/)
 <img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
+
+
 
 
 
@@ -247,11 +247,10 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 
 
 ### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
-**Pitch:** The game appears to be a 2D space shooter where the player controls a spaceship to defeat alien enemies. The player has a limited number of lives and must avoid enemy fire to survive.  The story could involve a battle against an alien invasion or a mission to save the galaxy.
-[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
+**Pitch:** 
 
-[v.1](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.1)
-<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
+While doing a routine spacewalk, your ship was attacked by interdimensional aliens and exploded. The blast threw you into a non-Euclidean pocket of space where the rules of spacetime are broken. You must find a loose transponder module you saw in order to call for help. The alien is still after you as well...
 
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+[Lostronaut](https://shafiqaust.github.io/gitT6Lightning/)
+[v.2](https://github.com/shafiqaust/gitT6Lightning/releases/tag/v0.2)
 <img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
