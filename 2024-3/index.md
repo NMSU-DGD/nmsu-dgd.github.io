@@ -113,3 +113,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
+### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
+
+[Bat's Midnight Dash](https://vivekpyda.github.io/flappybat.github.io/)
+
+[v0.1](https://github.com/VivekPyda/flappybat/tree/v0.1)
+
+<img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
