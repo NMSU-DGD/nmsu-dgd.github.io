@@ -113,6 +113,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
-<img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
-<img src="./art/running model.gif>" alt="demo" height="128"/>
+
+<img src="./art/rrdemo1.gif" alt="demo" height="128"/>
+<img src="./art/running model.gif" alt="demo" height="128"/>
+
+### Team Ro - Rogelio Long
+[Stalwart Defenders](https://rlong021.github.io/stalwart_defenders/) 
+
+[v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
+
+<img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
 
