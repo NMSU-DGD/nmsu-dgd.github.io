@@ -121,4 +121,4 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/RobRob7/Boulder/releases/tag/v0.1)
 
-<img src="boulderthegame.gif" alt="BoulderTheGame" height="128"/>
+<img src="./art/boulderthegame.gif" alt="BoulderTheGame" height="128"/>
