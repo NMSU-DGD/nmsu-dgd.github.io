@@ -146,6 +146,16 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
 
 
+
+### Group 7 - [Akanksha varma sagi , Avery Johnson, Matthew Quinones, Garrett Turner]
+
+[Infinity lighting Game ](https://akanksha4varma.github.io/)
+
+[v0.1](https://github.com/SmallBrainMatt/CS477-Lightning-Game/releases/tag/V01)
+
+<img src="./art/InfinityAnimation.gif" alt="demo" height="128"/>
+
+
 ### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
 <!-- index page -->
 [NMSU Carnival Shooting](https://shaik-fayaz.github.io/)
@@ -163,6 +173,8 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
 
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
+
 
 
 
