@@ -118,7 +118,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Group3 -  chiagozie Emelife, Matthew Melendez, meghana-20, Vivek Reddy Suram
 [Bob The Builder](https://meghana-20.github.io/lightning_game/)
 
-[v0.0](https://github.com/meghana-20/lightning_game/releases/tag/v0.0)
+[v0.1](https://github.com/meghana-20/lightning_game/releases/tag/v0.1)
 
 <img src="./art/bob_the_builder_game.gif" alt="gif of Bob The Builder" height="128"/>
 
