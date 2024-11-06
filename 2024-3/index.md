@@ -120,6 +120,16 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
 
+
+### Group 8 - [Aren Trombley, Kwabena Adu Agyemang, Mahesh Maddineni, Robert Armendariz]
+
+[Boulder](https://robrob7.github.io/Boulder/WebGame/Boulder.html)
+
+[v0.1](https://github.com/RobRob7/Boulder/releases/tag/v0.1)
+
+<img src="./art/boulderthegame.gif" alt="BoulderTheGame" height="128"/>
+
+
 ### Beyond Infinity - [redwan1795, ahmedbony, Shiva1-D, alaynar]
 
 [Beyond Infinity](https://redwan1795.github.io/DGD-Lightning-Game/)
