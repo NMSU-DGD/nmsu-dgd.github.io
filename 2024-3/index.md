@@ -164,7 +164,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/Indronil-Prince/Lightning-Game-Creep/releases/tag/v1.0)
 
-<img src="./art/lg-t1-game-gif.gif" alt="demo" height="512"/>
+<img src="./art/lg-t1-game-gif.gif" alt="demo" height="256"/>
 
 
 
