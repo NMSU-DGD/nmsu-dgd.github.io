@@ -24,7 +24,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
 
 - [TA's Example](#Team-TA---Theo-Platt)
-
+- [One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-Mingfang-Zhu-Joshua-Wilson)
 
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
@@ -120,6 +120,17 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
 
+### Lightning Game Team 1 - Indronil Bhattacharjee, Sayantan Maity, Fuad Ahmed, Mingfang Zhu, Joshua Wilson
+
+[One-Man Point-Man Space Combat]((https://indronil-prince.github.io/lightgame.html)
+
+**Pitch:** In our 2D arcade survival game, players are plunged into a fast-paced, visually unique universe where they must survive waves of alien ships, each wave more challenging than the last. With captivating, one-of-a-kind artwork that brings the game's world to life, players will need sharp reflexes and strategy to dodge attacks and rack up scores by taking down as many alien ships as possible. This game is all about balancing risk and reward as players push their limits to survive and achieve high scores, making it an exciting test of skill and endurance.
+
+[v0.1](https://github.com/Indronil-Prince/Lightning-Game-Creep/releases/tag/v1.0)
+
+<img src="./art/lg-t1-game-gif.gif" alt="demo" height="512"/>
+
+
 ### Lightning Game - Group 9 - [Jaya Jwalitha Nagulla, JD Lepinski, John Weems, Dominik Trujillo]
 
 [Lightning Game](https://dtru5.github.io/lightning_game_web/)
@@ -181,3 +192,4 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
 
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
