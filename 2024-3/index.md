@@ -118,6 +118,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
 
+
+### Group3 -  chiagozie Emelife, Matthew Melendez, meghana-20, Vivek Reddy Suram
+[Bob The Builder](https://meghana-20.github.io/lightning_game/)
+
+[v0.1](https://github.com/meghana-20/lightning_game/releases/tag/v0.1)
+
+<img src="./art/bob_the_builder_game.gif" alt="gif of Bob The Builder" height="128"/>
+
+
 ### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
 
 [Bat's Midnight Dash](https://vivekpyda.github.io/flappybat.github.io/)
