@@ -31,7 +31,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Group 4: Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
 - [Group 5: Bat's Midnight Dash](#group-5---karina-gonzaleskbg2201-rama-chandra-baddireddy-tyreke-hetzel-vivekananda-reddy-pyda)
 - [Group 6: One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
-- [Group 7: <missing>](#)
+- [Group 7: Infinity-Lighting Game](#group-7---akanksha-varma-sagi--matthew-quinones-avery-johnson-garrett-turner)
 - [Group 8: Boulder](#group-8---aren-trombley-kwabena-adu-agyemang-mahesh-maddineni-robert-armendariz)
 - [Group 9: Lightning Game](#lightning-game---group-9---jaya-jwalitha-nagulla-jd-lepinski-john-weems-dominik-trujillo)
 - [Group 10:<missing>](#)
