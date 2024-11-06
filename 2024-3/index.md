@@ -193,6 +193,17 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
 
 
+
+### Group 7 - [Akanksha Varma Sagi , Matthew Quinones, Avery Johnson, Garrett Turner]
+
+[Infinity-Lighting Game](https://akanksha4varma.github.io/)
+
+[v0.1](https://github.com/SmallBrainMatt/CS477-Lightning-Game/releases/tag/V01)
+
+<img src="./art/InfinityAnimation.gif" alt="demo" height="128"/>
+
+
+
 ### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
 <!-- index page -->
 [NMSU Carnival Shooting](https://shaik-fayaz.github.io/)
