@@ -45,16 +45,17 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
-[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
-[v.1](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.1)
+[Lostronaut](https://shafiqaust.github.io/gitT6Lightning/)
+[v0.1](https://github.com/shafiqaust/gitT6Lightning/releases/tag/v0.1)
 <img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
-<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
-### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
-**Pitch:** The game appears to be a 2D space shooter where the player controls a spaceship to defeat alien enemies. The player has a limited number of lives and must avoid enemy fire to survive.  The story could involve a battle against an alien invasion or a mission to save the galaxy.
 
-[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
+**Pitch:** 
+
+While doing a routine spacewalk, your ship was attacked by interdimensional aliens and exploded. The blast threw you into a non-Euclidean pocket of space where the rules of spacetime are broken. You must find a loose transponder module you saw in order to call for help. The alien is still after you as well...
+
+[Lostronaut](https://shafiqaust.github.io/gitT6Lightning/)
+[v.2](https://github.com/shafiqaust/gitT6Lightning/releases/tag/v0.2)
 <img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
 
 <img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
