@@ -120,6 +120,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
 
+### Lightning Game - Group 9 - [Jaya Jwalitha Nagulla, JD Lepinski, John Weems, Dominik Trujillo]
+
+[Lightning Game](https://dtru5.github.io/lightning_game_web/)
+
+<img src="./art/lightning_game_demoG9.gif" alt="GIF of gameplay" width="128"/>
+
+[v1.0](https://github.com/dtru5/LightningGame/releases/tag/v1.0)
+
 
 ### Group 8 - [Aren Trombley, Kwabena Adu Agyemang, Mahesh Maddineni, Robert Armendariz]
 
@@ -173,7 +181,3 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
 
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
-
-
-
-
