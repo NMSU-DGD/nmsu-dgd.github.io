@@ -44,6 +44,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
+[Bloody Unicorn Demo](https://kbg2201.github.io/BUD-Team/demo/)
+
 [v0.1](https://github.com/kbg2201/BUD-Team/releases/tag/v0.1)
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
@@ -111,5 +113,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
-<img src="./art/rrdemo1.gif" alt="demo" height="128"/>
-<img src="./art/running model.gif" alt="demo" height="128"/>
+<img src="./art/rrdemo1.gif>" alt="demo" height="128"/>
+<img src="./art/running model.gif>" alt="demo" height="128"/>
+
