@@ -113,3 +113,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
+### Lightning Game - Group 9 - [Jaya Jwalitha Nagulla, JD Lepinski, John Weems, Dominik Trujillo]
+
+[Lightning Game](https://dtru5.github.io/lightning_game_web/)
+
+<img src="./art/lightning_game_demoG9.gif" alt="GIF of gameplay" width="128"/>
+
+[v1.0](https://github.com/dtru5/LightningGame/releases/tag/v1.0)
