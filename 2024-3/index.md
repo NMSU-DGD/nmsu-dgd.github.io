@@ -6,6 +6,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ## Contents
 
+### Team Games
 - [Anointed](#anointed---dominik-trujillo-dtru5)
 - [Bingo](#Bingo---FuadAhmad-shafiqaust)
 - [Bloody Unicorn](#bloody-unicorn---karina-gonzaleskbg2201-david-davidkuntz02-ryan-rweems3-avery-gremloid)
@@ -21,15 +22,23 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
-- [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+
+### Lightning Games
+- [Group 0: Stalward Defenders](#team-ro---rogelio-long)
+- [Group 1: One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-mingfang-zhu-joshua-wilson)
+- [Group 2: NMSU Carnival Shooting](#lighting-game----alex-paque-garns-fayaz-shaik-sarhan-osman-bhuiya-xindi-z-)
+- [Group 3: Bob the Builder](#group3----chiagozie-emelife-matthew-melendez-meghana-20-vivek-reddy-suram)
+- [Group 4: Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+- [Group 5: Bat's Midnight Dash](#group-5---karina-gonzaleskbg2201-rama-chandra-baddireddy-tyreke-hetzel-vivekananda-reddy-pyda)
+- [Group 6: One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
+- [Group 7: <missing>](#)
+- [Group 8: Boulder](#group-8---aren-trombley-kwabena-adu-agyemang-mahesh-maddineni-robert-armendariz)
+- [Group 9: Lightning Game](#lightning-game---group-9---jaya-jwalitha-nagulla-jd-lepinski-john-weems-dominik-trujillo)
+- [Group 10:<missing>](#)
 
 
-- [One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
 
-- [TA's Example](#Team-TA---Theo-Platt)
-- [One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-Mingfang-Zhu-Joshua-Wilson)
-
-
+## Team Game
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
 [School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
@@ -39,28 +48,17 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
 
+
+
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 [Uphill Adventure](https://vivekpyda.github.io/)
-
-
-
-
-[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
-[v.1](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.1)
-<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
-<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
-### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
-**Pitch:** The game appears to be a 2D space shooter where the player controls a spaceship to defeat alien enemies. The player has a limited number of lives and must avoid enemy fire to survive.  The story could involve a battle against an alien invasion or a mission to save the galaxy.
-
-[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
-<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
-
 <img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
 
 
+
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
+
+
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
@@ -70,6 +68,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
 
+
+
 ### Roomate Studios - Matthew Melendez, Rogelio Long
 
 [Escape Velocity](https://requestforcriticism.com/escape-velocity/)
@@ -78,12 +78,16 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
+
+
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
 [Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
 
 [v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
 
 <img src="./art/spacemarshall.gif" alt="The Space Wonderer Base Map and Player" height="128">
+
+
 
 ### Zombie Bash - [arentschool, gturner9371213, Hakka2424, RobRob7]
 [Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
@@ -92,7 +96,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/zombiebash_v01.gif" alt="Zombie Bash main menu and gameplay" height="128"/>
 
+
+
 ### Bingo - FuadAhmad, shafiqaust
+
+
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
 [BOOM!] We cannot host the game in github.io site because of the .pck file being larger than 100MB github limit. We will show the game functioning in the class.
@@ -101,6 +109,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/samuel-gif.gif" alt="Dialogue Example" height="128"/>
 
+
+
 ### Wandering Inn: The Game - Alayna Randall/Montoya
 [Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
 
@@ -108,12 +118,16 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/wanderingInnGame_v01.gif" alt="Dialogue Example" height="128"/>
 
+
+
 ### Anointed - Dominik Trujillo (dtru5)
 [Anointed](https://dtru5.github.io/anointedv0.1/)
 
 [v0.1](https://github.com/dtru5/cs477-project_game/releases/tag/v0.1)
 
 <img src="./art/anointed.gif>" alt="Movement and scene changing" height="128"/>
+
+
 
 ### Team TA - Theo Platt
 [Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
@@ -127,6 +141,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
 
 
+
 ### Rust-Rescue - [ahmedbony, xindi-z]
 
 [Rust-Rescue](https://xindi-z.github.io/Rust-Rescue/index.html)
@@ -137,6 +152,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
+
+
+## Lightning Game
 
 ### Lightning Game Team 1 - Indronil Bhattacharjee, Sayantan Maity, Fuad Ahmed, Mingfang Zhu, Joshua Wilson
 
@@ -149,6 +167,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/lg-t1-game-gif.gif" alt="demo" height="512"/>
 
 
+
 ### Lightning Game - Group 9 - [Jaya Jwalitha Nagulla, JD Lepinski, John Weems, Dominik Trujillo]
 
 [Lightning Game](https://dtru5.github.io/lightning_game_web/)
@@ -156,6 +175,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/lightning_game_demoG9.gif" alt="GIF of gameplay" width="128"/>
 
 [v1.0](https://github.com/dtru5/LightningGame/releases/tag/v1.0)
+
 
 
 ### Group 8 - [Aren Trombley, Kwabena Adu Agyemang, Mahesh Maddineni, Robert Armendariz]
@@ -167,6 +187,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/boulderthegame.gif" alt="BoulderTheGame" height="128"/>
 
 
+
 ### Beyond Infinity - [redwan1795, ahmedbony, Shiva1-D, alaynar]
 
 [Beyond Infinity](https://redwan1795.github.io/DGD-Lightning-Game/)
@@ -174,6 +195,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [v1.5](https://github.com/redwan1795/DGD-Lightning-Game/releases/tag/v1.5)
 
 <img src="./art/beyondInfinity.gif" alt="Soaring and Flying" height="128"/>
+
 
 
 ### Group3 -  chiagozie Emelife, Matthew Melendez, meghana-20, Vivek Reddy Suram
@@ -184,6 +206,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/bob_the_builder_game.gif" alt="gif of Bob The Builder" height="128"/>
 
 
+
 ### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
 
 [Bat's Midnight Dash](https://vivekpyda.github.io/flappybat.github.io/)
@@ -191,6 +214,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [v0.1](https://github.com/VivekPyda/flappybat/tree/v0.1)
 
 <img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
+
 
 
 ### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
@@ -204,10 +228,21 @@ NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim
 <img src="./art/lighting.gif" alt="a NMSU carnival shooting game" height="128"/>
 
 
+
 ### Team Ro - Rogelio Long
 [Stalwart Defenders](https://rlong021.github.io/stalwart_defenders/) 
 
 [v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
-
 <img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
 
+
+
+### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
+**Pitch:** The game appears to be a 2D space shooter where the player controls a spaceship to defeat alien enemies. The player has a limited number of lives and must avoid enemy fire to survive.  The story could involve a battle against an alien invasion or a mission to save the galaxy.
+[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
+
+[v.1](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.1)
+<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
+
+[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
