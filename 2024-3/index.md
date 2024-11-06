@@ -23,14 +23,19 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 - [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
 
+
+- [One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
+
 - [TA's Example](#Team-TA---Theo-Platt)
 - [One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-Mingfang-Zhu-Joshua-Wilson)
+
 
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
 [School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
 
 [v0.1](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.1)
+[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
 
 <img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
 
@@ -38,9 +43,22 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [Uphill Adventure](https://vivekpyda.github.io/)
 
 
-[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
+
+
+[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
+[v.1](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.1)
+<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
+[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
+### Lightning Game Team 6 - Md Zaman, Jyothiswaroop Koyya, David Kuntz, MauricioMunoz
+**Pitch:** The game appears to be a 2D space shooter where the player controls a spaceship to defeat alien enemies. The player has a limited number of lives and must avoid enemy fire to survive.  The story could involve a battle against an alien invasion or a mission to save the galaxy.
+
+[Lostronaut Space Shooting](https://shafiqaust.github.io/Lostronaut/)
+[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+<img src="./art/t6-game-gif.gif" alt="Lostronaut" height="128"/>
 
 <img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
+
 
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
 
