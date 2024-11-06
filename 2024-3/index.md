@@ -158,7 +158,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Lightning Game Team 1 - Indronil Bhattacharjee, Sayantan Maity, Fuad Ahmed, Mingfang Zhu, Joshua Wilson
 
-[One-Man Point-Man Space Combat]((https://indronil-prince.github.io/lightgame.html)
+[One-Man Point-Man Space Combat](https://indronil-prince.github.io/lightgame.html)
 
 **Pitch:** In our 2D arcade survival game, players are plunged into a fast-paced, visually unique universe where they must survive waves of alien ships, each wave more challenging than the last. With captivating, one-of-a-kind artwork that brings the game's world to life, players will need sharp reflexes and strategy to dodge attacks and rack up scores by taking down as many alien ships as possible. This game is all about balancing risk and reward as players push their limits to survive and achieve high scores, making it an exciting test of skill and endurance.
 
