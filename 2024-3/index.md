@@ -21,7 +21,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
-- [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+- [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1D-alaynar)
 
 - [TA's Example](#Team-TA---Theo-Platt)
 
