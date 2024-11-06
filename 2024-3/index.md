@@ -21,9 +21,15 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
-- [TA's Example](#Team-TA---Theo-Platt)
+- [Beyond Infinity](#beyond-infinity---redwan1795-ahmedbony-Shiva1-D-alaynar)
+
 
 - [One-Lostronaut Space Shooting](#lightning-game-team-6---Md-Zaman-Jyothiswaroop-Koyya-David-Kuntz-Mauricio-Munoz)
+
+- [TA's Example](#Team-TA---Theo-Platt)
+- [One-Man Point-Man Space Combat](#lightning-game-team-1---indronil-bhattacharjee-sayantan-maity-fuad-ahmed-Mingfang-Zhu-Joshua-Wilson)
+
+
 
 ### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
 [School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
@@ -58,6 +64,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bloody Unicorn - Karina Gonzales(kbg2201), David (Davidkuntz02), Ryan (rweems3), Avery (gremloid)
 
+[Bloody Unicorn Demo](https://kbg2201.github.io/BUD-Team/demo/)
+
 [v0.1](https://github.com/kbg2201/BUD-Team/releases/tag/v0.1)
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
@@ -71,7 +79,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
-[Space Marshall](https://github.com/MoriMnz/spacemarshall/tree/main/webgame)
+[Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
 
 [v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
 
@@ -125,5 +133,81 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.1)
 
+
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
+
+
+### Lightning Game Team 1 - Indronil Bhattacharjee, Sayantan Maity, Fuad Ahmed, Mingfang Zhu, Joshua Wilson
+
+[One-Man Point-Man Space Combat]((https://indronil-prince.github.io/lightgame.html)
+
+**Pitch:** In our 2D arcade survival game, players are plunged into a fast-paced, visually unique universe where they must survive waves of alien ships, each wave more challenging than the last. With captivating, one-of-a-kind artwork that brings the game's world to life, players will need sharp reflexes and strategy to dodge attacks and rack up scores by taking down as many alien ships as possible. This game is all about balancing risk and reward as players push their limits to survive and achieve high scores, making it an exciting test of skill and endurance.
+
+[v0.1](https://github.com/Indronil-Prince/Lightning-Game-Creep/releases/tag/v1.0)
+
+<img src="./art/lg-t1-game-gif.gif" alt="demo" height="512"/>
+
+
+### Lightning Game - Group 9 - [Jaya Jwalitha Nagulla, JD Lepinski, John Weems, Dominik Trujillo]
+
+[Lightning Game](https://dtru5.github.io/lightning_game_web/)
+
+<img src="./art/lightning_game_demoG9.gif" alt="GIF of gameplay" width="128"/>
+
+[v1.0](https://github.com/dtru5/LightningGame/releases/tag/v1.0)
+
+
+### Group 8 - [Aren Trombley, Kwabena Adu Agyemang, Mahesh Maddineni, Robert Armendariz]
+
+[Boulder](https://robrob7.github.io/Boulder/WebGame/Boulder.html)
+
+[v0.1](https://github.com/RobRob7/Boulder/releases/tag/v0.1)
+
+<img src="./art/boulderthegame.gif" alt="BoulderTheGame" height="128"/>
+
+
+### Beyond Infinity - [redwan1795, ahmedbony, Shiva1-D, alaynar]
+
+[Beyond Infinity](https://redwan1795.github.io/DGD-Lightning-Game/)
+
+[v1.5](https://github.com/redwan1795/DGD-Lightning-Game/releases/tag/v1.5)
+
+<img src="./art/beyondInfinity.gif" alt="Soaring and Flying" height="128"/>
+
+
+### Group3 -  chiagozie Emelife, Matthew Melendez, meghana-20, Vivek Reddy Suram
+[Bob The Builder](https://meghana-20.github.io/lightning_game/)
+
+[v0.1](https://github.com/meghana-20/lightning_game/releases/tag/v0.1)
+
+<img src="./art/bob_the_builder_game.gif" alt="gif of Bob The Builder" height="128"/>
+
+
+### Group 5 - [Karina Gonzales(kbg2201), Rama Chandra Baddireddy, Tyreke Hetzel, Vivekananda Reddy Pyda]
+
+[Bat's Midnight Dash](https://vivekpyda.github.io/flappybat.github.io/)
+
+[v0.1](https://github.com/VivekPyda/flappybat/tree/v0.1)
+
+<img src="./art/BatsMidnightDash.gif" alt="demo" height="128"/>
+
+
+### Lighting Game - [ Alex Paque Garns, Fayaz Shaik, Sarhan Osman Bhuiya, xindi-z ]
+<!-- index page -->
+[NMSU Carnival Shooting](https://shaik-fayaz.github.io/)
+<!-- release -->
+[v0.1](https://github.com/apgarns/https---github.com-apgarns-NMSUCarnival/releases/tag/v0.1)
+
+NMSU Carnival Shooting is an addictive, fast-paced game that challenges your aim and reflexes in a classic carnival-style shooting gallery. Your goal is to hit as many moving beer bottles as possible, with every successful shot rewarded by exciting animations and sound effects. With two modes to keep things fresh – Infinite Mode for endless fun and Target Mode for hitting a specific goal – it’s a game that’s easy to pick up but hard to put down. Whether you’re aiming for a high score or just testing your reflexes, Beer Bottle Shooter is your next go-to for quick, thrilling gameplay. Give it a shot and see how many you can hit!
+
+<img src="./art/lighting.gif" alt="a NMSU carnival shooting game" height="128"/>
+
+
+### Team Ro - Rogelio Long
+[Stalwart Defenders](https://rlong021.github.io/stalwart_defenders/) 
+
+[v0.1](https://github.com/rlong021/stalwart_defenders/releases/tag/V0.0) 
+
+<img src="./art/stalward-defenders.gif" alt="A action RPG multi-character manager." height="128"/>
+
