@@ -57,6 +57,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 ### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
+[MovingIn](https://jodansky.github.io/movingin/game.html)
+<img src="./art/MovingIn.gif" alt="MovingIn gameplay" height="128"/>
+
+[v0.2](https://github.com/apgarns/MovingIn/releases/tag/v0.2)
 
 
 
