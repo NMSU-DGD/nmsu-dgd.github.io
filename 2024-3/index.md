@@ -121,11 +121,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 ### Anointed - Dominik Trujillo (dtru5)
-[Anointed](https://dtru5.github.io/anointedv0.1/)
+[Anointed](https://dtru5.github.io/anointedv0.2/)
 
-[v0.1](https://github.com/dtru5/cs477-project_game/releases/tag/v0.1)
+[v0.2](https://github.com/dtru5/cs477-project_game/releases/tag/v0.2)
 
-<img src="./art/anointed.gif>" alt="Movement and scene changing" height="128"/>
+<img src=".\art\v0.2picture.PNG>" alt="Movement and scene changing" height="128"/>
 
 
 
