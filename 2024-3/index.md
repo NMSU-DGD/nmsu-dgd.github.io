@@ -256,3 +256,10 @@ While doing a routine spacewalk, your ship was attacked by interdimensional alie
 [v.2](https://github.com/shafiqaust/gitT6Lightning/releases/tag/v0.2)
 
 <img src="./art/t6-game-gif.png" alt="Lostronaut" height="128"/>
+
+### Neon Dream-On Joyride - Siva Bonia, Joshua Wilson
+[Neon Dream-On](https://shiva1-d.github.io/Team_Project/game_project/index.html)
+
+[v0.2](https://github.com/Shiva1-D/Team_Project/releases/tag/v0.2)
+
+<img src="./art/NeonDream-On_v02.gif" alt="womp womp no dream-on" height="128"/>
