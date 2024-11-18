@@ -77,8 +77,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.1)
 
+[v0.2](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.2)
+
 <img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
+<img src="./roomate-studios/images/fpv2.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
 
 
 ### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
