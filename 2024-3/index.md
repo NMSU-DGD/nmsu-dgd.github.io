@@ -114,6 +114,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### Bingo - FuadAhmad, shafiqaust
 
+[Frenzy Bingo](https://fuadahmad.github.io/dgd_godot_project/)
+
+[v0.3](https://github.com/FuadAhmad/dgd-team-repo/releases/tag/v0.3)
+
+<img src="./art/FrenzyBingo.gif" alt="Frenzy Bingo" height="128"/>
 
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
