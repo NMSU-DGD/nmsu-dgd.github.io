@@ -42,9 +42,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 [School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
 
 [v0.1](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.1)
-[v.2](https://github.com/shafiqaust/godot4Lostronaut/releases/tag/v.2)
+[v0.2](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.2)
 
 <img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
+<img src="./art/School for evil and good(fp2).gif" alt="gif of School for Good and Evil(level2)" height="128"/>
 
 
 
