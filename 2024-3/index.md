@@ -97,6 +97,8 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
 
+[v0.3](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.3)
+
 <img src="./art/spacemarshall.gif" alt="The Space Wonderer Base Map and Player" height="128">
 
 
