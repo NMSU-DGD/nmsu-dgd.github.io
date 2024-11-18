@@ -19,7 +19,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
 - [*Totally NOT Adderall Abusers*](#totally-not-adderall-abusers---alex-paque-garns-jd-lepinski-matthew-quinones)
 - [Wake Up !!MISSING!!](#)
-- [Wandering Inn: The Game](#wandering-inn-the-game---alayna-randallmontoya)
+- [Wandering Inn: The Game](#wandering-inn-the-game---alayna-montoya)
 - [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
 
 
@@ -111,12 +111,14 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
-### Wandering Inn: The Game - Alayna Randall/Montoya
+### Wandering Inn: The Game - Alayna Montoya
 [Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
 
 [v0.1](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.1)
 
-<img src="./art/wanderingInnGame_v01.gif" alt="Dialogue Example" height="128"/>
+[v0.2](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.2)
+
+<img src="./art/wanderingInnGame_v02.gif" alt="Start New Game" height="128"/>
 
 
 
