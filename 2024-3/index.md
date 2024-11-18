@@ -13,7 +13,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [BOOM!](#boom---christopher-biekeu-indronil-bhattacharjee-mingfang-zhu-redwan-ul-haq-choyon-sarhan-osman-bhuiya)
 - [CodeCrashers](#Team-CodeCrashers----Akanksha4varma-Jaya-Jwalitha-Nagulla-meghana-20-Rama-Chandra-Baddireddy)
 - [GAME CHANGERS](#GAME-CHANGERS---Fayaz-Shaik-Jyothiswaroop-Koyya-Mahesh-Maddineni-Vivekananda-Reddy-Pyda-Vivek-Reddy-Suram)
-- [Neon Dream-On Joyride !!MISSING!!](#)
+- [Neon Dream-On Joyride](#neon-dream-on-joyride---siva-bonia-joshua-wilson)
 - [Roomate Studios](#Roomate-Studios---Matthew-Melendez-Rogelio-Long)
 - [Rust Rescue !!MISSING!!](#)
 - [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
