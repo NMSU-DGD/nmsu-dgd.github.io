@@ -70,7 +70,7 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 [v0.2](https://github.com/kbg2201/BUD-Team/releases/tag/v0.2)
 
-<img src="./art/budv02.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
+<img src="./art/bud_v02.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
 
 
 
