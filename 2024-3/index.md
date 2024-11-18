@@ -152,6 +152,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/rrdemo1.gif" alt="demo" height="128"/>
 <img src="./art/running model.gif" alt="demo" height="128"/>
 
+[v0.5](https://github.com/xindi-z/Rust-Rescue/releases/tag/v0.5)
+
+
+<img src="./art/demo.gif" alt="demo" height="128"/>
+
 
 
 ## Lightning Game
