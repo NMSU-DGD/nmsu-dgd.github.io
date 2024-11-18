@@ -51,9 +51,13 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 ### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
 [Uphill Adventure](https://vivekpyda.github.io/)
+
+[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
+[v0.3](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.3)
+
 <img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
 
-
+<img src="./art/UphillAdventureAnimation_v2.gif" alt="gif of Uphill Adventure version2" height="128"/>
 
 
 
