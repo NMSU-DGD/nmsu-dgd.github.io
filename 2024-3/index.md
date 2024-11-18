@@ -68,6 +68,10 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 <img src="./art/buddemo.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
 
+[v0.2](https://github.com/kbg2201/BUD-Team/releases/tag/v0.2)
+
+<img src="./art/budv02.gif" alt="Bloody Unicorn Demo Gameplay" height="128"/>
+
 
 
 ### Roomate Studios - Matthew Melendez, Rogelio Long
