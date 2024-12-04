@@ -36,36 +36,33 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [Group 9: Lightning Game](#lightning-game---group-9---jaya-jwalitha-nagulla-jd-lepinski-john-weems-dominik-trujillo)
 - [Group 10:<missing>](#)
 
+
+
+
 ## Team Game
 
-### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
-[School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
-
-[v0.1](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.1)
-[v0.2](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.2)
-
-<img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
-<img src="./art/School for evil and good(fp2).gif" alt="gif of School for Good and Evil(level2)" height="128"/>
 
 
+### Anointed - Dominik Trujillo (dtru5)
+[Anointed](https://dtru5.github.io/anointedv0.2/)
 
-### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
-[Uphill Adventure](https://vivekpyda.github.io/)
+[v0.2](https://github.com/dtru5/cs477-project_game/releases/tag/v0.2)
 
-[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
-[v0.3](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.3)
-
-<img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
-
-<img src="./art/UphillAdventureAnimation_v2.gif" alt="gif of Uphill Adventure version2" height="128"/>
+<img src=".\art\v0.2picture.PNG>" alt="Movement and scene changing" height="128"/>
 
 
 
-### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
-[MovingIn](https://jodansky.github.io/movingin/game.html)
-<img src="./art/MovingIn.gif" alt="MovingIn gameplay" height="128"/>
 
-[v0.2](https://github.com/apgarns/MovingIn/releases/tag/v0.2)
+
+### Bingo - FuadAhmad, shafiqaust
+
+[Frenzy Bingo](https://fuadahmad.github.io/dgd_godot_project/)
+
+[v0.3](https://github.com/FuadAhmad/dgd-team-repo/releases/tag/v0.3)
+
+<img src="./art/FrenzyBingo.gif" alt="Frenzy Bingo" height="128"/>
+
+
 
 
 
@@ -83,46 +80,6 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
-### Roomate Studios - Matthew Melendez, Rogelio Long
-
-[Escape Velocity](https://requestforcriticism.com/escape-velocity/)
-
-[v0.1](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.1)
-
-[v0.2](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.2)
-
-<img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
-
-<img src="./roomate-studios/images/fpv2.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
-
-
-### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
-[Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
-
-[v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
-
-[v0.3](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.3)
-
-<img src="./art/spacemarshall.gif" alt="The Space Wonderer Base Map and Player" height="128">
-
-
-
-### Zombie Bash - [Aren Trombley (arentschool), Garrett Turner (gturner9371213), Tyreke Hetzel (Hakka2424), Robert J. Armendariz (RobRob7)]
-[Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
-
-[v0.2](https://github.com/RobRob7/Team-Zombie-Bash/releases/tag/v0.2)
-
-<img src="./art/zombiebash_v02.gif" alt="Zombie Bash menus and gameplay" height="128"/>
-
-
-
-### Bingo - FuadAhmad, shafiqaust
-
-[Frenzy Bingo](https://fuadahmad.github.io/dgd_godot_project/)
-
-[v0.3](https://github.com/FuadAhmad/dgd-team-repo/releases/tag/v0.3)
-
-<img src="./art/FrenzyBingo.gif" alt="Frenzy Bingo" height="128"/>
 
 
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
@@ -136,36 +93,59 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 
-### Wandering Inn: The Game - Alayna Montoya
-[Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
-
-[v0.1](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.1)
-
-[v0.2](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.2)
-
-<img src="./art/wanderingInnGame_v02.gif" alt="Start New Game" height="128"/>
 
 
+### Team CodeCrashers -  Akanksha4varma, Jaya Jwalitha Nagulla, meghana-20, Rama Chandra Baddireddy
+[School for Good and Evil](https://meghana-20.github.io/CodeCrashers/)
 
-### Anointed - Dominik Trujillo (dtru5)
-[Anointed](https://dtru5.github.io/anointedv0.2/)
+[v0.1](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.1)
+[v0.2](https://github.com/meghana-20/CodeCrashers/releases/tag/v0.2)
 
-[v0.2](https://github.com/dtru5/cs477-project_game/releases/tag/v0.2)
-
-<img src=".\art\v0.2picture.PNG>" alt="Movement and scene changing" height="128"/>
+<img src="./art/school for good and evil_v01.gif" alt="gif of School for Good and Evil" height="128"/>
+<img src="./art/School for evil and good(fp2).gif" alt="gif of School for Good and Evil(level2)" height="128"/>
 
 
 
-### Team TA - Theo Platt
-[Shotgun Witch](./TAs_example/FPv1/shotgun_witch_FP1.html) 
 
-[v0.1](https://github.com/Theo-Platt/Shotgun_Witch/releases/tag/v0.0.1) 
 
-<img src="./TAs_example/images/FPv1.gif" alt="Player Character being melted by a green slime monster!" height="128"/>
+### GAME CHANGERS - Fayaz Shaik, Jyothiswaroop Koyya, Mahesh Maddineni, Vivekananda Reddy Pyda, Vivek Reddy Suram
+[Uphill Adventure](https://vivekpyda.github.io/)
 
-[v0.2](https://github.com/Theo-Platt/Shotgun_Witch/releases/tag/v0.0.2)
+[v0.2](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.2)
+[v0.3](https://github.com/Mahesh1998/uphilladventure/releases/tag/v0.3)
 
-<img src="./TAs_example/images/FPv2.gif" alt="some screenshot for your FPv2 (note this image is broken because I didnt supply one)" width="128"/>
+<img src="./art/UphillAdevntureAnimation.gif" alt="gif of Uphill Adventure" height="128"/>
+
+<img src="./art/UphillAdventureAnimation_v2.gif" alt="gif of Uphill Adventure version2" height="128"/>
+
+
+
+
+
+### Neon Dream-On Joyride - Siva Bonia, Joshua Wilson
+[Neon Dream-On](https://shiva1-d.github.io/Team_Project/game_project/index.html)
+
+[v0.2](https://github.com/Shiva1-D/Team_Project/releases/tag/v0.2)
+
+<img src="./art/NeonDream-On_v02.gif" alt="womp womp no dream-on" height="128"/>
+
+
+
+
+
+### Roomate Studios - Matthew Melendez, Rogelio Long
+
+[Escape Velocity](https://requestforcriticism.com/escape-velocity/)
+
+[v0.1](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.1)
+
+[v0.2](https://github.com/requestforcriticism/escape-velocity/releases/tag/v0.2)
+
+<img src="./roomate-studios/images/fpv1.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
+
+<img src="./roomate-studios/images/fpv2.gif" alt="v0.1 Escape Velocity Gameplay" height="128"/>
+
+
 
 
 
@@ -183,6 +163,72 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 
 
 <img src="./art/demo.gif" alt="demo" height="128"/>
+
+
+
+
+
+### Space Marshall - chiagozie Emelife, Julio Estrada, Kwabena Adu Agyemang, Mauricio Munoz, Sayantan Maity
+[Space Marshall](https://morimnz.github.io/spacemarshall/webgame)
+
+[v0.1](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.1)
+
+[v0.3](https://github.com/MoriMnz/spacemarshall/releases/tag/v0.3)
+
+<img src="./art/spacemarshall.gif" alt="The Space Wonderer Base Map and Player" height="128">
+
+
+
+
+
+### *Totally NOT Adderall Abusers* - [Alex Paque Garns, JD Lepinski, Matthew Quinones]
+[MovingIn](https://jodansky.github.io/movingin/game.html)
+<img src="./art/MovingIn.gif" alt="MovingIn gameplay" height="128"/>
+
+[v0.2](https://github.com/apgarns/MovingIn/releases/tag/v0.2)
+
+
+
+
+
+### Wandering Inn: The Game - Alayna Montoya
+[Wandering Inn](https://alaynar.github.io/wanderingInnGame/wig/index.html)
+
+[v0.1](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.1)
+
+[v0.2](https://github.com/alaynar/wanderingInnGame/releases/tag/v0.2)
+
+<img src="./art/wanderingInnGame_v02.gif" alt="Start New Game" height="128"/>
+
+
+
+
+
+### Zombie Bash - [Aren Trombley (arentschool), Garrett Turner (gturner9371213), Tyreke Hetzel (Hakka2424), Robert J. Armendariz (RobRob7)]
+[Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
+
+[v0.2](https://github.com/RobRob7/Team-Zombie-Bash/releases/tag/v0.2)
+
+<img src="./art/zombiebash_v02.gif" alt="Zombie Bash menus and gameplay" height="128"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -288,10 +334,3 @@ While doing a routine spacewalk, your ship was attacked by interdimensional alie
 [v.2](https://github.com/shafiqaust/gitT6Lightning/releases/tag/v0.2)
 
 <img src="./art/t6-game-gif.png" alt="Lostronaut" height="128"/>
-
-### Neon Dream-On Joyride - Siva Bonia, Joshua Wilson
-[Neon Dream-On](https://shiva1-d.github.io/Team_Project/game_project/index.html)
-
-[v0.2](https://github.com/Shiva1-D/Team_Project/releases/tag/v0.2)
-
-<img src="./art/NeonDream-On_v02.gif" alt="womp womp no dream-on" height="128"/>
