@@ -15,12 +15,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 - [GAME CHANGERS](#GAME-CHANGERS---Fayaz-Shaik-Jyothiswaroop-Koyya-Mahesh-Maddineni-Vivekananda-Reddy-Pyda-Vivek-Reddy-Suram)
 - [Neon Dream-On Joyride](#neon-dream-on-joyride---siva-bonia-joshua-wilson)
 - [Roomate Studios](#Roomate-Studios---Matthew-Melendez-Rogelio-Long)
-- [Rust Rescue !!MISSING!!](#)
+- [Rust Rescue](#rust-rescue---ahmedbony-xindi-z)
 - [Space Marshall](#Space-Marshall---chiagozie-Emelife-Julio-Estrada-Kwabena-Adu-Agyemang-Mauricio-Munoz-Sayantan-Maity)
 - [*Totally NOT Adderall Abusers*](#totally-not-adderall-abusers---alex-paque-garns-jd-lepinski-matthew-quinones)
-- [Wake Up !!MISSING!!](#)
+- [Wake Up](#wake-up---elijah-nix)
 - [Wandering Inn: The Game](#wandering-inn-the-game---alayna-montoya)
-- [Zombie Bash](#zombie-bash---arentschool-gturner9371213-hakka2424-robrob7)
+- [Zombie Bash](#zombie-bash---aren-trombley-arentschool-garrett-turner-gturner9371213-tyreke-hetzel-hakka2424-robert-j-armendariz-robrob7)
 
 
 ### Lightning Games
@@ -186,6 +186,12 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 <img src="./art/MovingIn.gif" alt="MovingIn gameplay" height="128"/>
 
 [v0.2](https://github.com/apgarns/MovingIn/releases/tag/v0.2)
+
+
+
+
+
+### Wake Up - [Elijah Nix]
 
 
 
