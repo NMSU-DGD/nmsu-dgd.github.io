@@ -85,8 +85,11 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### BOOM! - Christopher Biekeu, Indronil Bhattacharjee, Mingfang Zhu, Redwan Ul Haq Choyon, Sarhan Osman Bhuiya
 [BOOM!] We cannot host the game in github.io site because of the .pck file being larger than 100MB github limit. We will show the game functioning in the class.
 
-[v0.1](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v1.0)
-[v0.2](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v2.0)
+[v1.0](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v1.0)
+
+[v2.0](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v2.0)
+
+[v3.0](https://github.com/Indronil-Prince/BOOM-Digital-Game-Design-Project/releases/tag/v3.0)
 
 
 <img src="./art/samuel-gif.gif" alt="Dialogue Example" height="128"/>
