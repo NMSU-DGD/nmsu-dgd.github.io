@@ -216,9 +216,9 @@ Projects are organized by team. Each team has the animated gif of their logo, an
 ### Zombie Bash - [Aren Trombley (arentschool), Garrett Turner (gturner9371213), Tyreke Hetzel (Hakka2424), Robert J. Armendariz (RobRob7)]
 [Zombie Bash](https://robrob7.github.io/Team-Zombie-Bash/WebGame/index.html)
 
-[v0.2](https://github.com/RobRob7/Team-Zombie-Bash/releases/tag/v0.2)
+[v0.3](https://github.com/RobRob7/Team-Zombie-Bash/releases/tag/v0.3)
 
-<img src="./art/zombiebash_v02.gif" alt="Zombie Bash menus and gameplay" height="128"/>
+<img src="./art/zombiebash_v03.gif" alt="Zombie Bash menus and gameplay" height="128"/>
 
 
 
