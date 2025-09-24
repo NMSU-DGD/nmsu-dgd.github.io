@@ -6,7 +6,7 @@ Projects are organized by Game Jams. For each Jam, each team should have gif pre
 
 ## Contents
 
-### [Escalator] (https://bilhamil.github.io/Escalator/)
+### [Escalator](https://bilhamil.github.io/Escalator/)
 <a href="https://bilhamil.github.io/Escalator/" target="_blank"><img src="./art/escalator.gif" alt="Animation of a game." width="256"/></a><br/> 
 All of Us<br/> 
 [Release v1.0](https://github.com/bilhamil/Escalator-Demo-Game/releases/tag/v1.0)
