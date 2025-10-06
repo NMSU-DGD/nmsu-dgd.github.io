@@ -13,7 +13,13 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-#### Team Game Placeholder
+#### [Arena Boss Rush] (https://wenyangnmsu.github.io/Boss_fight_Game_Jam_1/)
+<a href="https://wenyangnmsu.github.io/Boss_fight_Game_Jam_1/" target="_blank"><img src="./art/ABR.gif" alt="Animation of a game." width="256"/></a><br/> 
+Wen Yang <br/>
+Aniswar Asokkumar<br/>
+Nana Affram <br/>
+[Release v0.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-dodge-dash-games/tree/main/arena-boss-clash)
+
 
 #### Team Game Placeholder
 
