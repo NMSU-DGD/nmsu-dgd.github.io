@@ -13,7 +13,11 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-#### AntTeam
+### [Mindhunter](<https://STeel-5255.github.io/Mindhunter/>)
+<a href="https://STeel-5255.github.io/Mindhunter/" target="_blank"><img src="./art/Mindhunter Preview.gif" alt="Animation of a game." width="256"/></a><br/> 
+< Si, Datta, Manusha, Tajwarh, Isaiah ><br/> 
+[Mindhunter v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-sandman-productions/releases/tag/Assets)
+
 ### [AntVenture](<link to live game demo>)
 <a href="<link to live game demo>" target="_blank"><img src="<./art/AntVenture.gif>" alt="Animation of a game." width="256"/></a><br/> 
 < List of team members ><br/> 
