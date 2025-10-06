@@ -29,3 +29,8 @@ Si, Datta, Manusha, Tajwarh, Isaiah <br/>
 < List of team members ><br/> 
 Naziya, Victoria, Renae <br/>
 [Release v1.0](https://hunter-byte-afk.github.io/AntVenture/ANTventureLost%20in%20the%20Colony.html)
+
+#### [Lost in the Sauce](<https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/ >)
+<a href="https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/" target="_blank"><img src="./art/Sauce.gif" alt="Animation of a game." width="256"/></a><br/> 
+Carson, Diego, Emma, Elias, Renee C, Uziah <br/> 
+[Lost In The Sauce v1.0](https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/)
