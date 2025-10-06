@@ -14,7 +14,7 @@ All of Us<br/>
 ### Game Jam 1 (Platformer) Games
 
 ### [Mindhunter](<link to live game demo>)
-<a href="<link to live game demo>" target="_blank"><img src="<2025-3/art/Mindhunter Preview.gif>" alt="Animation of a game." width="256"/></a><br/> 
+<a href="<link to live game demo>" target="_blank"><img src="2025-3/art/Mindhunter Preview.gif/"> alt="Animation of a game." width="256"/></a><br/> 
 < List of team members ><br/> 
 [Release v1.0](<link to game release>)
 
