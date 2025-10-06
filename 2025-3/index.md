@@ -13,7 +13,7 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-### [Mindhunter](<https://STeel-5255.github.io/Mindhunter>)
+### [Mindhunter](<https://STeel-5255.github.io/Mindhunter/>)
 <a href="https://STeel-5255.github.io/Mindhunter/" target="_blank"><img src="./art/Mindhunter Preview.gif" alt="Animation of a game." width="256"/></a><br/> 
 < List of team members ><br/> 
 [Release v1.0](<link to game release>)
