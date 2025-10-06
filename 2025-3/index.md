@@ -13,16 +13,18 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-#### AntTeam
-### [AntVenture](<link to live game demo>)
-<a href="<link to live game demo>" target="_blank"><img src="./art/AntVenture.gif" alt="Animation of a game." width="256"/></a><br/> 
+#### [Arena Boss Rush](https://wenyangnmsu.github.io/Boss_fight_Game_Jam_1/)
+<a href="https://wenyangnmsu.github.io/Boss_fight_Game_Jam_1/" target="_blank"><img src="./art/ABR.gif" alt="Animation of a game." width="256"/></a><br/> 
+Wen Yang, Aniswar Asokkumar, Nana Affram <br/>
+[Release v0.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-dodge-dash-games/tree/main/arena-boss-clash)
+
+#### [Mindhunter](<https://STeel-5255.github.io/Mindhunter/>)
+<a href="https://STeel-5255.github.io/Mindhunter/" target="_blank"><img src="./art/Mindhunter Preview.gif" alt="Animation of a game." width="256"/></a><br/> 
+Si, Datta, Manusha, Tajwarh, Isaiah <br/> 
+[Mindhunter v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-sandman-productions/releases/tag/Assets)
+
+#### [AntVenture](https://nmsu-digital-game-design.github.io/game-jam-1-game-antteam/AntVenture/ANTventureLost%20in%20the%20Colony.html)
+<a href="https://nmsu-digital-game-design.github.io/game-jam-1-game-antteam/AntVenture/ANTventureLost%20in%20the%20Colony.html" target="_blank"><img src="./art/AntVenture.gif" alt="Animation of a game." width="256"/></a><br/> 
 < List of team members ><br/> 
-< Naziya ><br/>
-< Victoria ><br/>
-< Renae ><br/>
+Naziya, Victoria, Renae <br/>
 [Release v1.0](https://nmsu-digital-game-design.github.io/game-jam-1-game-antteam/AntVenture/ANTventureLost%20in%20the%20Colony.html)
-#### Team Game Placeholder
-
-#### Team Game Placeholder
-
-#### Team Game Placeholder
