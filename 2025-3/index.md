@@ -16,7 +16,7 @@ All of Us<br/>
 ### [Mindhunter](<https://STeel-5255.github.io/Mindhunter/>)
 <a href="https://STeel-5255.github.io/Mindhunter/" target="_blank"><img src="./art/Mindhunter Preview.gif" alt="Animation of a game." width="256"/></a><br/> 
 < Si, Datta, Manusha, Tajwarh, Isaiah ><br/> 
-[Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-sandman-productions/tree/main/Releases/Mindhunter%20v1.0)
+[Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-1-game-sandman-productions/releases/tag/Assets)
 
 #### Team Game Placeholder
 
