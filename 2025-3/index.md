@@ -13,8 +13,14 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-#### Team Game Placeholder
-
+#### AntTeam
+### [AntVenture](<link to live game demo>)
+<a href="<link to live game demo>" target="_blank"><img src="<./art/AntVenture.gif>" alt="Animation of a game." width="256"/></a><br/> 
+< List of team members ><br/> 
+< Naziya ><br/>
+< Victoria ><br/>
+< Renae ><br/>
+[Release v1.0](https://hunter-byte-afk.github.io/AntVenture/ANTventureLost%20in%20the%20Colony.html)
 #### Team Game Placeholder
 
 #### Team Game Placeholder
