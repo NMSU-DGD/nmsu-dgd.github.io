@@ -13,7 +13,10 @@ All of Us<br/>
 
 ### Game Jam 1 (Platformer) Games
 
-#### Team Game Placeholder
+### [Mindhunter](<link to live game demo>)
+<a href="<link to live game demo>" target="_blank"><img src="<link to game gif>" alt="Animation of a game." width="256"/></a><br/> 
+< List of team members ><br/> 
+[Release v1.0](<link to game release>)
 
 #### Team Game Placeholder
 
