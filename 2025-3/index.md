@@ -6,6 +6,11 @@ Projects are organized by Game Jams. For each Jam, each team should have a gif p
 
 ## Contents
 
+#### [Lost in the Sauce](<https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/ >)
+<a href="https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/" target="_blank"><img src="./art/Sauce.gif" alt="Animation of a game." width="256"/></a><br/> 
+Carson, Diego, Emma, Elias, Renee C, Uziah <br/> 
+[Lost In The Sauce v1.0](https://nmsu-digital-game-design.github.io/game-jam-1-game-lost-in-the-sauce/)
+
 ### [Escalator the Capybara (In-Class Game)](https://bilhamil.github.io/Escalator/)
 <a href="https://bilhamil.github.io/Escalator/" target="_blank"><img src="./art/escalator.gif" alt="Animation of a game." width="256"/></a><br/> 
 All of Us<br/> 
