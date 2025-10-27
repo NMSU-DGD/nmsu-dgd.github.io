@@ -36,7 +36,7 @@ Naziya, Victoria, Renae <br/>
 
 
 ### Game Jam 2 (Multiplayer) Games
-### [Room Rush] (https://wenyangnmsu.github.io/RoomrushPublish/)
+### [Room Rush](https://wenyangnmsu.github.io/RoomrushPublish/)
 <a href="https://wenyangnmsu.github.io/RoomrushPublish/" target="_blank"><img src="./art/roomrush.gif" alt="Animation of a game." width="256"/></a><br/> 
 Wen Yang <br/>
 Diego Lara <br/>
