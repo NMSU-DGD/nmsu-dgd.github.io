@@ -57,7 +57,7 @@ Victoria Trevino, Nana Affram, Uziah Wilson <br/>
 
 ### [PostPals](https://carsonsiegrist.github.io/gj2-post-pals/)
 <a href="https://carsonsiegrist.github.io/gj2-post-pals/" target="_blank">
-  <img src="https://raw.githubusercontent.com/NMSU-Digital-Game-Design/game-jam-2-messengers/main/gif.gif" 
+  <img src="./art/postpals.gif" 
        alt="Gameplay animation of PostPals." width="256"/>
 </a><br/>
 Renee Catanach <br/>
