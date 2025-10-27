@@ -36,7 +36,7 @@ Naziya, Victoria, Renae <br/>
 
 
 ### Game Jam 2 (Multiplayer) Games
-### [Room Rush](https://wenyangnmsu.github.io/RoomrushPublish/)
+### [Room Rush] (https://wenyangnmsu.github.io/RoomrushPublish/)
 <a href="https://wenyangnmsu.github.io/RoomrushPublish/" target="_blank"><img src="./art/roomrush.gif" alt="Animation of a game." width="256"/></a><br/> 
 Wen Yang <br/>
 Diego Lara <br/>
@@ -57,11 +57,11 @@ Victoria Trevino, Nana Affram, Uziah Wilson <br/>
 
 ### [PostPals](https://carsonsiegrist.github.io/gj2-post-pals/)
 <a href="https://carsonsiegrist.github.io/gj2-post-pals/" target="_blank">
-  <img src="https://raw.githubusercontent.com/NMSU-Digital-Game-Design/game-jam-2-messengers/main/gif.gif" 
+  <img src="./art/postpals.gif" 
        alt="Gameplay animation of PostPals." width="256"/>
 </a><br/>
-Renee Catanach <br/>
-Carson Siegrist <br/>
+Renee <br/>
+Carson <br/>
 Isaiah <br/>
 Aniswar <br/>
-[Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-2-postpals/releases/tag/Release)
+[Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-2-messengers)
