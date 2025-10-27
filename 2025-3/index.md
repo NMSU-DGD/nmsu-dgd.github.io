@@ -33,3 +33,13 @@ Si, Datta, Manusha, Tajwarh, Isaiah <br/>
 < List of team members ><br/> 
 Naziya, Victoria, Renae <br/>
 [Release v1.0](https://nmsu-digital-game-design.github.io/game-jam-1-game-antteam/AntVenture/ANTventureLost%20in%20the%20Colony.html)
+
+### Game Jam 2 (Multiplayer) Games
+### [Room Rush] (https://wenyangnmsu.github.io/RoomrushPublish/)
+<a href="https://wenyangnmsu.github.io/RoomrushPublish/" target="_blank"><img src="./art/roomrush.gif" alt="Animation of a game." width="256"/></a><br/> 
+Wen Yang <br/>
+Diego Lara <br/>
+Tajwar-Ul Hoque <br/>
+Naziya Begum <br/>
+[Release v1.0] (https://github.com/NMSU-Digital-Game-Design/game-jam-2-roomrush/releases/tag/Release)
+
