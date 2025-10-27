@@ -65,3 +65,8 @@ Carson Siegrist <br/>
 Isaiah <br/>
 Aniswar <br/>
 [Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-2-postpals/releases/tag/Release)
+
+#### [The Coco-nut Crisis](<https://steel-5255.github.io/The_Coconut_Crisis/>)
+<a href="https://steel-5255.github.io/The_Coconut_Crisis/" target="_blank"><img src="./art/coconut_gif.gif" alt="Animation of a game." width="256"/></a><br/> 
+Renae H, Emma J, Si T, Elias R <br/> 
+[The Coco-nut Crisis v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-2-the-coconuts/releases/tag/Release)
