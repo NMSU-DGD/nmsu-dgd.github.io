@@ -48,3 +48,8 @@ Naziya Begum <br/>
 <a href="https://datta2907.github.io/cash-crew/" target="_blank"><img src="./art/cash-crew.gif" alt="Animation of a game." width="256"/></a><br/>
 Srinivas Madireddy, Manusha Vemulapalli, Michael Gremse <br/>
 [Release v1.0](https://github.com/Datta2907/cash-crew/releases/tag/cash-crew-release)
+
+#### [Midnight Munchies](https://ca55706.github.io/midnightmuchies/)
+<a href="https://datta2907.github.io/cash-crew/" target="_blank"><img src="./art/midnightmunchies.gif" alt="Animation of a game." width="256"/></a><br/>
+Victoria Trevino, Nana Affram, Uziah Wilson <br/>
+[Release v1.1](https://github.com/NMSU-Digital-Game-Design/game-jam-2-midnight-munchies/releases/tag/v1.1)
