@@ -71,9 +71,13 @@ Aniswar <br/>
 Renae H, Emma J, Si T, Elias R <br/> 
 [The Coco-nut Crisis v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-2-the-coconuts/releases/tag/Release)
 
+### Game Jam 3 (Board) Games
+
 #### [Scapegoat](<https://github.com/NMSU-Digital-Game-Design/game-jam-3-scapegoats/releases/tag/BoardGame2>)
 <a href="[https://steel-5255.github.io/The_Coconut_Crisis/](https://github.com/NMSU-Digital-Game-Design/game-jam-3-scapegoats/releases/tag/BoardGame2)" target="_blank"><img src="./art/Scapegoat.jpg" alt="Animation of a game." width="256"/></a><br/> 
 Nana, Uziah, Si, Naziya, Tajwar
+
+### Game Jam 4 Games
 
 #### [Desert Swarm](https://steel-5255.github.io/DesertSwarm/)
 <a href="https://steel-5255.github.io/DesertSwarm/" target="_blank"><img src="./art/DesertSwarm.gif" alt="Animation of a game." width="256"/></a><br/> 
