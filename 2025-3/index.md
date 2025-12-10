@@ -83,3 +83,8 @@ Nana, Uziah, Si, Naziya, Tajwar
 <a href="https://steel-5255.github.io/DesertSwarm/" target="_blank"><img src="./art/DesertSwarm.gif" alt="Animation of a game." width="256"/></a><br/> 
 Si, Datta, Manusha, Tajwarh, Isaiah, Aniswar <br/> 
 [Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-4-swarmingsandman/releases/tag/Release)
+
+#### [Ant Game](https://uziwils.github.io/antgame/)
+<a href="https://uziwils.github.io/antgame/" target="_blank"><img src="./art/antgame.gif" alt="Animation of a game." width="256"/></a><br/> 
+Renee Cantanach, Diego Lara, Carson Siegrist, Elias Rosillo, Wen Yang, Uziah Wilson <br/> 
+[Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-4-ant-game/releases/tag/1.1)
