@@ -83,3 +83,7 @@ Nana, Uziah, Si, Naziya, Tajwar
 <a href="https://steel-5255.github.io/DesertSwarm/" target="_blank"><img src="./art/DesertSwarm.gif" alt="Animation of a game." width="256"/></a><br/> 
 Si, Datta, Manusha, Tajwarh, Isaiah, Aniswar <br/> 
 [Release v1.0](https://github.com/NMSU-Digital-Game-Design/game-jam-4-swarmingsandman/releases/tag/Release)
+
+#### [Angry Bees](https://hunter-byte-afk.github.io/AngryBees/AngryBees.html)
+<a href="https://hunter-byte-afk.github.io/AngryBees/AngryBees.html" target="_blank"><img src="./art/GifAngryBees.gif" alt="Animation of a game." width="256"/></a><br/>
+Emma, Nana, Naziya, Renae, Victoria <br/>
